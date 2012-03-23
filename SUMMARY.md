@@ -7,6 +7,7 @@
 * [Software Resources](guidebook/software.md)
 * [Libre/Open Fonts](guidebook/libre_open_fonts.md)
 * [How To Install FontForge](guidebook/how_to_install_fontforge.md)
+* [How To Earn Money](guidebook/how_to_earn_money.md)
 * [Font Packaging](guidebook/font_packaging.md)
 * [Font Licensing](guidebook/font_licensing.md)
 * [Font Formats](guidebook/font_formats.md)
