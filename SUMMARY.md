@@ -3,6 +3,7 @@
 * [Guidebook](README.md)
 
 * [Vocabulary](guidebook/vocabulary.md)
+* [Typeface Education Design](guidebook/typeface_education_design.md)
 * [Submission Guidelines](guidebook/submission_guidelines.md)
 * [Software Resources](guidebook/software.md)
 * [Related Projects](guidebook/related_projects.md)
