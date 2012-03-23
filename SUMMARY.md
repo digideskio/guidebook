@@ -13,5 +13,6 @@
 * [Font Formats](guidebook/font_formats.md)
 * [Font Design](guidebook/font_design.md)
 * [Font Categorisation](guidebook/font_categorisation.md)
+* [Collaborative Design Workflows](guidebook/collaborative_design_workflows.md)
 
 
