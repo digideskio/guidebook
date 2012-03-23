@@ -10,5 +10,6 @@
 * [Font Packaging](guidebook/font_packaging.md)
 * [Font Formats](guidebook/font_formats.md)
 * [Font Design](guidebook/font_design.md)
+* [Font Categorisation](guidebook/font_categorisation.md)
 
 
