@@ -6,13 +6,13 @@
 		<div id="bodyContent">
 			<h3 id="siteSub">From OFLB</h3>
 			<div id="contentSub"></div>
-									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+									<!-- start content -->
 			<p>Here is a list of books we recommended reading that describe fonts, type design and related matters:
 </p>
 <ul><li> "Computers and typography 1 and 2" by Rosemary Sassoo
 </li><li> "Counterpunch: making type in the sixteenth century; designing typefaces now" by Fred Smeijers
 </li><li> <a title="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style" class="external text" href="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style">"The Elements of Typographic Style"</a> by Robert Bringhurst
-</li><li> <a title="http://www.oreilly.com/catalog/9780596102425/" class="external text" href="http://www.oreilly.com/catalog/9780596102425/">"Fonts &amp; Encodings"</a> by Yannis Haralambous (translation by P. Scott Horne, <a title="http://www.oreilly.fr/catalogue/284177273X" class="external text" href="http://www.oreilly.fr/catalogue/284177273X">"Fontes et codages"</a> is the French original)
+</li><li> <a title="http://www.oreilly.com/catalog/9780596102425/" class="external text" href="http://www.oreilly.com/catalog/9780596102425/">"Fonts & Encodings"</a> by Yannis Haralambous (translation by P. Scott Horne, <a title="http://www.oreilly.fr/catalogue/284177273X" class="external text" href="http://www.oreilly.fr/catalogue/284177273X">"Fontes et codages"</a> is the French original)
 </li><li> "Letters of credit: a view of type design" by Walter Tracy (old time head of Linotype's drawing office)
 </li><li> "Modern Typography" by Robin Kinross
 </li><li> "The stroke: theory of writing of the pen" by Gerritt Noordzij 
