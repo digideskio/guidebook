@@ -17,19 +17,3 @@
 </li><li> X-Windows PCF
 </li><li> METAFONT
 </li></ul>
-
-<!-- 
-NewPP limit report
-Preprocessor node count: 3/1000000
-Post-expand include size: 0/2097152 bytes
-Template argument size: 0/2097152 bytes
-Expensive parser function count: 0/100
--->
-
-<!-- Saved in parser cache with key openfontlibrary-mw_:pcache:idhash:1555-0!1!0!!en!2!edit=0 and timestamp 20120322132430 -->
-<div class="printfooter">
-Retrieved from "<a href="http://openfontlibrary.org/wiki/Font_formats">http://openfontlibrary.org/wiki/Font_formats</a>"</div>
-						<!-- end content -->
-						<div class="visualClear"></div>
-		</div>
-	</div>
