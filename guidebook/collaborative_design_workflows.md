@@ -22,7 +22,7 @@
 <blockquote>
 Revision control (also known as version control, source control or (source) code management (SCM)) is the management of changes to documents, programs, and other information stored as computer files. It is most commonly used in software development, where a team of people may be changing the same files.
 </blockquote>
-<a id="Centralised_and_distributed_versioning" name="Centralised_and_distributed_versioning"></a><h3> <span class="mw-headline"> Centralised and distributed versioning </span></h3>
+<h4> Centralised and distributed versioning </h4>
 <blockquote>
 Distributed revision control (DRCS) takes a peer-to-peer approach, as opposed to the client-server approach of centralized systems. Rather than a single, central repository on which clients synchronize, each peer’s working copy of the codebase is a bona-fide repository. Synchronization is conducted by exchanging patches (change-sets) from peer to peer.
 </blockquote>
@@ -48,7 +48,7 @@ Distributed revision control (DRCS) takes a peer-to-peer approach, as opposed to
 <a title="http://github.com/rbmntjs/open-baskerville/tree/bc03fca9968df8683b3df2ae9afb0185c4acf433/OpenBaskerville.ufo" class="external free" href="http://github.com/rbmntjs/open-baskerville/tree/bc03fca9968df8683b3df2ae9afb0185c4acf433/OpenBaskerville.ufo">http://github.com/rbmntjs/open-baskerville/tree/bc03fca9968df8683b3df2ae9afb0185c4acf433/OpenBaskerville.ufo</a>
 </p><p><br>
 </p>
-<a id="Workflows_and_tools" name="Workflows_and_tools"></a><h3> <span class="mw-headline"> Workflows and tools </span></h3>
+<h4> Workflows and tools </h4>
 <p>The <a title="http://freehg.org/u/taejo/ffhg/" class="external text" href="http://freehg.org/u/taejo/ffhg/">ff-hg python plugin for FontForge</a> is a simple interface to the Mercurial version control system. To install it, make sure you have Mercurial installed using your operating system's usual way. Then open the Terminal and run the following command:
 </p>
 <pre>   mkdir ~/.FontForge/python; cd ~/.FontForge/python; 
