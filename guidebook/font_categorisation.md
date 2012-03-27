@@ -1,6 +1,6 @@
 <h1>Font Categorisation</h1>
 
-			<a id="Font_Categorisation" name="Font_Categorisation"></a><h4> <span class="mw-headline"> Font Categorisation </span></h4>
+<h4> Font Categorisation </h4>
 <ul><li> Based on: Font on which it is based on, if any (example: Bitstream Vera)
 </li><li> Ranges:   Unicode group ranges (like Latin, Greek, Greek Extended)
 </li><li> OpenType layout tables:   (like Latin, Cyrillic, Devanagari)
