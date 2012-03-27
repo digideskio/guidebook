@@ -46,7 +46,7 @@ Distributed revision control (DRCS) takes a peer-to-peer approach, as opposed to
 </p><p>In a rather spectacular turn of events (at least in my mind) GitHub recently implemented UFO support, including visual diffs: <a title="http://github.com/rbmntjs/open-baskerville/commit/c5b3322fb49baa3104363ca98546c684d940c0ef" class="external free" href="http://github.com/rbmntjs/open-baskerville/commit/c5b3322fb49baa3104363ca98546c684d940c0ef">http://github.com/rbmntjs/open-baskerville/commit/c5b3322fb49baa3104363ca98546c684d940c0ef</a>
 </p><p>And visualisations of UFO typefaces:
 <a title="http://github.com/rbmntjs/open-baskerville/tree/bc03fca9968df8683b3df2ae9afb0185c4acf433/OpenBaskerville.ufo" class="external free" href="http://github.com/rbmntjs/open-baskerville/tree/bc03fca9968df8683b3df2ae9afb0185c4acf433/OpenBaskerville.ufo">http://github.com/rbmntjs/open-baskerville/tree/bc03fca9968df8683b3df2ae9afb0185c4acf433/OpenBaskerville.ufo</a>
-</p><p><br>
+</p><p>
 </p>
 <h4> Workflows and tools </h4>
 <p>The <a title="http://freehg.org/u/taejo/ffhg/" class="external text" href="http://freehg.org/u/taejo/ffhg/">ff-hg python plugin for FontForge</a> is a simple interface to the Mercurial version control system. To install it, make sure you have Mercurial installed using your operating system's usual way. Then open the Terminal and run the following command:
