@@ -18,7 +18,7 @@
 </li>
 </ul>
 </td></tr></tbody></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
-<a id="Versioning_.28revision_control.29" name="Versioning_.28revision_control.29"></a><h2> <span class="mw-headline"> Versioning (revision control) </span></h2>
+<a id="Versioning_.28revision_control.29" name="Versioning_.28revision_control.29"></a><h4> Versioning (revision control) </h4>
 <blockquote>
 Revision control (also known as version control, source control or (source) code management (SCM)) is the management of changes to documents, programs, and other information stored as computer files. It is most commonly used in software development, where a team of people may be changing the same files.
 </blockquote>
