@@ -11,7 +11,7 @@
 </li></ul>
 <p>Something similar to the <a title="http://en.wikipedia.org/wiki/PANOSE" class="external text" href="http://en.wikipedia.org/wiki/PANOSE">PANOSE</a> system could be used, and there is original but unused research by Catherine Dixon in her PhD from the Central St Martins college in London. 
 </p>
-<a id="Notes" name="Notes"></a><h4> <span class="mw-headline"> Notes </span></h4>
+<h4> Notes </h4>
 <ul><li> I am not sure if there are any non-Unicode fonts that are usable today. I would prefer to dump/rubbish non-Unicode fonts, or just convert to Unicode.
 </li><li> The above list was inspired by <a title="http://www.alanwood.net/unicode/fonts.html" class="external autonumber" href="http://www.alanwood.net/unicode/fonts.html">[1]</a>
 </li><li> Sample images can be created with OpenOffice.org, then screenshot to PNG.
