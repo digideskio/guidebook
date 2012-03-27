@@ -1,12 +1,6 @@
 <h1>Book Recommendations</h1>
 
-<div id="content">
-		<a id="top" name="top"></a>
-				<h1 class="firstHeading" id="firstHeading">Books</h1>
-		<div id="bodyContent">
-			<h3 id="siteSub">From OFLB</h3>
-			<div id="contentSub"></div>
-									<!-- start content -->
+
 			<p>Here is a list of books we recommended reading that describe fonts, type design and related matters:
 </p>
 <ul><li> "Computers and typography 1 and 2" by Rosemary Sassoo
