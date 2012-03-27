@@ -35,7 +35,7 @@
 <a id="Italy" name="Italy"></a><h4> <span class="mw-headline"> Italy </span></h4>
 <p><a title="http://www.polidesign.net/type/" class="external free" href="http://www.polidesign.net/type/">http://www.polidesign.net/type/</a>
 </p>
-<a id="Switzerland" name="Switzerland"></a><h2> <span class="mw-headline"> Switzerland </span></h2>
+<a id="Switzerland" name="Switzerland"></a><h4> <span class="mw-headline"> Switzerland </span></h4>
 <p>ECAL offers an undergraduate degree - <a title="http://www.ecal.ch/bachelors_design_graphique.php" class="external free" href="http://www.ecal.ch/bachelors_design_graphique.php">http://www.ecal.ch/bachelors_design_graphique.php</a> - and a Masters degree - <a title="http://www.ecal.ch/masters_art_direction.php?lang=en" class="external free" href="http://www.ecal.ch/masters_art_direction.php?lang=en">http://www.ecal.ch/masters_art_direction.php?lang=en</a>
 </p>
 <a id="Workshops" name="Workshops"></a><h1> <span class="mw-headline"> Workshops </span></h1>
