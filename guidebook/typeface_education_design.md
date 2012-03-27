@@ -23,16 +23,16 @@
 <a id="UK" name="UK"></a><h4> <span class="mw-headline"> UK </span></h4>
 <p>The University of Reading offers a postgraduate Masters (MA) course in Typeface Design, over 12 or 24 months: <a title="http://www.typedesign.rdg.ac.uk/" class="external free" href="http://www.typedesign.rdg.ac.uk/">http://www.typedesign.rdg.ac.uk/</a>
 </p>
-<a id="Netherlands" name="Netherlands"></a><h2> <span class="mw-headline"> Netherlands </span></h2>
+<a id="Netherlands" name="Netherlands"></a><h4> <span class="mw-headline"> Netherlands </span></h4>
 <p><a title="http://www.kabk.nl" class="external text" href="http://www.kabk.nl">The Royal Academy at The Hague</a> offers a postgraduate certificate in Type & Mediam, over 9 months: <a title="http://just.letterror.com/ltrwiki/TypeMedia" class="external free" href="http://just.letterror.com/ltrwiki/TypeMedia">http://just.letterror.com/ltrwiki/TypeMedia</a>
 </p>
-<a id="France" name="France"></a><h2> <span class="mw-headline"> France </span></h2>
+<a id="France" name="France"></a><h4> <span class="mw-headline"> France </span></h4>
 <p>École Estienne in Paris offers an undergraduate Diplôme des Métiers d'Art (DMS), over 24 months: <a title="http://www.ecole-estienne.fr/" class="external free" href="http://www.ecole-estienne.fr/">http://www.ecole-estienne.fr/</a>
 </p>
-<a id="Russia" name="Russia"></a><h2> <span class="mw-headline"> Russia </span></h2>
+<a id="Russia" name="Russia"></a><h4> <span class="mw-headline"> Russia </span></h4>
 <p><a title="http://typoholic.ru/Type&Typography/" class="external free" href="http://typoholic.ru/Type&Typography/">http://typoholic.ru/Type&Typography/</a>
 </p>
-<a id="Italy" name="Italy"></a><h2> <span class="mw-headline"> Italy </span></h2>
+<a id="Italy" name="Italy"></a><h4> <span class="mw-headline"> Italy </span></h4>
 <p><a title="http://www.polidesign.net/type/" class="external free" href="http://www.polidesign.net/type/">http://www.polidesign.net/type/</a>
 </p>
 <a id="Switzerland" name="Switzerland"></a><h2> <span class="mw-headline"> Switzerland </span></h2>
@@ -41,6 +41,6 @@
 <a id="Workshops" name="Workshops"></a><h1> <span class="mw-headline"> Workshops </span></h1>
 <ul><li> <a title="http://www.typeworkshop.com/" class="external free" href="http://www.typeworkshop.com/">http://www.typeworkshop.com/</a>
 </li></ul>
-<a id="See_Also" name="See_Also"></a><h2> <span class="mw-headline"> See Also </span></h2>
+<a id="See_Also" name="See_Also"></a><h4> <span class="mw-headline"> See Also </span></h4>
 <p><a title="Books" href="/wiki/Books">Books</a> (Add the reading lists of these courses to that page?)
 </p>
