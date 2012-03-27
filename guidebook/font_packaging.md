@@ -1,13 +1,6 @@
 <h1>Font Packaging</h1>
 
-<div id="content">
-		<a id="top" name="top"></a>
-				<h1 class="firstHeading" id="firstHeading">Font Packaging</h1>
-		<div id="bodyContent">
-			<h3 id="siteSub">From OFLB</h3>
-			<div id="contentSub"></div>
-									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
-			<p>This page deals with all distribution-related topics.
+<p>This page deals with all distribution-related topics.
 </p>
 <h4> Font archive naming </h4>
 <p>If the font has a suitable license and gets accepted to Debian/Ubuntu/Fedora, for example, it will acquire a name of the form <i>ttf-foundryname-fontfamilyname"</i>
