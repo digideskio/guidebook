@@ -1,6 +1,5 @@
 <h1>Book Recommendations</h1>
 
-
 			<p>Here is a list of books we recommended reading that describe fonts, type design and related matters:
 </p>
 <ul><li> "Computers and typography 1 and 2" by Rosemary Sassoo
@@ -32,18 +31,3 @@
 </li></ul>
 <p>Also check out the <a title="Knowledge Resources" href="/wiki/Knowledge_Resources">Knowledge Resources</a> page with lots of links to other texts on the web...
 </p>
-<!-- 
-NewPP limit report
-Preprocessor node count: 3/1000000
-Post-expand include size: 0/2097152 bytes
-Template argument size: 0/2097152 bytes
-Expensive parser function count: 0/100
--->
-
-<!-- Saved in parser cache with key openfontlibrary-mw_:pcache:idhash:1590-0!1!0!!en!2!edit=0 and timestamp 20120322174110 -->
-<div class="printfooter">
-Retrieved from "<a href="http://openfontlibrary.org/wiki/Books">http://openfontlibrary.org/wiki/Books</a>"</div>
-						<!-- end content -->
-						<div class="visualClear"></div>
-		</div>
-	</div>
