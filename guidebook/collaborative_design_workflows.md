@@ -26,7 +26,7 @@ Revision control (also known as version control, source control or (source) code
 <blockquote>
 Distributed revision control (DRCS) takes a peer-to-peer approach, as opposed to the client-server approach of centralized systems. Rather than a single, central repository on which clients synchronize, each peer’s working copy of the codebase is a bona-fide repository. Synchronization is conducted by exchanging patches (change-sets) from peer to peer.
 </blockquote>
-<a id="Versioning_Systems" name="Versioning_Systems"></a><h3> <span class="mw-headline"> Versioning Systems </span></h3>
+<h4> Versioning Systems </h4>
 <ul><li> Centralised
 <ul><li> CVS was the first widely used free tool. SVN is the one that is currently ubiquitous.
 </li></ul>
