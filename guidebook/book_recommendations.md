@@ -1,6 +1,6 @@
 <h1>Book Recommendations</h1>
 
-			<p>Here is a list of books we recommended reading that describe fonts, type design and related matters:
+<p>Here is a list of books we recommended reading that describe fonts, type design and related matters:
 </p>
 <ul><li> "Computers and typography 1 and 2" by Rosemary Sassoo
 </li><li> "Counterpunch: making type in the sixteenth century; designing typefaces now" by Fred Smeijers
@@ -15,7 +15,7 @@
 </li></ul>
 <p><br>
 </p>
-<a id="Cyrillic" name="Cyrillic"></a><h2> <span class="mw-headline"> Cyrillic </span></h2>
+<h4> Cyrillic </h4>
 <ul><li> <a title="http://www.atypi.org/05_About_us/70_publications/50_LCT/" class="external text" href="http://www.atypi.org/05_About_us/70_publications/50_LCT/">"Language Culture Type: international type design in the age of Unicode"</a> edited by John D. Berry, designed by Maxim Zhukov, and published by Graphis - good essays on complex scripts including Cyrillic
 </li><li> <a title="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/" class="external text" href="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/">Yuri Gordon wrote an excellent book on type design for the Cyrillic script</a>
 </li><li> The first edition of "Typography Papers" published by the University of Reading's Department of Typography.
@@ -23,7 +23,7 @@
 </li></ul>
 <p><br>
 </p>
-<a id="External_Links" name="External_Links"></a><h2> <span class="mw-headline"> External Links </span></h2>
+<h4> External Links </h4>
 <ul><li> <a title="http://www.typebooks.org/" class="external free" href="http://www.typebooks.org/">http://www.typebooks.org/</a>
 </li><li> <a title="http://www.owlsoup.com/foamtrain/books.html" class="external free" href="http://www.owlsoup.com/foamtrain/books.html">http://www.owlsoup.com/foamtrain/books.html</a>
 </li><li> <a title="http://www.mccannas.com/recommend/type.htm" class="external free" href="http://www.mccannas.com/recommend/type.htm">http://www.mccannas.com/recommend/type.htm</a>
