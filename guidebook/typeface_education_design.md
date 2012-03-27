@@ -20,7 +20,7 @@
 </ul>
 </td></tr></tbody></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
 <a id="College_Courses" name="College_Courses"></a><h1> <span class="mw-headline"> College Courses </span></h1>
-<a id="UK" name="UK"></a><h2> <span class="mw-headline"> UK </span></h2>
+<a id="UK" name="UK"></a><h4> <span class="mw-headline"> UK </span></h4>
 <p>The University of Reading offers a postgraduate Masters (MA) course in Typeface Design, over 12 or 24 months: <a title="http://www.typedesign.rdg.ac.uk/" class="external free" href="http://www.typedesign.rdg.ac.uk/">http://www.typedesign.rdg.ac.uk/</a>
 </p>
 <a id="Netherlands" name="Netherlands"></a><h2> <span class="mw-headline"> Netherlands </span></h2>
