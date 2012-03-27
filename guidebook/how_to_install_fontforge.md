@@ -1,17 +1,10 @@
 <h1>How To Install FontForge</h1>
 
-<div id="content">
-		<a id="top" name="top"></a>
-				<h1 class="firstHeading" id="firstHeading">How to install FontForge</h1>
-		<div id="bodyContent">
-			<h3 id="siteSub">From OFLB</h3>
-			<div id="contentSub"></div>
-									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
-			<p>This page is step by step guide to installing <a title="FontForge" href="/wiki/FontForge">FontForge</a> for beginners.
+<p>This page is step by step guide to installing <a title="FontForge" href="/wiki/FontForge">FontForge</a> for beginners.
 </p><p>The first part covers installing FontForge's "official" releases.
 </p><p>The second part of this page explains how some FontForge users install the "source code" version of FontForge. Many people do this so they can use the very latest features, and have the very latest bug fixes. This version is updated almost daily. If you want to report a problem of FontForge, we recommend that you try reproducing your problem with the source code version - you may find your problem has already been fixed! We explain how to install FontForge from source code both for the first time, and how to update it too.
 </p>
-<table summary="Contents" class="toc" id="toc"><tbody><tr><td><div id="toctitle"><h2>Contents</h2> <span class="toctoggle">[<a id="togglelink" class="internal" href="javascript:toggleToc()">hide</a>]</span></div>
+<h4>Contents</h4>
 <ul>
 <li class="toclevel-1"><a href="#Official_Releases"><span class="tocnumber">1</span> <span class="toctext">Official Releases</span></a>
 <ul>
@@ -34,9 +27,9 @@
 </li>
 </ul>
 </td></tr></tbody></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
-<a id="Official_Releases" name="Official_Releases"></a><h2> <span class="mw-headline"> Official Releases </span></h2>
+<h4> Official Releases </h4>
 <p><b>Please edit this page and explain how to install FontForge step by step for Ubuntu, Fedora, Mac OS X and Windows!</b>
-</p><p><a title="https://sourceforge.net/project/showfiles.php?group_id=103338&amp;package_id=111040" class="external text" href="https://sourceforge.net/project/showfiles.php?group_id=103338&amp;package_id=111040">On the SourceForge Download page</a> you will see a list of 7 versions of FontForge. These are for the various kinds of computers people use today, and their names are packed with technical details. This means they can seem a little cryptic, so here is our guide to them:
+</p><p><a title="https://sourceforge.net/project/showfiles.php?group_id=103338&package_id=111040" class="external text" href="https://sourceforge.net/project/showfiles.php?group_id=103338&package_id=111040">On the SourceForge Download page</a> you will see a list of 7 versions of FontForge. These are for the various kinds of computers people use today, and their names are packed with technical details. This means they can seem a little cryptic, so here is our guide to them:
 </p>
 <ul><li> <b>GNU/Linux on 32 bit PCs</b>: fontforge-YYYYMMDD.i386.rpm
 </li><li> <b>GNU/Linux on 64 bit PCs</b>: fontforge-YYYYMMDD.x86_64.rpm
@@ -52,7 +45,7 @@
 <p>These examples include "YYYYMMDD" that will appear as numbers for the year, month and date of publication (eg, 20081103).
 </p><p>The FontForge manual contains instructions for installing these packages on <a title="http://fontforge.sourceforge.net/nix-install.html" class="external text" href="http://fontforge.sourceforge.net/nix-install.html">GNU/Linux</a>, <a title="http://fontforge.sourceforge.net/mac-install.html" class="external text" href="http://fontforge.sourceforge.net/mac-install.html">Mac OS X</a> and <a title="http://fontforge.sourceforge.net/ms-install.html" class="external text" href="http://fontforge.sourceforge.net/ms-install.html">Windows</a>. There is also an <a title="http://www.geocities.jp/meir000/fontforge/" class="external text" href="http://www.geocities.jp/meir000/fontforge/">Unofficial Windows Version</a>.
 </p>
-<a id="Mac_OS_X" name="Mac_OS_X"></a><h3> <span class="mw-headline"> Mac OS X </span></h3>
+<h4> Mac OS X </h4>
 <p><b>Please edit this line with exact details on how to do each step</b>
 </p><p>To solve copy-paste problems with FontForge and also Inkscape, change the X11 preferences' "Pasteboard" settings to that "Enable syncing" is disabled.
 </p><p>The best way to experience free software like FontForge is to run GNU/Linux on your Mac. When you use FontForge on Mac OS X, you make it much easier to move to GNU/Linux in the future.
@@ -67,27 +60,27 @@
 </pre>
 <p>And make it contain the following:
 </p>
-<pre>   &lt;?xml version="1.0"?&gt;
-   &lt;!DOCTYPE fontconfig SYSTEM "fonts.dtd"&gt;
-   &lt;fontconfig&gt;
-           &lt;dir&gt;/System/Library/Fonts&lt;/dir&gt;
-           &lt;dir&gt;/Library/Fonts&lt;/dir&gt;
-           &lt;dir&gt;~/Library/Fonts&lt;/dir&gt;
-   &lt;/fontconfig&gt;
+<pre>   <?xml version="1.0"?>
+   <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+   <fontconfig>
+           <dir>/System/Library/Fonts</dir>
+           <dir>/Library/Fonts</dir>
+           <dir>~/Library/Fonts</dir>
+   </fontconfig>
 </pre>
 <p>5. Go to the Finder and find the FontForge application in /Applications, and drag it to your Dock.
 </p><p>6. Run run FontForge from the Dock.
 </p>
-<a id="Source_Code" name="Source_Code"></a><h2> <span class="mw-headline"> Source Code </span></h2>
-<a id="GNU.2FLinux" name="GNU.2FLinux"></a><h3> <span class="mw-headline"> GNU/Linux </span></h3>
+<h4> Source Code </h4>
+<h4> GNU/Linux </h4>
 <a id="Install_the_required_programs" name="Install_the_required_programs"></a><h4> <span class="mw-headline"> Install the required programs </span></h4>
 <p>The parts in the light blue boxes are commands that should be typed (copy and pasted) into your "Terminal" program.
 </p><p>When using Debian or Ubuntu:
 </p>
 <pre>   sudo aptitude update;
-   sudo aptitude install libpng12-dev zlibc zlib1g-dev libtiff-dev \
-   libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev \
-   xorg-dev subversion cvs gettext git libpango1.0-dev \
+   sudo aptitude install libpng12-dev zlibc zlib1g-dev libtiff-dev 
+   libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev 
+   xorg-dev subversion cvs gettext git libpango1.0-dev 
    libcairo2-dev;
 </pre>
 <p>and enter your password when prompted.
@@ -95,8 +88,8 @@
 </p>
 <pre>   su;
    yum update;
-   yum install libpng-devel zlib-devel libtiff-devel giflib-devel \
-   libjpeg-devel libxml2-devel libuninameslist-devel cairo-devel \
+   yum install libpng-devel zlib-devel libtiff-devel giflib-devel 
+   libjpeg-devel libxml2-devel libuninameslist-devel cairo-devel 
    python-devel cvs git subversion mercurial pango-devel;
    yum groupinstall x-software-development development-tools;
    exit;
@@ -154,9 +147,9 @@
 <p>Now configure, compile and install FontForge:
 </p>
 <pre>   cd ~/src/fontforge/;
-   ./configure --enable-pyextension --enable-type3 --enable-pasteafter \
-   --enable-tilepath --enable-double --enable-device-tables \
-   --with-capslock-for-alt --with-freetype-bytecode \
+   ./configure --enable-pyextension --enable-type3 --enable-pasteafter 
+   --enable-tilepath --enable-double --enable-device-tables 
+   --with-capslock-for-alt --with-freetype-bytecode 
    --with-freetype-src=../freetype2 --with-x --with-pango;
    make;  
    sudo make install;
@@ -170,18 +163,18 @@
 </p>
 <pre>   /usr/local/bin/fontforge;
 </pre>
-<a id="Mac_OS_X_2" name="Mac_OS_X_2"></a><h3> <span class="mw-headline"> Mac OS X </span></h3>
+<h4>  Mac OS X</h4>
 <p>The procedure for installing FontForge from source code on Mac OS X is the same as for GNU/Linux, above, except that installing the depencies is different. If you install FontForge from source on Mac OS X successfully from scratch, please write up your steps here. 
 </p><p>The official FontForge website has a page about <a title="http://fontforge.sourceforge.net/MacOSX.html" class="external text" href="http://fontforge.sourceforge.net/MacOSX.html">installing FontForge on Mac OS X</a> too.
 </p>
-<a id="Updating_your_source_code" name="Updating_your_source_code"></a><h3> <span class="mw-headline"> Updating your source code </span></h3>
+<h4> Updating your source code </h4>
 <p>You don't have to do all this each time you want to update. Just run the following commands:
 </p>
 <pre>   cd ~/src/libspiro; make clean; svn up; ./configure; make; sudo make install;
    cd ~/src/freetype2; git pull;
    cd ~/src/fontforge; sudo make clean; cvs up -Cd;
-   ./configure --enable-pyextension --enable-type3 --enable-pasteafter \
-   --enable-tilepath --with-capslock-for-alt --with-freetype-bytecode \
+   ./configure --enable-pyextension --enable-type3 --enable-pasteafter 
+   --enable-tilepath --with-capslock-for-alt --with-freetype-bytecode 
    --with-freetype-src=../freetype2 --with-x;
    make; sudo make install;
 </pre>
@@ -190,18 +183,3 @@
 <hr>
 <p>We also publish other information about <a title="FontForge" href="/wiki/FontForge">FontForge</a>, including <a title="How to setup FontForge" href="/wiki/How_to_setup_FontForge">How to setup FontForge</a>.
 </p>
-<!-- 
-NewPP limit report
-Preprocessor node count: 11/1000000
-Post-expand include size: 0/2097152 bytes
-Template argument size: 0/2097152 bytes
-Expensive parser function count: 0/100
--->
-
-<!-- Saved in parser cache with key openfontlibrary-mw_:pcache:idhash:1611-0!1!0!!en!2!edit=0 and timestamp 20120322231248 -->
-<div class="printfooter">
-Retrieved from "<a href="http://openfontlibrary.org/wiki/How_to_install_FontForge">http://openfontlibrary.org/wiki/How_to_install_FontForge</a>"</div>
-						<!-- end content -->
-						<div class="visualClear"></div>
-		</div>
-	</div>
