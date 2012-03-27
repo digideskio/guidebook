@@ -1,12 +1,5 @@
 <h1>Font Design</h1>
 
-<div id="content">
-		<a id="top" name="top"></a>
-				<h1 class="firstHeading" id="firstHeading">Font Design</h1>
-		<div id="bodyContent">
-			<h3 id="siteSub">From OFLB</h3>
-			<div id="contentSub"></div>
-									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
 			<table summary="Contents" class="toc" id="toc"><tbody><tr><td><div id="toctitle"><h2>Contents</h2> <span class="toctoggle">[<a id="togglelink" class="internal" href="javascript:toggleToc()">hide</a>]</span></div>
 <ul>
 <li class="toclevel-1"><a href="#I_am_new_to_font_design._What_should_I_do_to_get_started.3F"><span class="tocnumber">1</span> <span class="toctext">I am new to font design. What should I do to get started?</span></a></li>
@@ -42,7 +35,7 @@
 <a id="I_want_to_revive_a_historic_design" name="I_want_to_revive_a_historic_design"></a><h2> <span class="mw-headline"> I want to revive a historic design </span></h2>
 <p>If you are thinking of doing a "revival" of an existing typeface, make sure its copyright has expired and it is in the worldwide public domain - which is to say, make sure it is more than 70 years since its first publication (Please note that this is not legal advice.)
 </p><p>The "American Type Founders" company went bust and all its typefaces are clearly in the <a title="Public domain" href="/wiki/Public_domain">public domain</a> and are likely to be free of any legal risk. Scans of ATF catalogues are available in our list of <a class="mw-redirect" title="Existing free fonts" href="/wiki/Existing_free_fonts">existing free fonts</a>.
-</p><p>If you want to make a design that is <b>similar</b> to an existing design, you can do that straight away, as long as you are sure to make a new typeface design that is similar, and not copy the design as-is. Essentially, this means having different fundemental aspects. Monotype did this to some ITC typefaces in the early 1990s for Microsoft, and ITC sued them, and Monotype convinced an American court that their changes meant they had created new typeface designs and not copies. The fonts involved in that case are instructive. Here is a search query to learn more: <a title="http://www.google.com/search?q=monotype+itc+microsoft+bookman" class="external free" href="http://www.google.com/search?q=monotype+itc+microsoft+bookman">http://www.google.com/search?q=monotype+itc+microsoft+bookman</a> and here is <a title="https://listserv.heanet.ie/cgi-bin/wa?A2=ind9610&amp;L=typo-l&amp;P=10412" class="external text" href="https://listserv.heanet.ie/cgi-bin/wa?A2=ind9610&amp;L=typo-l&amp;P=10412">David Lemon explaining some details</a>.
+</p><p>If you want to make a design that is <b>similar</b> to an existing design, you can do that straight away, as long as you are sure to make a new typeface design that is similar, and not copy the design as-is. Essentially, this means having different fundemental aspects. Monotype did this to some ITC typefaces in the early 1990s for Microsoft, and ITC sued them, and Monotype convinced an American court that their changes meant they had created new typeface designs and not copies. The fonts involved in that case are instructive. Here is a search query to learn more: <a title="http://www.google.com/search?q=monotype+itc+microsoft+bookman" class="external free" href="http://www.google.com/search?q=monotype+itc+microsoft+bookman">http://www.google.com/search?q=monotype+itc+microsoft+bookman</a> and here is <a title="https://listserv.heanet.ie/cgi-bin/wa?A2=ind9610&L=typo-l&P=10412" class="external text" href="https://listserv.heanet.ie/cgi-bin/wa?A2=ind9610&L=typo-l&P=10412">David Lemon explaining some details</a>.
 </p>
 <a id="How_to_design_a_typeface" name="How_to_design_a_typeface"></a><h2> <span class="mw-headline"> How to design a typeface </span></h2>
 <p>There is generally not that much documentation on how to design a typeface and develop a font in the world, and at the moment zero that is released under a Free license. The Free Font Movement, of which the Open Font Library is an important part, will need to write such documentation as it progresses. 
@@ -60,18 +53,3 @@
 <a id="Not_Legal_Advice.21" name="Not_Legal_Advice.21"></a><h1> <span class="mw-headline"> Not Legal Advice! </span></h1>
 <p><b>None of the contents of this page is legal advice!</b>
 </p>
-<!-- 
-NewPP limit report
-Preprocessor node count: 7/1000000
-Post-expand include size: 0/2097152 bytes
-Template argument size: 0/2097152 bytes
-Expensive parser function count: 0/100
--->
-
-<!-- Saved in parser cache with key openfontlibrary-mw_:pcache:idhash:1545-0!1!0!!en!2!edit=0 and timestamp 20120323103831 -->
-<div class="printfooter">
-Retrieved from "<a href="http://openfontlibrary.org/wiki/Font_Design">http://openfontlibrary.org/wiki/Font_Design</a>"</div>
-						<!-- end content -->
-						<div class="visualClear"></div>
-		</div>
-	</div>
