@@ -1,12 +1,5 @@
 <h1>Collaborative Design Workflows</h1>
 
-<div id="content">
-		<a id="top" name="top"></a>
-				<h1 class="firstHeading" id="firstHeading">Collaborative Design Workflows</h1>
-		<div id="bodyContent">
-			<h3 id="siteSub">From OFLB</h3>
-			<div id="contentSub"></div>
-									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
 			<p>You can call a typeface a work of art, a design, or a computer program: all these denominers make sense. What these three things have in common, is that they are systems of signs, in which every part is dependent on every other part.
 </p><p>This makes the possibillity of collaboration inevident; to have such a system to be contained within one creative mind seems to be the most logical approach, as it assures a coherent approach to the different levels of structure within such a project.
 </p><p>However, many art and design projects just don’t fit into one mind only. Even though a movie can be said to express the vision of its director, it is also the result of the collaboration between the director and a thousand other people, whose talents have all in one way or the other contributed to the end result.
@@ -48,7 +41,7 @@ Distributed revision control (DRCS) takes a peer-to-peer approach, as opposed to
 </li></ul>
 </li></ul>
 <p>You will probably not want to go through the hassle of configuring a server with version control software; it most cases it is probably the most practical to choose a hosted service.
-</p><p>The other choice is between distributed and centralised, IEHO distributed versioning is more suited to dealing with cultural artefacts than centralised versioning; it allows and even promotes variation between different copies of the same repository. This might be unhandy sometimes with computer software&mdash;with cultural artefacts it is the way go to achieve the pluriformity and personality we associate with culture in the first place.
+</p><p>The other choice is between distributed and centralised, IEHO distributed versioning is more suited to dealing with cultural artefacts than centralised versioning; it allows and even promotes variation between different copies of the same repository. This might be unhandy sometimes with computer software—with cultural artefacts it is the way go to achieve the pluriformity and personality we associate with culture in the first place.
 </p><p>Simon Pascal Klein shows how to use GitHub to fork the OpenBaskerville project, which is as trivial as geek gets, @ <a title="http://klepas.org/openbaskerville/#using-git" class="external free" href="http://klepas.org/openbaskerville/#using-git">http://klepas.org/openbaskerville/#using-git</a>
 </p><p>In a rather spectacular turn of events (at least in my mind) GitHub recently implemented UFO support, including visual diffs: <a title="http://github.com/rbmntjs/open-baskerville/commit/c5b3322fb49baa3104363ca98546c684d940c0ef" class="external free" href="http://github.com/rbmntjs/open-baskerville/commit/c5b3322fb49baa3104363ca98546c684d940c0ef">http://github.com/rbmntjs/open-baskerville/commit/c5b3322fb49baa3104363ca98546c684d940c0ef</a>
 </p><p>And visualisations of UFO typefaces:
@@ -69,18 +62,3 @@ Distributed revision control (DRCS) takes a peer-to-peer approach, as opposed to
 </p><p><a title="http://meld.sourceforge.net" class="external text" href="http://meld.sourceforge.net">Meld</a> is a visual diff and merge tool. 
 </p><p>How do you programmaticaly go from a UFO or SFD to OTF files? FontForge's python makes this simple, and Dave Crossland published a simple <a title="http://article.gmane.org/gmane.comp.freedesktop.fonts/1741" class="external text" href="http://article.gmane.org/gmane.comp.freedesktop.fonts/1741">conversion script</a> on the OFLB mailing linst.
 </p>
-<!-- 
-NewPP limit report
-Preprocessor node count: 5/1000000
-Post-expand include size: 0/2097152 bytes
-Template argument size: 0/2097152 bytes
-Expensive parser function count: 0/100
--->
-
-<!-- Saved in parser cache with key openfontlibrary-mw_:pcache:idhash:2755-0!1!0!!en!2!edit=0 and timestamp 20120323105753 -->
-<div class="printfooter">
-Retrieved from "<a href="http://openfontlibrary.org/wiki/Collaborative_Design_Workflows">http://openfontlibrary.org/wiki/Collaborative_Design_Workflows</a>"</div>
-						<!-- end content -->
-						<div class="visualClear"></div>
-		</div>
-	</div>
