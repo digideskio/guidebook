@@ -102,19 +102,3 @@
 </li><li> <a title="http://lists.okfn.org/pipermail/fc-uk-discuss/2005-September/000146.html" class="external text" href="http://lists.okfn.org/pipermail/fc-uk-discuss/2005-September/000146.html">Some interesting UK-related Public Domain links</a>
 </li><li> "What is a font?" is answered nicely in <a title="http://www.holoweb.net/~liam/fonts/" class="external free" href="http://www.holoweb.net/~liam/fonts/">http://www.holoweb.net/~liam/fonts/</a> and could probably go in here sometime....
 </li></ul>
-
-<!-- 
-NewPP limit report
-Preprocessor node count: 16/1000000
-Post-expand include size: 0/2097152 bytes
-Template argument size: 0/2097152 bytes
-Expensive parser function count: 0/100
--->
-
-<!-- Saved in parser cache with key openfontlibrary-mw_:pcache:idhash:1550-0!1!0!!en!2!edit=0 and timestamp 20120323040013 -->
-<div class="printfooter">
-Retrieved from "<a href="http://openfontlibrary.org/wiki/Font_Licensing">http://openfontlibrary.org/wiki/Font_Licensing</a>"</div>
-						<!-- end content -->
-						<div class="visualClear"></div>
-		</div>
-	</div>
