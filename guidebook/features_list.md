@@ -1,11 +1,11 @@
 <h1>Features List</h1>
 
-Main Features
+Main Features <br>
 
 VISITORS CAN:
 sign-up/become a member by simply entering a username/password/email/name/captcha
 view the font catalogue, font page, member profiles
-if a member has not uploaded any fonts, that member's profile should read 'IT LOOKS LIKE ((USERNAME)) MEMBER HASN'T UPLOADED ANY FONTS YET.'
+if a member has not uploaded any fonts, that member's profile should read 'IT LOOKS LIKE ((USERNAME)) MEMBER HASN'T UPLOADED ANY FONTS YET.' <br>
 
 MEMBERS CAN:
 view profile, which contains date of membership, username, real name
@@ -19,7 +19,7 @@ on the font page they should see: FONT STATUS This font is currently under revie
 on their profile page, they should see: FONT STATUS The following fonts are currently under review. ((font name)) ((font status))
 view 'free font license' guidelines
 join mailing list
-find irc channel
+find irc channel <br>
 
 ALL USERS CAN:
 search the site via the search box at top/right of page
@@ -29,16 +29,16 @@ browse the complete catalog
 browsing complete catalog includes the following features: preview mode in word/sentence/paragraph; ability to personalize 'preview text'; scaleable text-size via slide-bar;
 browse the Guidebook and its pages
 utilize 'Search page, which features 'Categories' (font types categorized and numbered) and 'Licenses' (license types categorized and numbered)
-utilize 'password recovery' feature at sign-in page
+utilize 'password recovery' feature at sign-in page <br>
 
 LIBRARIANS/SECRETARIES/ADMINISTRATORS CAN
 view 'Dashboard' which lists System Administrators/Secretaries/Librarians/Members in addition to User/Font stats and Featured/Flagged Fonts
 LIBRARIANS CAN
 edit font info for all fonts, including font status
-fonts set to 'featured' will show up in the carousel on the home page
+fonts set to 'featured' will show up in the carousel on the home page <br>
 
 SECRETARIES CAN
-edit user info for all users
+edit user info for all users <br>
 
 SYSTEMS ADMINISTRATORS CAN
 change the usergroup of any user (however an Admin cannot change his/her own group)
