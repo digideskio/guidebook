@@ -19,7 +19,7 @@ on the font page they should see: FONT STATUS This font is currently under revie
 on their profile page, they should see: FONT STATUS The following fonts are currently under review. ((font name)) ((font status))
 view 'free font license' guidelines
 join mailing list
-find irc channel <br>
+find irc channel <br><br>
 
 ALL USERS CAN:
 search the site via the search box at top/right of page
@@ -29,16 +29,16 @@ browse the complete catalog
 browsing complete catalog includes the following features: preview mode in word/sentence/paragraph; ability to personalize 'preview text'; scaleable text-size via slide-bar;
 browse the Guidebook and its pages
 utilize 'Search page, which features 'Categories' (font types categorized and numbered) and 'Licenses' (license types categorized and numbered)
-utilize 'password recovery' feature at sign-in page <br>
+utilize 'password recovery' feature at sign-in page <br><br>
 
 LIBRARIANS/SECRETARIES/ADMINISTRATORS CAN
 view 'Dashboard' which lists System Administrators/Secretaries/Librarians/Members in addition to User/Font stats and Featured/Flagged Fonts
 LIBRARIANS CAN
 edit font info for all fonts, including font status
-fonts set to 'featured' will show up in the carousel on the home page <br>
+fonts set to 'featured' will show up in the carousel on the home page <br><br>
 
 SECRETARIES CAN
-edit user info for all users <br>
+edit user info for all users <br><br>
 
 SYSTEMS ADMINISTRATORS CAN
 change the usergroup of any user (however an Admin cannot change his/her own group)
