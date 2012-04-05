@@ -5,7 +5,7 @@ Main Features <br>
 VISITORS CAN:
 sign-up/become a member by simply entering a username/password/email/name/captcha
 view the font catalogue, font page, member profiles
-if a member has not uploaded any fonts, that member's profile should read 'IT LOOKS LIKE ((USERNAME)) MEMBER HASN'T UPLOADED ANY FONTS YET.' <br>
+if a member has not uploaded any fonts, that member's profile should read 'IT LOOKS LIKE ((USERNAME)) MEMBER HASN'T UPLOADED ANY FONTS YET.' <br><br>
 
 MEMBERS CAN:
 view profile, which contains date of membership, username, real name
