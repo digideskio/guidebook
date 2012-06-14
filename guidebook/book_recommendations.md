@@ -21,13 +21,11 @@
 <a title="Texts on Type: Critical Writings on Typography" href="http://books.google.com/books/about/Texts_on_Type.html?id=USjjh4Nh38UC&redir_esc=y">Texts on Type: Critical Writings on Typography</a> by Steven Heller and Philip Meggs<br>
 
 <h4> Cyrillic </h4>
-<ul><li> <a title="http://www.atypi.org/05_About_us/70_publications/50_LCT/" class="external text" href="http://www.atypi.org/05_About_us/70_publications/50_LCT/">"Language Culture Type: international type design in the age of Unicode"</a> edited by John D. Berry, designed by Maxim Zhukov, and published by Graphis - good essays on complex scripts including Cyrillic
-</li><li> <a title="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/" class="external text" href="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/">Yuri Gordon wrote an excellent book on type design for the Cyrillic script</a>
-</li><li> The first edition of "Typography Papers" published by the University of Reading's Department of Typography.
-</li><li> Paratype's "Digital Typefaces" Catalogue
-</li></ul>
-<p><br>
-</p>
+<a title="http://www.atypi.org/05_About_us/70_publications/50_LCT/" href="http://www.atypi.org/05_About_us/70_publications/50_LCT/">Language Culture Type: international type design in the age of Unicode</a> edited by John D. Berry, designed by Maxim Zhukov, and published by Graphis - good essays on complex scripts including Cyrillic<br>
+<a title="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/" class="external text" href="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/">Yuri Gordon wrote an excellent book on type design for the Cyrillic script</a>
+The first edition of "Typography Papers" published by the University of Reading's Department of Typography<br>
+Paratype's "Digital Typefaces" Catalogue<br>
+
 <h4> External Links </h4>
 <ul><li> <a title="http://www.typebooks.org/" class="external free" href="http://www.typebooks.org/">http://www.typebooks.org/</a>
 </li><li> <a title="http://www.owlsoup.com/foamtrain/books.html" class="external free" href="http://www.owlsoup.com/foamtrain/books.html">http://www.owlsoup.com/foamtrain/books.html</a>
