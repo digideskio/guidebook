@@ -1,7 +1,6 @@
 <h1>Book Recommendations</h1>
 
-<p><h4> A recommended list of books that describe fonts, type design and such</h4>
-</p>
+<p><h4> A recommended list of books that describe fonts, type design and such</h4></p>
 <em>Computers and typography 1 and 2</em> by Rosemary Sassoo<br>
 "Counterpunch: making type in the sixteenth century; designing typefaces now" by Fred Smeijers
 </li><li> <a title="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style" class="external text" href="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style">"The Elements of Typographic Style"</a> by Robert Bringhurst
