@@ -1,6 +1,6 @@
 <h1>Book Recommendations</h1>
 
-<p><h4> A recommended list of books that describe fonts, type design and related matters</h4>
+<p><h4> A recommended list of books that describe fonts, type design and such</h4>
 </p>
 <ul><li> "Computers and typography 1 and 2" by Rosemary Sassoo <
 </li><li> "Counterpunch: making type in the sixteenth century; designing typefaces now" by Fred Smeijers
