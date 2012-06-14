@@ -1,12 +1,12 @@
 <h1>Book Recommendations</h1>
 
 <h4> A recommended list of books that describe fonts, type design and such</h4>
-<a title="Computers & Typography 1 and 2" href="http://books.google.com/books?id=Gm4QAbGKIBgC&source=gbs_book_other_versions&redir_esc=y">Computers & Typography 1 and 2</a> by Rosemary Sassoo
+<a title="Computers & Typography 1 and 2" href="http://books.google.com/books?id=Gm4QAbGKIBgC&source=gbs_book_other_versions&redir_esc=y">Computers & Typography 1 and 2</a> by Rosemary Sassoo<br>
 
 <a title="Counterpunch: making type in the sixteenth century, designing typefaces now" href="http://books.google.com/books/about/Counterpunch.html?id=dUZUAAAAMAAJ&redir_esc=y
-">Counterpunch: making type in the sixteenth century, designing typefaces now</a> by Fred Smeijers
+">Counterpunch: making type in the sixteenth century, designing typefaces now</a> by Fred Smeijers<br>
 
-<a title="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style" href="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style">"The Elements of Typographic Style"</a> by Robert Bringhurst
+<a title="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style" href="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style">"The Elements of Typographic Style"</a> by Robert Bringhurst<br>
 
 <p><a title="http://www.oreilly.com/catalog/9780596102425/" href="http://www.oreilly.com/catalog/9780596102425/">"Fonts & Encodings"</a> by Yannis Haralambous (translation by P. Scott Horne, <a title="http://www.oreilly.fr/catalogue/284177273X" class="external text" href="http://www.oreilly.fr/catalogue/284177273X">"Fontes et codages"</a> is the French original)
 </li><li> "Letters of credit: a view of type design" by Walter Tracy (old time head of Linotype's drawing office)
