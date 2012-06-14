@@ -6,11 +6,14 @@
 <a title="Counterpunch: making type in the sixteenth century, designing typefaces now" href="http://books.google.com/books/about/Counterpunch.html?id=dUZUAAAAMAAJ&redir_esc=y
 ">Counterpunch: making type in the sixteenth century, designing typefaces now</a> by Fred Smeijers<br>
 
-<a title="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style" href="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style">"The Elements of Typographic Style"</a> by Robert Bringhurst<br>
+<a title="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style" href="http://en.wikipedia.org/wiki/The_Elements_of_Typographic_Style">The Elements of Typographic Style</a> by Robert Bringhurst<br>
 
-<p><a title="http://www.oreilly.com/catalog/9780596102425/" href="http://www.oreilly.com/catalog/9780596102425/">"Fonts & Encodings"</a> by Yannis Haralambous (translation by P. Scott Horne, <a title="http://www.oreilly.fr/catalogue/284177273X" class="external text" href="http://www.oreilly.fr/catalogue/284177273X">"Fontes et codages"</a> is the French original)
-</li><li> "Letters of credit: a view of type design" by Walter Tracy (old time head of Linotype's drawing office)
-</li><li> "Modern Typography" by Robin Kinross
+<a title="http://www.oreilly.com/catalog/9780596102425/" href="http://www.oreilly.com/catalog/9780596102425/">Fonts & Encodings</a> by Yannis Haralambous (translation by P. Scott Horne, <a title="http://www.oreilly.fr/catalogue/284177273X" href="http://www.oreilly.fr/catalogue/284177273X">Fontes et codages</a> is the French original)<br>
+
+<a title="http://books.google.com/books?id=y8NssjbqNcsC&hl=de&source=gbs_similarbooks&redir_esc=y">Letters of Credit: A View of Type Design</a> by Walter Tracy (old time head of Linotype's drawing office)<br>
+
+<a title="http://books.google.com/books?id=9TNUAAAAMAAJ&q=modern+typography&dq=modern+typography&hl=de&sa=X&ei=PMLZT_GnD8bAtAbL2uTyBw&redir_esc=y">Modern Typography: an essay in critical history</a> by Robin Kinross<br>
+
 </li><li> "The stroke: theory of writing of the pen" by Gerritt Noordzij 
 </li><li> <a title="http://www.papress.com/thinkingwithtype/" class="external text" href="http://www.papress.com/thinkingwithtype/">"Thinking with type"</a> by Ellen Lupton
 </li><li> "Texts on type: critical writings on typography" by Steven Heller and Philip Meggs
