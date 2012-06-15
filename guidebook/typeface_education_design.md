@@ -1,8 +1,6 @@
 <h1>Typeface Education Design</h1>
 
-			<table summary="Contents" class="toc" id="toc"><tbody><tr><td><div id="toctitle"><h4>Contents</h4> <span class="toctoggle">[<a id="togglelink" class="internal" href="javascript:toggleToc()">hide</a>]</span></div>
-<ul>
-<li class="toclevel-1"><a href="#College_Courses"><span class="tocnumber">1</span> <span class="toctext">College Courses</span></a>
+<h4>College Courses</h4>
 <ul>
 <li class="toclevel-2"><a href="#UK"><span class="tocnumber">1.1</span> <span class="toctext">UK</span></a></li>
 <li class="toclevel-2"><a href="#Netherlands"><span class="tocnumber">1.2</span> <span class="toctext">Netherlands</span></a></li>
