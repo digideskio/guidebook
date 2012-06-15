@@ -32,13 +32,13 @@ utilize 'password recovery' feature at sign-in page </p>
 
 <h4>Librarians/Secretaries/Administrators</h4>
 <p>Librarians, Secretaries and Administrators can view 'Dashboard' which lists System Administrators/Secretaries/Librarians/Members in addition to User/Font stats and Featured/Flagged Fonts
-LIBRARIANS CAN
-edit font info for all fonts, including font status
+
+<h4>Librarians</h4>
+<p>Librarians can edit font info for all fonts, including font status
 fonts set to 'featured' will show up in the carousel on the home page
 
-<p>
-<h>Secretaries</h4>
-Secretaries can edit user info for all users
+<h4>Secretaries</h4>
+<p>Secretaries can edit user info for all users
 
 <h4>System Administrators</h4>
 <p> System Administrators can change the usergroup of any user (however an Admin cannot change his/her own group)
