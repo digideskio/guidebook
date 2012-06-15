@@ -32,4 +32,4 @@ Paratype's "Digital Typefaces" Catalogue<br></p>
 <a title="http://www.owlsoup.com/foamtrain/books.html" class="external free" href="http://www.owlsoup.com/foamtrain/books.html">http://www.owlsoup.com/foamtrain/books.html</a><br>
 <a title="http://www.mccannas.com/recommend/type.htm" class="external free" href="http://www.mccannas.com/recommend/type.htm">http://www.mccannas.com/recommend/type.htm</a><br>
 <a title="http://www.uitgeverijdebuitenkant.nl/grafisch_ontwerpen/" class="external free" href="http://www.uitgeverijdebuitenkant.nl/grafisch_ontwerpen/">http://www.uitgeverijdebuitenkant.nl/grafisch_ontwerpen/</a><br><br>
-Also check out the <a title="Knowledge Resources" href="/wiki/Knowledge_Resources">Knowledge Resources</a> page with lots of links to other texts on the web...<p>
+<a title="Knowledge Resources" href="/wiki/Knowledge_Resources">Knowledge Resources</a> has a page with lots of links to other texts on the web<p>
