@@ -9,9 +9,8 @@ The Fontforge documentation has a good <a title="http://fontforge.sourceforge.ne
 </p>
 
 <h4> <span class="mw-headline"> OFL </span></h4>
-<p>The SIL Open Font License and the Open Font Library share the same acronym, OFL.</p>
-
-<p>To avoid confusion, please refer to the Open Font License as "the OFL" and the Open Font Library as the "OFLB"</p>
+<p>The SIL Open Font License and the Open Font Library share the same acronym, OFL.<br>
+To avoid confusion, please refer to the Open Font License as "the OFL" and the Open Font Library as the "OFLB"</p>
 
 <h4><span class="mw-headline"> Open Font Movement </span></h4>
 <p>A clearer term related to the Open Font Library and usage by a wide community of users of the Open Font License. 
