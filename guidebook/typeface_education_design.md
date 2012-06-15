@@ -1,7 +1,7 @@
 <h1>Typeface Education Design</h1>
 
 <h4>College Courses</h4>
-<p></p>
+<p>
 <h4> UK </h4>
 The University of Reading offers a postgraduate Masters (MA) course in Typeface Design, over 12 or 24 months: <a title="http://www.typedesign.rdg.ac.uk/" class="external free" href="http://www.typedesign.rdg.ac.uk/">http://www.typedesign.rdg.ac.uk/</a>
 
