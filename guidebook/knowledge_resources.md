@@ -59,8 +59,6 @@
 
 <a title="http://www.pango.org" class="external text" href="http://www.pango.org">Pango Project</a><br>
 
-<a title="FontConfig" href="/wiki/FontConfig">FontConfig</a><br>
-
 <a title="http://www.tldp.org/HOWTO/Font-HOWTO/" class="external text" href="http://www.tldp.org/HOWTO/Font-HOWTO/">The Linux Documentation Project Font-HOWTO</a><br>
 
 <a title="http://linux.about.com/library/howto/font/blfont2.htm" class="external text" href="http://linux.about.com/library/howto/font/blfont2.htm">about.com Fonts 101</a><br>
