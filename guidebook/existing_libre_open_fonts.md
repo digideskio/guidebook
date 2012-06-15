@@ -150,16 +150,21 @@
 </li><li><a title="http://www.objetsdart.ca/Graphics/Old/index.html" class="external text" href="http://www.objetsdart.ca/Graphics/Old/index.html">Objest Dart</a> Available under the <a title="http://www.gnu.org/licenses/dsl.html" class="external text" href="http://www.gnu.org/licenses/dsl.html">Design Science License </a> approved by the <a title="http://www.gnu.org/licenses/license-list.html#OtherLicenses" class="external text" href="http://www.gnu.org/licenses/license-list.html#OtherLicenses">FSF</a>
 </li></ul></p>
 <h4> <span class="mw-headline"> Collections, Lists </h4>
-<p></li><li> <a title="http://embraceubuntu.com/2007/05/21/300-easily-installed-free-fonts-for-ubuntu/" class="external text" href="http://embraceubuntu.com/2007/05/21/300-easily-installed-free-fonts-for-ubuntu/">Embrace Ubuntu list</a>
+<p><a title="http://embraceubuntu.com/2007/05/21/300-easily-installed-free-fonts-for-ubuntu/" class="external text" href="http://embraceubuntu.com/2007/05/21/300-easily-installed-free-fonts-for-ubuntu/">Embrace Ubuntu list</a><br>
 
-</li><li> <a title="http://en.wikipedia.org/wiki/Category:Open_source_typefaces" class="external text" href="http://en.wikipedia.org/wiki/Category:Open_source_typefaces">Wikipedia's list</a>
-</li><li> <a title="https://fedoraproject.org/wiki/SIGs/Fonts/Triaging/Pipeline/WishList" class="external text" href="https://fedoraproject.org/wiki/SIGs/Fonts/Triaging/Pipeline/WishList">Fedora Fonts Wishlist</a> and <a title="http://duffy.fedorapeople.org/fonts" class="external text" href="http://duffy.fedorapeople.org/fonts">Duffys Fonts Page</a> list libre/open fonts and <a title="http://fedoraproject.org/wiki/Category:Packaged_fonts" class="external text" href="http://fedoraproject.org/wiki/Category:Packaged_fonts">fedora has a list of packaged fonts too</a>
-</li><li> <a title="http://www.debian-art.org/index.php?xcontentmode=39" class="external text" href="http://www.debian-art.org/index.php?xcontentmode=39">Debian-Art.org</a> has a fonts category
-</li><li> <a title="http://typophile.com/node/60433" class="external text" href="http://typophile.com/node/60433">TP on Vintage Sans Serifs</a>
-</li><li> <a title="http://cg.scs.carleton.ca/~luc/original2fonts.html?keepThis=true&TB_iframe=true" class="external text" href="http://cg.scs.carleton.ca/~luc/original2fonts.html?keepThis=true&TB_iframe=true">Luc's List</a>
-</li><li> <a title="http://code.google.com/webfonts" class="external text" href="http://code.google.com/webfonts">Google's font Directory</a> You can't downlaod the font's here, but the mostly OFL fonts are available on the designers websites and setup for web embedding.
-</li></ul>
-<a id="Scans" name="Scans"></a><h2> <span class="mw-headline"> Scans </span></h2>
+<a title="http://en.wikipedia.org/wiki/Category:Open_source_typefaces" class="external text" href="http://en.wikipedia.org/wiki/Category:Open_source_typefaces">Wikipedia's list</a><br>
+
+<a title="https://fedoraproject.org/wiki/SIGs/Fonts/Triaging/Pipeline/WishList" class="external text" href="https://fedoraproject.org/wiki/SIGs/Fonts/Triaging/Pipeline/WishList">Fedora Fonts Wishlist</a> and <a title="http://duffy.fedorapeople.org/fonts" class="external text" href="http://duffy.fedorapeople.org/fonts">Duffys Fonts Page</a> list libre/open fonts and <a title="http://fedoraproject.org/wiki/Category:Packaged_fonts" class="external text" href="http://fedoraproject.org/wiki/Category:Packaged_fonts">fedora has a list of packaged fonts too</a><br>
+
+<a title="http://www.debian-art.org/index.php?xcontentmode=39" class="external text" href="http://www.debian-art.org/index.php?xcontentmode=39">Debian-Art.org</a> has a fonts category<br>
+
+<a title="http://typophile.com/node/60433" class="external text" href="http://typophile.com/node/60433">TP on Vintage Sans Serifs</a><br>
+
+<a title="http://cg.scs.carleton.ca/~luc/original2fonts.html?keepThis=true&TB_iframe=true" class="external text" href="http://cg.scs.carleton.ca/~luc/original2fonts.html?keepThis=true&TB_iframe=true">Luc's List</a><br>
+
+<a title="http://code.google.com/webfonts" class="external text" href="http://code.google.com/webfonts">Google's font Directory</a> You can't downlaod the font's here, but the mostly OFL fonts are available on the designers websites and setup for web embedding.</p>
+
+<h4> Scans </h4>
 <p>Here is a list of scans of typefaces that could be turned into wonderful libre/open fonts:
 </p>
 <ul><li> Luc's site has many specimen scans organised, such as <a title="http://cg.scs.carleton.ca/~luc/inland/" class="external text" href="http://cg.scs.carleton.ca/~luc/inland/">Inland</a> and <a title="http://cg.scs.carleton.ca/~luc/BBS-1907/" class="external text" href="http://cg.scs.carleton.ca/~luc/BBS-1907/">BBS-1907</a>
@@ -188,8 +193,8 @@
 </p><p>At <a title="http://openfontlibrary.org/wiki/PublicDomainTypefacesTimeline" class="external free" href="http://openfontlibrary.org/wiki/PublicDomainTypefacesTimeline">http://openfontlibrary.org/wiki/PublicDomainTypefacesTimeline</a> were some small list of typefaces can be considered as Public Domain, which may help people search their original master drawings on museums, and help us sharing them online - it's organized in a timeline order for an easier reading.
 </p><p>The <a title="http://sfpl.org/index.php?pg=2000007301" class="external text" href="http://sfpl.org/index.php?pg=2000007301">San Francisco Public Library</a> has an excellent collection of type founder's specimen books.
 </p>
-<a id="People" name="People"></a><h2> <span class="mw-headline"> People </span></h2>
-<ul><li> <a title="http://wiki.freedesktop.org/wiki/Software/Fonts/ProjectsUsingOpenFontLicense" class="external text" href="http://wiki.freedesktop.org/wiki/Software/Fonts/ProjectsUsingOpenFontLicense">FreeDesktop.org</a> also have a list of people to contact.
+<h4> <span class="mw-headline"> People </h4>
+<p><a title="http://wiki.freedesktop.org/wiki/Software/Fonts/ProjectsUsingOpenFontLicense" class="external text" href="http://wiki.freedesktop.org/wiki/Software/Fonts/ProjectsUsingOpenFontLicense">FreeDesktop.org</a> also have a list of people to contact.
 </li><li> <a title="http://www.debian.org/News/weekly/2002/34/" class="external text" href="http://www.debian.org/News/weekly/2002/34/">Debian Weekly News in 2002</a> listed a bunch of people
 </li></ul>
 <a id="Pixel_Fonts" name="Pixel_Fonts"></a><h2> <span class="mw-headline"> Pixel Fonts </span></h2>
@@ -199,8 +204,8 @@
 </li><li> <a title="http://www.orgdot.com/aliasfonts/" class="external text" href="http://www.orgdot.com/aliasfonts/">AliasFonts at Orgdot</a> - very cool
 </li><li> Debian package xfonts-artwiz
 </li><li> The original Mac distribution of Bitstream Charter contains pixel versions—both regular, bold and bold italic!
-</li></ul>
-<a id="Freeware_Fonts" name="Freeware_Fonts"></a><h2> <span class="mw-headline"> Freeware Fonts </span></h2>
+</li></ul><p>
+<h4> Freeware Fonts </h4>
 <p>Please link to any existing "freeware" fonts you may find on the web that despite being proprietary may be friendly to the Library - these are fonts you typically do not need to pay money to receive, and may or may not come with a license that grants other essential freedoms like redistributing the font and modifying it, but does not fit the free software definition in some way. We will try to persuade these fonts' developers to "Go OFL!"
 </p>
 <ul><li> <a title="http://inspirationfeed.com/design/2010/04/40-free-fantastic-sans-serif-fonts/" class="external text" href="http://inspirationfeed.com/design/2010/04/40-free-fantastic-sans-serif-fonts/">40 Sans Freeware fonts</a>
