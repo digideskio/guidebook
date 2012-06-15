@@ -17,7 +17,7 @@
 
 <a title="http://briem.net/" class="external text" href="http://briem.net/">Briem.net</a><br> 
 
-<a title="http://www.typefacedesign.org/resources/Dwiggins_WADtoRR.pdf" class="external text" href="http://www.typefacedesign.org/resources/Dwiggins_WADtoRR.pdf">"WAD to RR: a letter about designing type"</a> by Dwiggins in 1940<br>
+<a title="http://www.typefacedesign.org/resources/Dwiggins_WADtoRR.pdf" class="external text" href="http://www.typefacedesign.org/resources/Dwiggins_WADtoRR.pdf">WAD to RR: a letter about designing type</a> by Dwiggins in 1940<br>
 
 <a title="http://www.typeculture.com/academic_resource/" class="external text" href="http://www.typeculture.com/academic_resource/">TypeCulture Academic Resources</a> - fresh academic essays on type<br>
 
@@ -25,12 +25,15 @@
 
 <a title="http://www.kltf.de/kltf_notes.htm" class="external text" href="http://www.kltf.de/kltf_notes.htm">KLTF Notes</a> - (technical) notes on font production</p>
 
-<h4>  Bloggers </h4>
-<p><a title="http://typefoundry.blogspot.com/" class="external text" href="http://typefoundry.blogspot.com/">James Mosley's blog</a> - A great historian of typeface design
-<a title="http://blogs.adobe.com/typblography/" class="external text" href="http://blogs.adobe.com/typblography/">Typblography</a> - The blog of Adobe’s Type Development Team
-<a title="http://www.thomasphinney.com/" class="external text" href="http://www.thomasphinney.com/">Phinney on Fonts</a> - The blog of Thomas Phinney (Extensis, formerly Adobe) on fonts and typography with attention towards new technologies like web fonts.
+<h4> Bloggers </h4>
+<p><a title="http://typefoundry.blogspot.com/" class="external text" href="http://typefoundry.blogspot.com/">James Mosley's blog</a> - a great historian of typeface design<br>
+
+<a title="http://blogs.adobe.com/typblography/" class="external text" href="http://blogs.adobe.com/typblography/">Typblography</a> - the blog of Adobe’s Type Development Team<br>
+
+<a title="http://www.thomasphinney.com/" class="external text" href="http://www.thomasphinney.com/">Phinney on Fonts</a> - the blog of Thomas Phinney (Extensis, formerly Adobe) on fonts and typography with attention towards new technologies like web fonts.<br>
+
 <a title="http://www.typographer.org" class="external text" href="http://www.typographer.org">Typographer</a>
-<a title="http://typographica.com" class="external text" href="http://typographica.com">Typographica</a> - review of typefaces and type books, with occasional commentary on fonts and typographic design.</p>
+<a title="http://typographica.org" class="external text" href="http://typographica.org">Typographica</a> - review of typefaces and type books, with occasional commentary on fonts and typographic design.</p>
 
 <h4> Specifications and Standards </h4>
 <p><a title="http://fontforge.sourceforge.net" class="external text" href="http://fontforge.sourceforge.net">FontForge Developer Mailing List</a> has lots of people who know about these issues
