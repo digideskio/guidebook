@@ -6,7 +6,7 @@
 <h4>  How? </h4>
 <p>To license fonts under the OFL, we suggest reading its <a title="http://scripts.sil.org/OFL-FAQ_web" class="external text" href="http://scripts.sil.org/OFL-FAQ_web">FAQ</a> and following the instructions. The same goes for the <a title="Sharing Agreement" href="http://sharism.org/agreement">Sharing Agreement</a>
 </p>
-<p>Since March 2007, <a title="http://fontforge.sf.net" class="external text" href="http://fontforge.sf.net">FontForge</a> has a feature to help include the license in the font file itself. Go to the Element menu, select Font Info, then TTF Names, and click the OFL button. (<a title="http://www.flickr.com/photos/davelab6/421088140/" class="external text" href="http://www.flickr.com/photos/davelab6/421088140/">screenshot</a>) Then edit the license header with your details. 
+<p>Since March 2007, <a title="http://fontforge.sf.net" class="external text" href="http://fontforge.sf.net">FontForge</a> has a feature to help include the license in the font file itself. Go to the Element menu, select Font Info, then TTF Names, and click the OFL button. Then edit the license header with your details. 
 </p><p>To submit fonts to this site, sign up for an account and follow the instructions, or configure FontForge appropriately.
 </p>
 <h4> The Different Kinds of Free Fonts </h4>
