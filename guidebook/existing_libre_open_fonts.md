@@ -33,8 +33,7 @@
 </li><li> <a title="http://hiran.in/blog/rufscript-font" class="external text" href="http://hiran.in/blog/rufscript-font">RufScript</a> (GPLv3+FE)
 </li><li> <a title="http://code.google.com/p/osifont/" class="external text" href="http://code.google.com/p/osifont/">OSI CAD Font</a> (GPLv3+FE)
 </li></ul>
-<p><br>
-</p>
+
 <a id="SEB_2" name="SEB_2"></a><h4> <span class="mw-headline"> SEB </span></h4>
 <ul><li> <a title="http://serafettin.sourceforge.net/" class="external text" href="http://serafettin.sourceforge.net/">Serrafettin</a> is a comic font (GPLv2)
 </li><li> <a title="http://www.ecofont.eu/downloads_en.html" class="external text" href="http://www.ecofont.eu/downloads_en.html">EcoFont</a> is a vera clone with holes in it to save ink, hence the Eco. Licenced under the Bitstream Vera Licence, which is saved with the font. 
@@ -149,9 +148,9 @@
 <ul><li> <a title="http://packages.debian.org/lenny/ttf-f500" class="external text" href="http://packages.debian.org/lenny/ttf-f500">F500</a> This is the font similar to the one used in the Sony PlayStation video game "Wipeout". Artistic license
 </li><li><a title="http://www.fontspace.com/hank-gillette" class="external text" href="http://www.fontspace.com/hank-gillette">Hank Gillette's fonts</a> Mostly Public Domian
 </li><li><a title="http://www.objetsdart.ca/Graphics/Old/index.html" class="external text" href="http://www.objetsdart.ca/Graphics/Old/index.html">Objest Dart</a> Available under the <a title="http://www.gnu.org/licenses/dsl.html" class="external text" href="http://www.gnu.org/licenses/dsl.html">Design Science License </a> approved by the <a title="http://www.gnu.org/licenses/license-list.html#OtherLicenses" class="external text" href="http://www.gnu.org/licenses/license-list.html#OtherLicenses">FSF</a>
-</li></ul>
-<a id="Collections.2C_Lists" name="Collections.2C_Lists"></a><h3> <span class="mw-headline"> Collections, Lists </span></h3>
-<ul><li> <a title="http://embraceubuntu.com/2007/05/21/300-easily-installed-free-fonts-for-ubuntu/" class="external text" href="http://embraceubuntu.com/2007/05/21/300-easily-installed-free-fonts-for-ubuntu/">Embrace Ubuntu list</a>
+</li></ul></p>
+<h4> <span class="mw-headline"> Collections, Lists </h4>
+<p> <a title="http://embraceubuntu.com/2007/05/21/300-easily-installed-free-fonts-for-ubuntu/" class="external text" href="http://embraceubuntu.com/2007/05/21/300-easily-installed-free-fonts-for-ubuntu/">Embrace Ubuntu list</a>
 </li><li> <a title="http://en.wikipedia.org/wiki/Category:Open_source_typefaces" class="external text" href="http://en.wikipedia.org/wiki/Category:Open_source_typefaces">Wikipedia's list</a>
 </li><li> <a title="https://fedoraproject.org/wiki/SIGs/Fonts/Triaging/Pipeline/WishList" class="external text" href="https://fedoraproject.org/wiki/SIGs/Fonts/Triaging/Pipeline/WishList">Fedora Fonts Wishlist</a> and <a title="http://duffy.fedorapeople.org/fonts" class="external text" href="http://duffy.fedorapeople.org/fonts">Duffys Fonts Page</a> list libre/open fonts and <a title="http://fedoraproject.org/wiki/Category:Packaged_fonts" class="external text" href="http://fedoraproject.org/wiki/Category:Packaged_fonts">fedora has a list of packaged fonts too</a>
 </li><li> <a title="http://www.debian-art.org/index.php?xcontentmode=39" class="external text" href="http://www.debian-art.org/index.php?xcontentmode=39">Debian-Art.org</a> has a fonts category
