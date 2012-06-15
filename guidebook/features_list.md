@@ -44,7 +44,7 @@ fonts set to 'featured' will show up in the carousel on the home page
 <p> System Administrators can change the usergroup of any user (however an Admin cannot change his/her own group)
 
 <h4> Guests</h4>
-Guests can be guests/visitors (what's the point of this group designation for System Admins?)
+<p>Guests can be guests/visitors (what's the point of this group designation for System Admins?)
 Some Aiki default that no one ever uses. Christopher 14:53, 26 March 2012 (UTC)
 
 <h4> Banned Users</h4>
