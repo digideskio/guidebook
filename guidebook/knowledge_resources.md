@@ -36,7 +36,9 @@
 <a title="http://typographica.org" class="external text" href="http://typographica.org">Typographica</a> - review of typefaces and type books, with occasional commentary on fonts and typographic design.</p>
 
 <h4> Specifications and Standards </h4>
-<p><a title="http://fontforge.sourceforge.net" class="external text" href="http://fontforge.sourceforge.net">FontForge Developer Mailing List</a> has lots of people who know about these issues. Unicode has an <a title="http://unicode.org/" class="external text" href="http://unicode.org/">official website</a>, but the <a title="http://www.decodeunicode.org/" class="external text" href="http://www.decodeunicode.org/">decodeunicode</a> site may also be useful; it's an open database that gives an overview of the whole unicode character range.<br>
+<p><a title="http://fontforge.sourceforge.net" class="external text" href="http://fontforge.sourceforge.net">FontForge Developer Mailing List</a> has lots of people who know about these issues. Unicode has an <a title="http://unicode.org/" class="external text" href="http://unicode.org/">official website</a>, but the <a title="http://www.decodeunicode.org/" class="external text" href="http://www.decodeunicode.org/">decodeunicode</a> site may also be useful; it's an open database that gives an overview of the whole unicode character range.
+
+<p>Other suggestions:<br>
 
 <a title="http://partners.adobe.com/public/developer/en/font/T1_SPEC.PDF" class="external text" href="http://partners.adobe.com/public/developer/en/font/T1_SPEC.PDF">Adobe's Type1 Font Format Specification (pdf)</a><br>
 
