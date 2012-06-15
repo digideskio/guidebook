@@ -10,5 +10,4 @@ FREE to redistribute, both exact and improved copies <br>
 FREE to embed, subset, bundle and derive from to create any kind of artwork or document<br>
 FREE to do all of these things commercially as it is about freedom, not price.
 
-<p>It is important to distinguish conceptually between a font and a typeface, as explained on the <a title="Vocabulary" href="/guidebook/vocabulary">vocabulary</a> page.
 </p>
