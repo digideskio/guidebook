@@ -77,7 +77,7 @@
 </li><li> <a title="http://en.wikibooks.org/wiki/FontLab/Scripting" class="external free" href="http://en.wikibooks.org/wiki/FontLab/Scripting">http://en.wikibooks.org/wiki/FontLab/Scripting</a>
 </li><li> <a title="http://www.robofab.org/talks/robofab_session6.html" class="external free" href="http://www.robofab.org/talks/robofab_session6.html">http://www.robofab.org/talks/robofab_session6.html</a>
 </li></ul>
-<p><br>
+
 </p><p>There is a Debian/Ubuntu metapackage available to easily install all this open font toolkit:
 </p>
 <pre>sudo apt-get install open-font-design-toolkit
