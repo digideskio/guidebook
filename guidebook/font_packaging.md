@@ -7,7 +7,7 @@
 </p><p>The actually package could be <i>ttf-oflb-myfont.1.0.zip</i> (or <i>ttf-oflb-myfont.1.0.7z</i>, or <i>ttf-oflb-myfont.1.0.tar.gz</i>)
 </p><p>The package should contains as much of the extended font source as possible.
 </p><p>Regarding the version numbers please follow the binary version field in the ttf itself.
-</p><p><br>
+</p>
 </p>
 <h4> Font Headers </h4>
 <p>TrueType and Postscript fonts possess headers which can bear meta information. Amongst others, there are standard fields for
