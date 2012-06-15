@@ -193,11 +193,13 @@
 </p><p>At <a title="http://openfontlibrary.org/wiki/PublicDomainTypefacesTimeline" class="external free" href="http://openfontlibrary.org/wiki/PublicDomainTypefacesTimeline">http://openfontlibrary.org/wiki/PublicDomainTypefacesTimeline</a> were some small list of typefaces can be considered as Public Domain, which may help people search their original master drawings on museums, and help us sharing them online - it's organized in a timeline order for an easier reading.
 </p><p>The <a title="http://sfpl.org/index.php?pg=2000007301" class="external text" href="http://sfpl.org/index.php?pg=2000007301">San Francisco Public Library</a> has an excellent collection of type founder's specimen books.
 </p>
-<h4> <span class="mw-headline"> People </h4>
-<p><a title="http://wiki.freedesktop.org/wiki/Software/Fonts/ProjectsUsingOpenFontLicense" class="external text" href="http://wiki.freedesktop.org/wiki/Software/Fonts/ProjectsUsingOpenFontLicense">FreeDesktop.org</a> also have a list of people to contact.
-</li><li> <a title="http://www.debian.org/News/weekly/2002/34/" class="external text" href="http://www.debian.org/News/weekly/2002/34/">Debian Weekly News in 2002</a> listed a bunch of people
-</li></ul>
-<a id="Pixel_Fonts" name="Pixel_Fonts"></a><h2> <span class="mw-headline"> Pixel Fonts </span></h2>
+<h4>  People </h4>
+<p><a title="http://wiki.freedesktop.org/wiki/Software/Fonts/ProjectsUsingOpenFontLicense" class="external text" href="http://wiki.freedesktop.org/wiki/Software/Fonts/ProjectsUsingOpenFontLicense">FreeDesktop.org</a> also have a list of people to contact.<br>
+<a title="http://www.debian.org/News/weekly/2002/34/" class="external text" href="http://www.debian.org/News/weekly/2002/34/">Debian Weekly News in 2002</a> listed a bunch of people
+</p
+>
+<h4> Pixel Fonts </h4>
+<p>
 <ul><li> <a title="http://www.hassings.dk/lars/fonts.html" class="external text" href="http://www.hassings.dk/lars/fonts.html">Classic X11 6x10 Font For Windows</a> (unknown)
 </li><li> <a title="http://world.std.com/~franl/6x10.html" class="external text" href="http://world.std.com/~franl/6x10.html">X Windows Fonts for MS Windows</a> ("Free To Use")
 </li><li> A list of <a title="http://keithdevens.com/wiki/ProgrammerFonts" class="external text" href="http://keithdevens.com/wiki/ProgrammerFonts">Programmer Fonts</a> to look into
@@ -233,7 +235,7 @@
 </li><li> <a title="http://www.fontleech.com/" class="external text" href="http://www.fontleech.com/">fontleech.com</a> lists freeware fonts
 </li><li> <a title="http://woork.blogspot.com/2008/08/10-handwritten-fonts-you-cant-miss.html" class="external text" href="http://woork.blogspot.com/2008/08/10-handwritten-fonts-you-cant-miss.html">Handwriting fonts</a>
 </li></ul>
-<a id="Foundries" name="Foundries"></a><h2> <span class="mw-headline"> Foundries </span></h2>
+<h4> Foundries</h4>
 <p>Please list foundries to contact and ask if they have any 'off cuts' or fonts they don't earn much from any more, and if they'd like to OFL them; Many foundries offer "freemium" fonts such as <a title="http://www.carrois.com/en/download.html" class="external text" href="http://www.carrois.com/en/download.html">Carrois</a> and these might be a good place to start.
 </p>
 <ul><li> <a title="http://www.carrois.com/en/download.html" class="external text" href="http://www.carrois.com/en/download.html">Carrois</a>
