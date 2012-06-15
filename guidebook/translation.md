@@ -1,12 +1,12 @@
 <h1>How to Translate the Site</h1>
 
-<p>If you're not yet an OFLB Translator, <a href="http://dev.openfontlibrary.org/en/guidebook/become-a-translator">learn how to upgrade your account</a>.</p>
+<p>If you're not yet an OFLB Translator, <a href="/guidebook/become-a-translator">learn how to upgrade your account</a>.</p>
 
-<img src="[root]/assets/images/screenshot-translation-full.png" alt="Translation - Existing Terms" style="width:100%; margin-bottom:18px;"/>
+<img src="http://openfontlibrary.org/assets/images/screenshot-translation-full.png" alt="Translation - Existing Terms" style="width:100%; margin-bottom:18px;"/>
 
 <h4>The Translation Interface</h4>
 
-<p>When logged in, visit the <a href="http://dev.openfontlibrary.org/en/translation">translation</a> page.</p>
+<p>When logged in, visit the <a href="/translation">translation</a> page.</p>
 
 <p>Once there, you'll see the 3 sections that make up the interface.</p>
 
@@ -18,7 +18,7 @@
 
 <p>In the 2nd section, you're presented with 3 text areas.</p>  
 
-<img src="[root]/assets/images/screenshot-translation-new-term.png" alt="Translation - Add New Term" style="width:100%; margin-bottom:18px;"/>
+<img src="http://openfontlibrary.org/assets/images/screenshot-translation-new-term.png" alt="Translation - Add New Term" style="width:100%; margin-bottom:18px;"/>
 
 <p>The "Context/URL" area is an optional description of where the text you are translating exists in the site.  Filling out this section can help you and other Translators identify what has already been translated.</p>
 
@@ -32,7 +32,7 @@
 
 <h4>Existing Term</h4>
 
-<img src="[root]/assets/images/screenshot-translation-existing-terms.png" alt="Translation - Existing Terms" style="width:100%; margin-bottom:18px;"/>
+<img src="http://openfontlibrary.org/assets/images/screenshot-translation-existing-terms.png" alt="Translation - Existing Terms" style="width:100%; margin-bottom:18px;"/>
 
 <p>The final section of the Translation Interface contains tabulated list of the currently existing terms that have been added by Translators.  This list is controlled by the initial "Selected Language" drop down box.  Selecting a different language will change the list to reflect only terms that exist for that newly selected language.  You can also filter the results of this section to show only untranslated terms by selecting the checkbox just above this section.</p>
 
