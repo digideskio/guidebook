@@ -54,5 +54,5 @@ Unicode has an <a title="http://unicode.org/" class="external text" href="http:/
 <a title="http://linux.about.com/library/howto/font/blfont2.htm" class="external text" href="http://linux.about.com/library/howto/font/blfont2.htm">about.com Fonts 101</a>
 <a title="http://www.xml.com/pub/a/2004/05/12/svg.html?page=1" class="external text" href="http://www.xml.com/pub/a/2004/05/12/svg.html?page=1">xml.com: SVG and Typography</a>
 <a title="http://nwalsh.com/comp.fonts/FAQ/" class="external text" href="http://nwalsh.com/comp.fonts/FAQ/">comp.fonts FONT FAQ</a> - Comprehensive, but last updated in 1996
-<br><br>You may also be interesting in <a title="Books" href="/wiki/Books">Books</a> on theses subjects...
+<p>You may also be interesting in <a title="Books" href="/wiki/Books">Books</a> on theses subjects...
 </p>
