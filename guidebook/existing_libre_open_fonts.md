@@ -208,32 +208,54 @@
 </li><li> The original Mac distribution of Bitstream Charter contains pixel versions—both regular, bold and bold italic!
 </p>
 <h4> Freeware Fonts </h4>
-<p>Please link to any existing "freeware" fonts you may find on the web that despite being proprietary may be friendly to the Library - these are fonts you typically do not need to pay money to receive, and may or may not come with a license that grants other essential freedoms like redistributing the font and modifying it, but does not fit the free software definition in some way. We will try to persuade these fonts' developers to "Go OFL!"
+<p>Please link to any existing "freeware" fonts you may find on the web that despite being proprietary may be friendly to the Library - these are fonts you typically do not need to pay money to receive, and may or may not come with a license that grants other essential freedoms like redistributing the font and modifying it, but does not fit the free software definition in some way. We will try to persuade these fonts' developers to "Go OFL!"</p>
 
-<p><a title="http://inspirationfeed.com/design/2010/04/40-free-fantastic-sans-serif-fonts/" class="external text" href="http://inspirationfeed.com/design/2010/04/40-free-fantastic-sans-serif-fonts/">40 Sans Freeware fonts</a>
-</li><li> <a title="http://www.littleboxofideas.com/blog/design-resources/15-exceptional-handwritten-free-fonts" class="external text" href="http://www.littleboxofideas.com/blog/design-resources/15-exceptional-handwritten-free-fonts">15 handwriting freeware fonts</a>
-</li><li> <a title="http://iniwoo.net/freebies/fresh-free-fonts/" class="external text" href="http://iniwoo.net/freebies/fresh-free-fonts/">Fresh freware fonts</a>
-</li><li> <a title="http://www.cssrex.com/inspiration/25-best-free-futuristic-techno-fonts/" class="external text" href="http://www.cssrex.com/inspiration/25-best-free-futuristic-techno-fonts/">25 freeware techno fonts</a>
-</li><li> <a title="http://justcreativedesign.com/2008/03/02/30-best-font-downloads-for-designers/" class="external text" href="http://justcreativedesign.com/2008/03/02/30-best-font-downloads-for-designers/">30 best freeware fonts</a>
-</li><li> <a title="http://www.tripwiremagazine.com/2009/12/65-currently-some-of-the-best-free-fonts-available.html" class="external text" href="http://www.tripwiremagazine.com/2009/12/65-currently-some-of-the-best-free-fonts-available.html">65 best freeware fonts</a>
-</li><li> <a title="http://www.fontspace.com" class="external text" href="http://www.fontspace.com">FontSpace</a>
-</li><li> <a title="http://www.bittbox.com/freebies/bb-free-font-conglomerfont/" class="external text" href="http://www.bittbox.com/freebies/bb-free-font-conglomerfont/">Conglomerfont</a> is a weird display collaborative font
-</li><li> <a title="http://moorstation.org/typoasis/designers/klein/index.htm" class="external text" href="http://moorstation.org/typoasis/designers/klein/index.htm">Klein</a> is a huge foundry of freeware fonts
-</li><li> <a title="http://thefontlibrary.com/" class="external text" href="http://thefontlibrary.com/">The Font Library</a> links to us and others
-</li><li> <a title="http://www.alvit.de/blog/article/20-best-license-free-official-fonts" class="external free" href="http://www.alvit.de/blog/article/20-best-license-free-official-fonts">http://www.alvit.de/blog/article/20-best-license-free-official-fonts</a> - 20 fonts whose authors need contacting to go OFL :-)
-</li><li> <a title="http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/" class="external free" href="http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/">http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/</a> - 17 more!
-</li><li> <a title="http://www.larabiefonts.com/" class="external free" href="http://www.larabiefonts.com/">http://www.larabiefonts.com/</a> - 380  freeware fonts!
-</li><li> <a title="http://www.fontgarden.com/gallery.php" class="external text" href="http://www.fontgarden.com/gallery.php">Free Handwriting fonts - Font Garden</a>
-</li><li> <a title="http://www.smashingmagazine.com/2007/11/08/40-excellent-freefonts-for-professional-design/" class="external text" href="http://www.smashingmagazine.com/2007/11/08/40-excellent-freefonts-for-professional-design/">40 freeware fonts</a>
-</li><li> <a title="http://www.ifao.egnet.net/doc/Outils/polices.php#download" class="external text" href="http://www.ifao.egnet.net/doc/Outils/polices.php#download">Coptic</a> fonts intended as free software not not yet properly licensed
-</li><li> <a title="http://www.alvit.de/blog/article/20-best-license-free-official-fonts" class="external text" href="http://www.alvit.de/blog/article/20-best-license-free-official-fonts">List of 20 good ones</a>
-</li><li> <a title="http://www.webfonts.info/" class="external text" href="http://www.webfonts.info/">WebFonts.info</a> Lists fonts for CSS3 font linking
-</li><li> <a title="http://www.bittbox.com/freebies/bb-free-font-tire-shop-demo-verison/" class="external text" href="http://www.bittbox.com/freebies/bb-free-font-tire-shop-demo-verison/">Tire Shop</a> demo
-</li><li> <a title="http://thinkdesignblog.com/20-beautiful-free-serif-fonts.htm" class="external text" href="http://thinkdesignblog.com/20-beautiful-free-serif-fonts.htm">20 freeware serif fonts</a>
-</li><li> <a title="http://www.justusteachers.com/" class="external text" href="http://www.justusteachers.com/">Math fonts</a>
-</li><li> <a title="http://fonts.tom7.com/" class="external text" href="http://fonts.tom7.com/">Toms doodle fonts</a>
-</li><li> <a title="http://www.fontleech.com/" class="external text" href="http://www.fontleech.com/">fontleech.com</a> lists freeware fonts
-</li><li> <a title="http://woork.blogspot.com/2008/08/10-handwritten-fonts-you-cant-miss.html" class="external text" href="http://woork.blogspot.com/2008/08/10-handwritten-fonts-you-cant-miss.html">Handwriting fonts</a>
+<p><a title="http://inspirationfeed.com/design/2010/04/40-free-fantastic-sans-serif-fonts/" class="external text" href="http://inspirationfeed.com/design/2010/04/40-free-fantastic-sans-serif-fonts/">40 Sans Freeware fonts</a><br>
+
+<a title="http://www.littleboxofideas.com/blog/design-resources/15-exceptional-handwritten-free-fonts" class="external text" href="http://www.littleboxofideas.com/blog/design-resources/15-exceptional-handwritten-free-fonts">15 handwriting freeware fonts</a><br>
+
+<a title="http://iniwoo.net/freebies/fresh-free-fonts/" class="external text" href="http://iniwoo.net/freebies/fresh-free-fonts/">Fresh freware fonts</a><br>
+
+<a title="http://www.cssrex.com/inspiration/25-best-free-futuristic-techno-fonts/" class="external text" href="http://www.cssrex.com/inspiration/25-best-free-futuristic-techno-fonts/">25 freeware techno fonts</a><br>
+
+<a title="http://justcreativedesign.com/2008/03/02/30-best-font-downloads-for-designers/" class="external text" href="http://justcreativedesign.com/2008/03/02/30-best-font-downloads-for-designers/">30 best freeware fonts</a><br>
+
+<a title="http://www.tripwiremagazine.com/2009/12/65-currently-some-of-the-best-free-fonts-available.html" class="external text" href="http://www.tripwiremagazine.com/2009/12/65-currently-some-of-the-best-free-fonts-available.html">65 best freeware fonts</a><br>
+
+<a title="http://www.fontspace.com" class="external text" href="http://www.fontspace.com">FontSpace</a><br>
+
+<a title="http://www.bittbox.com/freebies/bb-free-font-conglomerfont/" class="external text" href="http://www.bittbox.com/freebies/bb-free-font-conglomerfont/">Conglomerfont</a> is a weird display collaborative font<br>
+
+<a title="http://moorstation.org/typoasis/designers/klein/index.htm" class="external text" href="http://moorstation.org/typoasis/designers/klein/index.htm">Klein</a> is a huge foundry of freeware fonts<br>
+
+<a title="http://thefontlibrary.com/" class="external text" href="http://thefontlibrary.com/">The Font Library</a> links to us and others
+</li><li> <a title="http://www.alvit.de/blog/article/20-best-license-free-official-fonts" class="external free" href="http://www.alvit.de/blog/article/20-best-license-free-official-fonts">http://www.alvit.de/blog/article/20-best-license-free-official-fonts</a> - 20 fonts whose authors need contacting to go OFL :-)<br>
+
+<a title="http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/" class="external free" href="http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/">http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/</a> - 17 more!<br>
+
+<a title="http://www.larabiefonts.com/" class="external free" href="http://www.larabiefonts.com/">http://www.larabiefonts.com/</a> - 380  freeware fonts!<br>
+
+<a title="http://www.fontgarden.com/gallery.php" class="external text" href="http://www.fontgarden.com/gallery.php">Free Handwriting fonts - Font Garden</a><br>
+
+<a title="http://www.smashingmagazine.com/2007/11/08/40-excellent-freefonts-for-professional-design/" class="external text" href="http://www.smashingmagazine.com/2007/11/08/40-excellent-freefonts-for-professional-design/">40 freeware fonts</a><br>
+
+<a title="http://www.ifao.egnet.net/doc/Outils/polices.php#download" class="external text" href="http://www.ifao.egnet.net/doc/Outils/polices.php#download">Coptic</a> fonts intended as free software not not yet properly licensed<br>
+
+<a title="http://www.alvit.de/blog/article/20-best-license-free-official-fonts" class="external text" href="http://www.alvit.de/blog/article/20-best-license-free-official-fonts">List of 20 good ones</a><br>
+
+<a title="http://www.webfonts.info/" class="external text" href="http://www.webfonts.info/">WebFonts.info</a> Lists fonts for CSS3 font linking<br>
+
+<a title="http://www.bittbox.com/freebies/bb-free-font-tire-shop-demo-verison/" class="external text" href="http://www.bittbox.com/freebies/bb-free-font-tire-shop-demo-verison/">Tire Shop</a> demo<br>
+
+<a title="http://thinkdesignblog.com/20-beautiful-free-serif-fonts.htm" class="external text" href="http://thinkdesignblog.com/20-beautiful-free-serif-fonts.htm">20 freeware serif fonts</a><br>
+
+<a title="http://www.justusteachers.com/" class="external text" href="http://www.justusteachers.com/">Math fonts</a><br>
+
+<a title="http://fonts.tom7.com/" class="external text" href="http://fonts.tom7.com/">Toms doodle fonts</a><br>
+
+<a title="http://www.fontleech.com/" class="external text" href="http://www.fontleech.com/">fontleech.com</a> lists freeware fonts<br>
+
+<a title="http://woork.blogspot.com/2008/08/10-handwritten-fonts-you-cant-miss.html" class="external text" href="http://woork.blogspot.com/2008/08/10-handwritten-fonts-you-cant-miss.html">Handwriting fonts</a>
 </p>
 <h4> Foundries</h4>
 <p>Please list foundries to contact and ask if they have any 'off cuts' or fonts they don't earn much from any more, and if they'd like to OFL them; Many foundries offer "freemium" fonts such as <a title="http://www.carrois.com/en/download.html" class="external text" href="http://www.carrois.com/en/download.html">Carrois</a> and these might be a good place to start.
