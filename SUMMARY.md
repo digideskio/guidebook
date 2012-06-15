@@ -4,6 +4,7 @@
 
 * [Vocabulary](guidebook/vocabulary.md)
 * [Typeface Education Design](guidebook/typeface_education_design.md)
+* [How to Translate the Site](guidebook/translation.md)
 * [Submission Guidelines](guidebook/submission_guidelines.md)
 * [Software Resources](guidebook/software.md)
 * [Related Projects](guidebook/related_projects.md)
