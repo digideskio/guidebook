@@ -5,6 +5,7 @@
 </p>
 
 <h4> Individuals Fonts </h4>
+<p>
 <a id="YOUR_NAME_HERE" name="YOUR_NAME_HERE"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
 <ul><li> <a title="http://www.marca.unb.br/fontesunb.php" class="external text" href="http://www.marca.unb.br/fontesunb.php">UNB Pro and UNB Office</a>, extensively reworked derivatives of the RedHat Liberation family by Amsterdam-based Gustavo Ferreira - GPLv2+FE <b>can't access website</b>
 </li><li> <a title="http://www.fontspace.com/gluk/itsadzoke" class="external text" href="http://www.fontspace.com/gluk/itsadzoke">Itzadoke</a> OFL <b>check old OFLB</b>
@@ -237,19 +238,4 @@
 </li><li> <a title="http://moorstation.org/typoasis/designers/klein03/text/folks.htm" class="external text" href="http://moorstation.org/typoasis/designers/klein03/text/folks.htm">Manfred Klein</a>
 </li><li> <a title="http://www.smeltery.net/fonts/?c=free" class="external text" href="http://www.smeltery.net/fonts/?c=free">Smeltry</a>
 </li><li> <a title="http://www.thefontry.com/" class="external text" href="http://www.thefontry.com/">The Fontry</a>
-</li></ul>
-
-<!-- 
-NewPP limit report
-Preprocessor node count: 32/1000000
-Post-expand include size: 0/2097152 bytes
-Template argument size: 0/2097152 bytes
-Expensive parser function count: 0/100
--->
-
-<!-- Saved in parser cache with key openfontlibrary-mw_:pcache:idhash:937-0!1!0!!en!2!edit=0 and timestamp 20120322202418 -->
-<div class="printfooter">
-Retrieved from "<a href="http://openfontlibrary.org/wiki/Existing_Libre/Open_Fonts">http://openfontlibrary.org/wiki/Existing_Libre/Open_Fonts</a>"</div>
-						<!-- end content -->
-						<div class="visualClear"></div>
-		</div>
+</p>
