@@ -33,7 +33,7 @@
 <a title="http://typographica.com" class="external text" href="http://typographica.com">Typographica</a> - review of typefaces and type books, with occasional commentary on fonts and typographic design.
 
 <h4> Specifications and Standards </h4>
-<a title="http://fontforge.sourceforge.net" class="external text" href="http://fontforge.sourceforge.net">FontForge Developer Mailing List</a> has lots of people who know about these issues
+<p><a title="http://fontforge.sourceforge.net" class="external text" href="http://fontforge.sourceforge.net">FontForge Developer Mailing List</a> has lots of people who know about these issues
 <a title="http://www.wotsit.org/search.asp?s=font" class="external text" href="http://www.wotsit.org/search.asp?s=font">Known Font Formats and their Specs</a>
 <a title="http://partners.adobe.com/public/developer/en/font/T1_SPEC.PDF" class="external text" href="http://partners.adobe.com/public/developer/en/font/T1_SPEC.PDF">Adobe's Type1 Font Format Specification (pdf)</a>
 Unicode has an <a title="http://unicode.org/" class="external text" href="http://unicode.org/">official website</a>, but the <a title="http://www.decodeunicode.org/" class="external text" href="http://www.decodeunicode.org/">decodeunicode</a> site may also be useful; an open database that gives an overview of the whole unicode character range.
