@@ -55,11 +55,17 @@
 <a title="http://wiki.scribus.net/index.php/Installing_additional_fonts" class="external text" href="http://wiki.scribus.net/index.php/Installing_additional_fonts">Scribus Wiki: Installing Fonts</a></p>
 
 <h4> Font Technology</h4>
-<p><a title="http://freetype.org/" class="external text" href="http://freetype.org/">Freetype Project</a>
-<a title="http://www.pango.org" class="external text" href="http://www.pango.org">Pango Project</a>
-<a title="FontConfig" href="/wiki/FontConfig">FontConfig</a>
-<a title="http://www.tldp.org/HOWTO/Font-HOWTO/" class="external text" href="http://www.tldp.org/HOWTO/Font-HOWTO/">The Linux Documentation Project Font-HOWTO</a>
-<a title="http://linux.about.com/library/howto/font/blfont2.htm" class="external text" href="http://linux.about.com/library/howto/font/blfont2.htm">about.com Fonts 101</a>
-<a title="http://www.xml.com/pub/a/2004/05/12/svg.html?page=1" class="external text" href="http://www.xml.com/pub/a/2004/05/12/svg.html?page=1">xml.com: SVG and Typography</a>
-<a title="http://nwalsh.com/comp.fonts/FAQ/" class="external text" href="http://nwalsh.com/comp.fonts/FAQ/">comp.fonts FONT FAQ</a> - Comprehensive, but last updated in 1996
+<p><a title="http://freetype.org/" class="external text" href="http://freetype.org/">Freetype Project</a><br>
+
+<a title="http://www.pango.org" class="external text" href="http://www.pango.org">Pango Project</a><br>
+
+<a title="FontConfig" href="/wiki/FontConfig">FontConfig</a><br>
+
+<a title="http://www.tldp.org/HOWTO/Font-HOWTO/" class="external text" href="http://www.tldp.org/HOWTO/Font-HOWTO/">The Linux Documentation Project Font-HOWTO</a><br>
+
+<a title="http://linux.about.com/library/howto/font/blfont2.htm" class="external text" href="http://linux.about.com/library/howto/font/blfont2.htm">about.com Fonts 101</a><br>
+
+<a title="http://www.xml.com/pub/a/2004/05/12/svg.html?page=1" class="external text" href="http://www.xml.com/pub/a/2004/05/12/svg.html?page=1">xml.com: SVG and Typography</a><br>
+
+<a title="http://nwalsh.com/comp.fonts/FAQ/" class="external text" href="http://nwalsh.com/comp.fonts/FAQ/">comp.fonts FONT FAQ</a> - comprehensive, but last updated in 1996
 </p>
