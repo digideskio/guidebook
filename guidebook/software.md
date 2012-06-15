@@ -1,6 +1,5 @@
 <h1>Software Resources</h1>
 
-
 			<p>To draw type, using a fully featured drawing program like <a title="http://www.inkscape.net" class="external text" href="http://www.inkscape.net">Inkscape</a> can be fun to experiment with shapes, but the drawing tools of an outline editor like <a title="http://fontforge.sf.net" class="external text" href="http://fontforge.sf.net">FontForge</a> are best for actually drawing a coherent system of glyphs. To learn more, there are <a title="Books" href="/wiki/Books">Books</a> and <a title="Typeface Design Education" href="/wiki/Typeface_Design_Education">Typeface Design Education</a> courses you can read and attend. 
 </p><p>To make fonts, use <a title="http://fontforge.sf.net" class="external text" href="http://fontforge.sf.net">FontForge</a> and <a title="http://xgridfit.sf.net" class="external text" href="http://xgridfit.sf.net">xgridfit</a>. There is a great <a title="http://fontforge.sourceforge.net/editexample.html" class="external text" href="http://fontforge.sourceforge.net/editexample.html">FontForge Tutorial</a> to get started with. On the <a class="mw-redirect" title="Existing Fonts" href="/wiki/Existing_Fonts">Existing Fonts</a> page are links to scans from old books and specimen sheets that could be used to create 'revival' typefaces. This could be a good starting exercise. 
 </p><p>This page lists software tools for creating and manipulation fonts.
@@ -54,7 +53,6 @@
 </li><li> <a title="http://www.m-i-b.com.ar/mib/letter_pairs/eng/index.htm" class="external text" href="http://www.m-i-b.com.ar/mib/letter_pairs/eng/index.htm">Latter Pair Analysis</a>
 </li><li> Editors: <a title="http://fontly.com/" class="external text" href="http://fontly.com/">Fontly</a>
 </li></ul>
-<p><br>
 </p>
 <h4> Other Tools </h4>
 <ul><li> <a title="http://www.robofab.org" class="external text" href="http://www.robofab.org">RoboFab</a> is ‘a Python library with objects that deal with data usually associated with fonts and type design’. It depends on FontLab for some of its functionality, like generating font binaries. The "NoneLab" components depend on only Python. There is a historical link with the TTX/FontTools. Python licensed.
