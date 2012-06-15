@@ -200,17 +200,17 @@
 >
 <h4> Pixel Fonts </h4>
 <p>
-<ul><li> <a title="http://www.hassings.dk/lars/fonts.html" class="external text" href="http://www.hassings.dk/lars/fonts.html">Classic X11 6x10 Font For Windows</a> (unknown)
+<a title="http://www.hassings.dk/lars/fonts.html" class="external text" href="http://www.hassings.dk/lars/fonts.html">Classic X11 6x10 Font For Windows</a> (unknown)
 </li><li> <a title="http://world.std.com/~franl/6x10.html" class="external text" href="http://world.std.com/~franl/6x10.html">X Windows Fonts for MS Windows</a> ("Free To Use")
 </li><li> A list of <a title="http://keithdevens.com/wiki/ProgrammerFonts" class="external text" href="http://keithdevens.com/wiki/ProgrammerFonts">Programmer Fonts</a> to look into
 </li><li> <a title="http://www.orgdot.com/aliasfonts/" class="external text" href="http://www.orgdot.com/aliasfonts/">AliasFonts at Orgdot</a> - very cool
 </li><li> Debian package xfonts-artwiz
 </li><li> The original Mac distribution of Bitstream Charter contains pixel versions—both regular, bold and bold italic!
-</li></ul><p>
+</p>
 <h4> Freeware Fonts </h4>
 <p>Please link to any existing "freeware" fonts you may find on the web that despite being proprietary may be friendly to the Library - these are fonts you typically do not need to pay money to receive, and may or may not come with a license that grants other essential freedoms like redistributing the font and modifying it, but does not fit the free software definition in some way. We will try to persuade these fonts' developers to "Go OFL!"
-</p>
-<ul><li> <a title="http://inspirationfeed.com/design/2010/04/40-free-fantastic-sans-serif-fonts/" class="external text" href="http://inspirationfeed.com/design/2010/04/40-free-fantastic-sans-serif-fonts/">40 Sans Freeware fonts</a>
+
+<p><a title="http://inspirationfeed.com/design/2010/04/40-free-fantastic-sans-serif-fonts/" class="external text" href="http://inspirationfeed.com/design/2010/04/40-free-fantastic-sans-serif-fonts/">40 Sans Freeware fonts</a>
 </li><li> <a title="http://www.littleboxofideas.com/blog/design-resources/15-exceptional-handwritten-free-fonts" class="external text" href="http://www.littleboxofideas.com/blog/design-resources/15-exceptional-handwritten-free-fonts">15 handwriting freeware fonts</a>
 </li><li> <a title="http://iniwoo.net/freebies/fresh-free-fonts/" class="external text" href="http://iniwoo.net/freebies/fresh-free-fonts/">Fresh freware fonts</a>
 </li><li> <a title="http://www.cssrex.com/inspiration/25-best-free-futuristic-techno-fonts/" class="external text" href="http://www.cssrex.com/inspiration/25-best-free-futuristic-techno-fonts/">25 freeware techno fonts</a>
@@ -234,10 +234,10 @@
 </li><li> <a title="http://fonts.tom7.com/" class="external text" href="http://fonts.tom7.com/">Toms doodle fonts</a>
 </li><li> <a title="http://www.fontleech.com/" class="external text" href="http://www.fontleech.com/">fontleech.com</a> lists freeware fonts
 </li><li> <a title="http://woork.blogspot.com/2008/08/10-handwritten-fonts-you-cant-miss.html" class="external text" href="http://woork.blogspot.com/2008/08/10-handwritten-fonts-you-cant-miss.html">Handwriting fonts</a>
-</li></ul>
+</p>
 <h4> Foundries</h4>
 <p>Please list foundries to contact and ask if they have any 'off cuts' or fonts they don't earn much from any more, and if they'd like to OFL them; Many foundries offer "freemium" fonts such as <a title="http://www.carrois.com/en/download.html" class="external text" href="http://www.carrois.com/en/download.html">Carrois</a> and these might be a good place to start.
-</p>
+<br>
 <ul><li> <a title="http://www.carrois.com/en/download.html" class="external text" href="http://www.carrois.com/en/download.html">Carrois</a>
 </li><li> <a title="http://www.designer-daily.com/16-type-foundries-you%E2%80%99ve-probably-never-heard-before-and-1-font-from-their-libraries-1357" class="external text" href="http://www.designer-daily.com/16-type-foundries-you%E2%80%99ve-probably-never-heard-before-and-1-font-from-their-libraries-1357">16 small ones</a>
 </li><li> <a title="http://www.crazydiamond.co.uk" class="external text" href="http://www.crazydiamond.co.uk">Crazy Diamond</a>
