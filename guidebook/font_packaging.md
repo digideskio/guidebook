@@ -4,10 +4,10 @@
 </p>
 <h4> Font archive naming </h4>
 <p>If the font has a suitable license and gets accepted to Debian/Ubuntu/Fedora, for example, it will acquire a name of the form <i>ttf-foundryname-fontfamilyname"</i>
-</p><p>The actually package could be <i>ttf-oflb-myfont.1.0.zip</i> (or <i>ttf-oflb-myfont.1.0.7z</i>, or <i>ttf-oflb-myfont.1.0.tar.gz</i>)
-</p><p>The package should contains as much of the extended font source as possible.
-</p><p>Regarding the version numbers please follow the binary version field in the ttf itself.
-</p>
+<p>The actually package could be <i>ttf-oflb-myfont.1.0.zip</i> (or <i>ttf-oflb-myfont.1.0.7z</i>, or <i>ttf-oflb-myfont.1.0.tar.gz</i>)
+<p>The package should contains as much of the extended font source as possible.
+<p>Regarding the version numbers please follow the binary version field in the ttf itself.
+
 </p>
 <h4> Font Headers </h4>
 <p>TrueType and Postscript fonts possess headers which can bear meta information. Amongst others, there are standard fields for
