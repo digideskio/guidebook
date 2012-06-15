@@ -1,22 +1,10 @@
 <h1>Existing Libre/Open Fonts</h1>
 
-<div id="bodyContent">
-			<h3 id="siteSub">From OFLB</h3>
-			<div id="contentSub"></div>
-									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
-			<table summary="Contents" class="toc" id="toc"><tbody><tr><td><div id="toctitle"><h2>Contents</h2> <span class="toctoggle">[<a id="togglelink" class="internal" href="javascript:toggleToc()">hide</a>]</span></div>
-<ul>
-<li class="toclevel-1"><a href="#Libre.2FOpen_Fonts"><span class="tocnumber">1</span> <span class="toctext">Libre/Open Fonts</span></a>
-<ul>
-<li class="toclevel-2"><a href="#Individuals_Fonts"><span class="tocnumber">1.1</span> <span class="toctext">Individuals Fonts</span></a>
-
-</td></tr></tbody></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
-<a id="Libre.2FOpen_Fonts" name="Libre.2FOpen_Fonts"></a><h2> <span class="mw-headline"> Libre/Open Fonts </span></h2>
+<h4> Libre/Open Fonts </h4>
 <p>Please link to any existing Libre/Open Fonts you may find on the web - they can be under any license as long as its a free software license like the OFL, GPL with exception or MIT/X11/Expat! 
-</p><p><br>
 </p>
-<hr>
-<a id="Individuals_Fonts" name="Individuals_Fonts"></a><h3> <span class="mw-headline"> Individuals Fonts </span></h3>
+
+<h4> Individuals Fonts </h4>
 <a id="YOUR_NAME_HERE" name="YOUR_NAME_HERE"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
 <ul><li> <a title="http://www.marca.unb.br/fontesunb.php" class="external text" href="http://www.marca.unb.br/fontesunb.php">UNB Pro and UNB Office</a>, extensively reworked derivatives of the RedHat Liberation family by Amsterdam-based Gustavo Ferreira - GPLv2+FE <b>can't access website</b>
 </li><li> <a title="http://www.fontspace.com/gluk/itsadzoke" class="external text" href="http://www.fontspace.com/gluk/itsadzoke">Itzadoke</a> OFL <b>check old OFLB</b>
@@ -76,9 +64,9 @@
 <a id="YOUR_NAME_HERE_4" name="YOUR_NAME_HERE_4"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
 <ul><li> <a title="http://fpf.sourceforge.net/cms/" class="external text" href="http://fpf.sourceforge.net/cms/">Persian Font</a>
 </li><li> <a title="http://groups.msn.com/Manchu" class="external text" href="http://groups.msn.com/Manchu">Manchu OpenType Font</a> (OFL)
-</li><li> <a title="http://www.arabeyes.org/project.php?proj=Khotot" class="external text" href="http://www.arabeyes.org/project.php?proj=Khotot">Arabeyes Mothana &amp; Thabit </a> (OFL)
+</li><li> <a title="http://www.arabeyes.org/project.php?proj=Khotot" class="external text" href="http://www.arabeyes.org/project.php?proj=Khotot">Arabeyes Mothana & Thabit </a> (OFL)
 </li><li> <a title="http://sourceforge.net/projects/hittitefont" class="external text" href="http://sourceforge.net/projects/hittitefont">Ancient Hittite Font</a>
-</li><li> <a title="http://sourceforge.net/projects/paktype" class="external text" href="http://sourceforge.net/projects/paktype">PakType &mdash; Pakistani Typography</a>
+</li><li> <a title="http://sourceforge.net/projects/paktype" class="external text" href="http://sourceforge.net/projects/paktype">PakType — Pakistani Typography</a>
 </li><li> <a title="http://www.levien.com/type/myfonts/" class="external text" href="http://www.levien.com/type/myfonts/">Raph Levien's fonts</a> (OFL)
 </li></ul>
 <a id="Alex" name="Alex"></a><h4> <span class="mw-headline"> Alex </span></h4>
@@ -167,7 +155,7 @@
 </li><li> <a title="https://fedoraproject.org/wiki/SIGs/Fonts/Triaging/Pipeline/WishList" class="external text" href="https://fedoraproject.org/wiki/SIGs/Fonts/Triaging/Pipeline/WishList">Fedora Fonts Wishlist</a> and <a title="http://duffy.fedorapeople.org/fonts" class="external text" href="http://duffy.fedorapeople.org/fonts">Duffys Fonts Page</a> list libre/open fonts and <a title="http://fedoraproject.org/wiki/Category:Packaged_fonts" class="external text" href="http://fedoraproject.org/wiki/Category:Packaged_fonts">fedora has a list of packaged fonts too</a>
 </li><li> <a title="http://www.debian-art.org/index.php?xcontentmode=39" class="external text" href="http://www.debian-art.org/index.php?xcontentmode=39">Debian-Art.org</a> has a fonts category
 </li><li> <a title="http://typophile.com/node/60433" class="external text" href="http://typophile.com/node/60433">TP on Vintage Sans Serifs</a>
-</li><li> <a title="http://cg.scs.carleton.ca/~luc/original2fonts.html?keepThis=true&amp;TB_iframe=true" class="external text" href="http://cg.scs.carleton.ca/~luc/original2fonts.html?keepThis=true&amp;TB_iframe=true">Luc's List</a>
+</li><li> <a title="http://cg.scs.carleton.ca/~luc/original2fonts.html?keepThis=true&TB_iframe=true" class="external text" href="http://cg.scs.carleton.ca/~luc/original2fonts.html?keepThis=true&TB_iframe=true">Luc's List</a>
 </li><li> <a title="http://code.google.com/webfonts" class="external text" href="http://code.google.com/webfonts">Google's font Directory</a> You can't downlaod the font's here, but the mostly OFL fonts are available on the designers websites and setup for web embedding.
 </li></ul>
 <a id="Scans" name="Scans"></a><h2> <span class="mw-headline"> Scans </span></h2>
@@ -192,7 +180,7 @@
 </li><li> <a title="http://www.flickr.com/photos/81176427@N00/sets/72157619145470268/" class="external text" href="http://www.flickr.com/photos/81176427@N00/sets/72157619145470268/">ATF Garamond scans</a>
 </li><li> <a title="http://typophile.com/node/59640" class="external text" href="http://typophile.com/node/59640">4 Historical Faces</a> discussion on Typophile
 </li><li> <a title="http://typophile.com/node/59639" class="external text" href="http://typophile.com/node/59639">Avil</a> discussion on Typophile
-</li><li> <a title="http://dave.lab6.com/acid/dump/2010/SchelterGrotesk_100216.zip" class="external text" href="http://dave.lab6.com/acid/dump/2010/SchelterGrotesk_100216.zip">Schelter &amp; Giesecke Grotesk</a> is scanned by Paulo Silva. This is a early grotesque, inspiring Helvetica, and this <a title="http://ilovetypography.com/2010/05/06/why-did-i-start-a-type-foundry/" class="external text" href="http://ilovetypography.com/2010/05/06/why-did-i-start-a-type-foundry/">ILT article by Christian Schwartz</a> mentions it has been revived as FF Bau (with original 2 story G) and the single-story ‘g’ is in Alte Haas Grotesk and Nebiolo’s Etruscan.
+</li><li> <a title="http://dave.lab6.com/acid/dump/2010/SchelterGrotesk_100216.zip" class="external text" href="http://dave.lab6.com/acid/dump/2010/SchelterGrotesk_100216.zip">Schelter & Giesecke Grotesk</a> is scanned by Paulo Silva. This is a early grotesque, inspiring Helvetica, and this <a title="http://ilovetypography.com/2010/05/06/why-did-i-start-a-type-foundry/" class="external text" href="http://ilovetypography.com/2010/05/06/why-did-i-start-a-type-foundry/">ILT article by Christian Schwartz</a> mentions it has been revived as FF Bau (with original 2 story G) and the single-story ‘g’ is in Alte Haas Grotesk and Nebiolo’s Etruscan.
 </li><li> <b>Please publish scans of public domain type and link to them here!</b>
 </li></ul>
 <p>Please note the <a title="http://www.typeright.org/getd_print.html" class="external text" href="http://www.typeright.org/getd_print.html">TypeRight ethical guide to revivals</a>.
@@ -209,7 +197,7 @@
 </li><li> A list of <a title="http://keithdevens.com/wiki/ProgrammerFonts" class="external text" href="http://keithdevens.com/wiki/ProgrammerFonts">Programmer Fonts</a> to look into
 </li><li> <a title="http://www.orgdot.com/aliasfonts/" class="external text" href="http://www.orgdot.com/aliasfonts/">AliasFonts at Orgdot</a> - very cool
 </li><li> Debian package xfonts-artwiz
-</li><li> The original Mac distribution of Bitstream Charter contains pixel versions&mdash;both regular, bold and bold italic!
+</li><li> The original Mac distribution of Bitstream Charter contains pixel versions—both regular, bold and bold italic!
 </li></ul>
 <a id="Freeware_Fonts" name="Freeware_Fonts"></a><h2> <span class="mw-headline"> Freeware Fonts </span></h2>
 <p>Please link to any existing "freeware" fonts you may find on the web that despite being proprietary may be friendly to the Library - these are fonts you typically do not need to pay money to receive, and may or may not come with a license that grants other essential freedoms like redistributing the font and modifying it, but does not fit the free software definition in some way. We will try to persuade these fonts' developers to "Go OFL!"
@@ -224,7 +212,7 @@
 </li><li> <a title="http://www.bittbox.com/freebies/bb-free-font-conglomerfont/" class="external text" href="http://www.bittbox.com/freebies/bb-free-font-conglomerfont/">Conglomerfont</a> is a weird display collaborative font
 </li><li> <a title="http://moorstation.org/typoasis/designers/klein/index.htm" class="external text" href="http://moorstation.org/typoasis/designers/klein/index.htm">Klein</a> is a huge foundry of freeware fonts
 </li><li> <a title="http://thefontlibrary.com/" class="external text" href="http://thefontlibrary.com/">The Font Library</a> links to us and others
-</li><li> <a title="http://www.alvit.de/blog/article/20-best-license-free-official-fonts" class="external free" href="http://www.alvit.de/blog/article/20-best-license-free-official-fonts">http://www.alvit.de/blog/article/20-best-license-free-official-fonts</a> - 20 fonts whose authors need contacting to go OFL&nbsp;:-)
+</li><li> <a title="http://www.alvit.de/blog/article/20-best-license-free-official-fonts" class="external free" href="http://www.alvit.de/blog/article/20-best-license-free-official-fonts">http://www.alvit.de/blog/article/20-best-license-free-official-fonts</a> - 20 fonts whose authors need contacting to go OFL :-)
 </li><li> <a title="http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/" class="external free" href="http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/">http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/</a> - 17 more!
 </li><li> <a title="http://www.larabiefonts.com/" class="external free" href="http://www.larabiefonts.com/">http://www.larabiefonts.com/</a> - 380  freeware fonts!
 </li><li> <a title="http://www.fontgarden.com/gallery.php" class="external text" href="http://www.fontgarden.com/gallery.php">Free Handwriting fonts - Font Garden</a>
