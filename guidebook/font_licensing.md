@@ -1,35 +1,5 @@
 <h1>Font Licensing</h1>
 
-<p>THIS PAGE IS OLD AND THE <a class="mw-redirect" title="License" href="/wiki/License">License</a> PAGE SUPERCEDES IT.
-</p>
-<h4>Contents</h4>
-<ul>
-<li class="toclevel-1"><a href="#What_license_should_fonts_submitted_to_this_project_be_governed_under.3F"><span class="tocnumber">1</span> <span class="toctext">What license should fonts submitted to this project be governed under?</span></a>
-<ul>
-<li class="toclevel-2"><a href="#How.3F"><span class="tocnumber">1.1</span> <span class="toctext">How?</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1"><a href="#The_Different_Kinds_of_Free_Fonts"><span class="tocnumber">2</span> <span class="toctext">The Different Kinds of Free Fonts</span></a></li>
-<li class="toclevel-1"><a href="#What_specific_licenses_are_suitable_for_Free_Fonts.3F"><span class="tocnumber">3</span> <span class="toctext">What specific licenses are suitable for Free Fonts?</span></a>
-<ul>
-<li class="toclevel-2"><a href="#Public_Domain"><span class="tocnumber">3.1</span> <span class="toctext">Public Domain</span></a>
-<ul>
-<li class="toclevel-3"><a href="#I_want_to_use_Public_Domain_instead_of_the_OFL"><span class="tocnumber">3.1.1</span> <span class="toctext">I want to use Public Domain instead of the OFL</span></a></li>
-<li class="toclevel-3"><a href="#What_is_the_Public_Domain.3F"><span class="tocnumber">3.1.2</span> <span class="toctext">What is the Public Domain?</span></a></li>
-<li class="toclevel-3"><a href="#Are_there_any_Free_Fonts_in_the_public_domain.3F"><span class="tocnumber">3.1.3</span> <span class="toctext">Are there any Free Fonts in the public domain?</span></a></li>
-<li class="toclevel-3"><a href="#Are_all_fonts_in_the_Public_Domain.3F"><span class="tocnumber">3.1.4</span> <span class="toctext">Are all fonts in the Public Domain?</span></a></li>
-<li class="toclevel-3"><a href="#Common_sense_vs_Legalism"><span class="tocnumber">3.1.5</span> <span class="toctext">Common sense vs Legalism</span></a></li>
-</ul>
-</li>
-<li class="toclevel-2"><a href="#GNU_GPL"><span class="tocnumber">3.2</span> <span class="toctext">GNU GPL</span></a></li>
-<li class="toclevel-2"><a href="#SIL_OFL"><span class="tocnumber">3.3</span> <span class="toctext">SIL OFL</span></a></li>
-<li class="toclevel-2"><a href="#Others"><span class="tocnumber">3.4</span> <span class="toctext">Others</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1"><a href="#Protecting_Font_Freedom"><span class="tocnumber">4</span> <span class="toctext">Protecting Font Freedom</span></a></li>
-<li class="toclevel-1"><a href="#External_Links"><span class="tocnumber">5</span> <span class="toctext">External Links</span></a></li>
-</ul>
-</td></tr></tbody></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
 <h4> What license should fonts submitted to this project be governed under? </h4>
 <p>Any free software license will be accepted, but please consider relicensing to the <a title="Open Font License" href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL">Open Font License</a>, or <a title="Sharing Agreement" href="http://sharism.org/en/agreement">Sharing Agreement</a>
 </p>
