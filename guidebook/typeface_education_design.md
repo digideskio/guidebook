@@ -1,7 +1,7 @@
 <h1>Typeface Education Design</h1>
 
 <h4>College Courses</h4>
-<p>
+<p></p>
 <h4> UK </h4>
 The University of Reading offers a postgraduate Masters (MA) course in Typeface Design, over 12 or 24 months: <a title="http://www.typedesign.rdg.ac.uk/" class="external free" href="http://www.typedesign.rdg.ac.uk/">http://www.typedesign.rdg.ac.uk/</a>
 
@@ -15,7 +15,7 @@ The University of Reading offers a postgraduate Masters (MA) course in Typeface 
 <a title="http://typoholic.ru/Type&Typography/" class="external free" href="http://typoholic.ru/Type&Typography/">http://typoholic.ru/Type&Typography/</a>
 
 <h4>  Italy </h4>
-<p><a title="http://www.polidesign.net/type/" class="external free" href="http://www.polidesign.net/type/">http://www.polidesign.net/type/</a>
+<a title="http://www.polidesign.net/type/" class="external free" href="http://www.polidesign.net/type/">http://www.polidesign.net/type/</a>
 
 <h4>  Switzerland </h4>
 ECAL offers an undergraduate degree - <a title="http://www.ecal.ch/bachelors_design_graphique.php" class="external free" href="http://www.ecal.ch/bachelors_design_graphique.php">http://www.ecal.ch/bachelors_design_graphique.php</a> - and a Masters degree - <a title="http://www.ecal.ch/masters_art_direction.php?lang=en" class="external free" href="http://www.ecal.ch/masters_art_direction.php?lang=en">http://www.ecal.ch/masters_art_direction.php?lang=en</a>
