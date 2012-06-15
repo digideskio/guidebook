@@ -2,13 +2,10 @@
 
 <h4> <span class="mw-headline"> Fonts vs Typefaces </span></h4>
 
-<p>A typeface means a style of lettering that can be used in many different typesetting systems.</p>
-
-<p>A font (today) means a digital implementation of a typeface.</p>
-
-<p>Please refer to <a title="http://en.wikipedia.org/wiki/Computer_font" class="external free" href="http://en.wikipedia.org/wiki/Computer_font">http://en.wikipedia.org/wiki/Computer_font</a> and <a title="http://en.wikipedia.org/wiki/Typefaces" class="external free" href="http://en.wikipedia.org/wiki/Typefaces">http://en.wikipedia.org/wiki/Typefaces</a> respectively.</p>
-
-<p>The Fontforge documentation has a good <a title="http://fontforge.sourceforge.net/GlossaryFS.html" class="external text" href="http://fontforge.sourceforge.net/GlossaryFS.html">glossary</a>
+<p>A typeface means a style of lettering that can be used in many different typesetting systems.<br>
+A font (today) means a digital implementation of a typeface.<br>
+Please refer to <a title="http://en.wikipedia.org/wiki/Computer_font" class="external free" href="http://en.wikipedia.org/wiki/Computer_font">http://en.wikipedia.org/wiki/Computer_font</a> and <a title="http://en.wikipedia.org/wiki/Typefaces" class="external free" href="http://en.wikipedia.org/wiki/Typefaces">http://en.wikipedia.org/wiki/Typefaces</a> respectively.<br>
+The Fontforge documentation has a good <a title="http://fontforge.sourceforge.net/GlossaryFS.html" class="external text" href="http://fontforge.sourceforge.net/GlossaryFS.html">glossary</a>
 </p>
 
 <h4> <span class="mw-headline"> OFL </span></h4>
