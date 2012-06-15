@@ -29,7 +29,6 @@
 </li><li> font creation date
 </li></ul>
 <p>and several more.
-</p><p><br>
-See <a title="Font metadata" href="/wiki/Font_metadata">font_metadata</a> for details. 
+
 </p><p>Packaging is best left to distro teams like the <a title="http://fedoraproject.org/wiki/SIGs/Fonts" class="external text" href="http://fedoraproject.org/wiki/SIGs/Fonts">Fedora font SIG</a> and the <a title="http://pkg-fonts.alioth.debian.org/" class="external text" href="http://pkg-fonts.alioth.debian.org/">Debian font task force</a> but encouraging designers uploading to OFL to follow best practises will help everyone.
 </p>
