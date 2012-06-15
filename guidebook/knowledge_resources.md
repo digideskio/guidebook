@@ -1,16 +1,15 @@
 <h1>Knowledge Resources</h1>
 
-<h4> General Resources </h4><p>
-<a title="http://just.letterror.com/ltrwiki/" class="external text" href="http://just.letterror.com/ltrwiki/">LettEror Wiki</a> - tools and knowledge from Dutch typographers, type designers and software developers Erik van Blokland and Just van Rossum.
-<a title="http://new.typemedia.org/info/ExternalResources/" class="external text" href="http://new.typemedia.org/info/ExternalResources/">Type and Media's links</a>
-<a title="http://www.typografie.info/typowiki/" class="external text" href="http://www.typografie.info/typowiki/">TypoWiki (de)</a> - open typography resource (in German)
-<a title="http://www.linotype.com/16879/index-doc.html" class="external text" href="http://www.linotype.com/16879/index-doc.html">Linotype Font Lounge</a>
-<a title="http://www.typophile.com/" class="external text" href="http://www.typophile.com/">Typophile</a> - extensive forum and wiki for type design and font technology. 
-<a title="http://www.tdc.org/views/typedictionary.html" class="external text" href="http://www.tdc.org/views/typedictionary.html">Type Designers Club Type Dictionary</a> - a dictionary of type design terminology
-<a title="http://en.wikipedia.org/wiki/List_of_type_designers" class="external text" href="http://en.wikipedia.org/wiki/List_of_type_designers">Wikipedia's List of Type Designers</a>
-<a title="http://www.typotheque.com/articles/" class="external text" href="http://www.typotheque.com/articles/">Typotheque/articles</a>
-<a title="http://www.fontzone.com" class="external text" href="http://www.fontzone.com">FontZone articles</a>
-<a title="http://www.fontshop.com/features/fontmag/" class="external text" href="http://www.fontshop.com/features/fontmag/">FontShop's "Font" magazine</a> (with full PDF downloads)
+<h4> General Resources </h4>
+<p><a title="http://new.typemedia.org/info/ExternalResources/" class="external text" href="http://new.typemedia.org/info/ExternalResources/">Type and Media's links</a><br>
+<a title="http://www.typografie.info/typowiki/" class="external text" href="http://www.typografie.info/typowiki/">TypoWiki (de)</a> - open typography resource (in German)<br>
+<a title="http://www.linotype.com/16879/index-doc.html" class="external text" href="http://www.linotype.com/16879/index-doc.html">Linotype Font Lounge</a><br>
+<a title="http://www.typophile.com/" class="external text" href="http://www.typophile.com/">Typophile</a> - extensive forum and wiki for type design and font technology<br>
+<a title="http://www.tdc.org/views/typedictionary.html" class="external text" href="http://www.tdc.org/views/typedictionary.html">Type Designers Club Type Dictionary</a> - a dictionary of type design terminology<br>
+<a title="http://en.wikipedia.org/wiki/List_of_type_designers" class="external text" href="http://en.wikipedia.org/wiki/List_of_type_designers">Wikipedia's List of Type Designers</a><br>
+<a title="http://www.typotheque.com/articles/" class="external text" href="http://www.typotheque.com/articles/">Typotheque/articles</a><br>
+<a title="http://www.fontzone.com" class="external text" href="http://www.fontzone.com">FontZone articles</a><br>
+<a title="http://www.fontshop.com/features/fontmag/" class="external text" href="http://www.fontshop.com/features/fontmag/">FontShop's "Font" magazine</a> (with full PDF downloads)<br>
 <a title="http://atypi.lists.textmatters.com/mailman/listinfo/members" class="external text" href="http://atypi.lists.textmatters.com/mailman/listinfo/members">ATypI member's mailing list archives</a></p>
 
 <h4>  How To Design New Type </h4>
