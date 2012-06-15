@@ -31,7 +31,7 @@
 </ul>
 </td></tr></tbody></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
 <h4> What license should fonts submitted to this project be governed under? </h4>
-<p>Any free software license will be accepted, but please consider relicensing to the <a title="Open Font License" href="/wiki/Open_Font_License">Open Font License</a>. 
+<p>Any free software license will be accepted, but please consider relicensing to the <a title="Open Font License" href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL">Open Font License</a>, or <a title="Sharing Agreement" href="http://sharism.org/en/agreement">Sharing Agreement</a?
 </p>
 <h4> <span class="mw-headline"> How? </h4>
 <p>To license fonts under the OFL, you must read it and its <a title="http://scripts.sil.org/OFL-FAQ_web" class="external text" href="http://scripts.sil.org/OFL-FAQ_web">FAQ</a> and follow the instructions. 
