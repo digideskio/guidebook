@@ -1,8 +1,6 @@
 <h1>Knowledge Resources</h1>
 
-<p>Here is a list of links to other sites with knowledge about fonts, type design and related matters:
-</p>
-<h4> General Resources </h4>
+<h4> General Resources </h4><p>
 <a title="http://just.letterror.com/ltrwiki/" class="external text" href="http://just.letterror.com/ltrwiki/">LettEror Wiki</a> - tools and knowledge from Dutch typographers, type designers and software developers Erik van Blokland and Just van Rossum.
 <a title="http://new.typemedia.org/info/ExternalResources/" class="external text" href="http://new.typemedia.org/info/ExternalResources/">Type and Media's links</a>
 <a title="http://www.typografie.info/typowiki/" class="external text" href="http://www.typografie.info/typowiki/">TypoWiki (de)</a> - open typography resource (in German)
