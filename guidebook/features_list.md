@@ -42,12 +42,4 @@ fonts set to 'featured' will show up in the carousel on the home page
 
 <h4>System Administrators</h4>
 <p> System Administrators can change the usergroup of any user (however an Admin cannot change his/her own group)
-
-<h4> Guests</h4>
-<p>Guests can be guests/visitors (what's the point of this group designation for System Admins?)
-Some Aiki default that no one ever uses. Christopher 14:53, 26 March 2012 (UTC)
-
-<h4> Banned Users</h4>
-<p> Banned users can be banned.
-Some Aiki default that no one ever uses. Christopher 14:53, 26 March 2012 (UTC)
-It would be great to have the above (and more) as a step-by-step testing checklist It would also be good to go back and test all the forms, and see what happens when you try to enter no data or try to enter weird values.
+</p>
