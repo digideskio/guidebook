@@ -10,7 +10,7 @@ Submit others using <a title="http://directory.fsf.org/newform.html" class="exte
 <a title="http://www.unifont.org" class="external text" href="http://www.unifont.org">Unifont</a> is Ed Trager's collection of Libre/Open fonts with wide Unicode support
 </p>
 <h4> Design and Development Feedback Communities </h4>
-<p><ul><li> The <a title="http://typophile.com/" class="external text" href="http://typophile.com/">Typophile</a> community sports regular posts from type design superstars<br>
+<p>The <a title="http://typophile.com/" class="external text" href="http://typophile.com/">Typophile</a> community sports regular posts from type design superstars<br>
 
 The <a title="http://www.typestudent.org" class="external text" href="http://www.typestudent.org">TypeStudents</a> forum is a place like Typophile but specifically for students, and is especially free software friendly
 </p>
@@ -23,7 +23,7 @@ The <a title="http://www.typestudent.org" class="external text" href="http://www
 </p>
 <h4> Others </h4>
 <p>
-<ul><li> The <a title="http://www.typeculture.com/academic_resource/" class="external text" href="http://www.typeculture.com/academic_resource/">TypeCulture Academic Resources</a> provide educational information on typeface design
+The <a title="http://www.typeculture.com/academic_resource/" class="external text" href="http://www.typeculture.com/academic_resource/">TypeCulture Academic Resources</a> provide educational information on typeface design
 The <a title="http://decodeunicode.org" class="external text" href="http://decodeunicode.org">DecodeUnicode</a> project is under some CC license and does something with Unicode. Please write a nice summary here!
 The <a title="http://wiki.laptop.org/go/Software_Ideas_-_System_Software#Font_technology" class="external text" href="http://wiki.laptop.org/go/Software_Ideas_-_System_Software#Font_technology">OLPC needs free software fonts!</a>
 <a title="http://fontly.com/" class="external text" href="http://fontly.com/">Fontly</a> will becomes a web-based typeface design application
