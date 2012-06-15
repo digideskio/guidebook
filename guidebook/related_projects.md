@@ -10,11 +10,9 @@
 </li><li> The <a title="http://www.typestudent.org" class="external text" href="http://www.typestudent.org">TypeStudents</a> forum is a place like Typophile but specifically for students, and is especially free software friendly
 </li></ul></p>
 <h4>  Type Encyclopedias </h4>
-<ul><li> The <a title="http://www.typosium.org" class="external text" href="http://www.typosium.org">Typosium</a> is a very new project to create "an open user feedback system," a kind of Wikipedia of typefaces
+<p>The <a title="http://www.typosium.org" class="external text" href="http://www.typosium.org">Typosium</a> is a very new project to create "an open user feedback system," a kind of Wikipedia of typefaces
 </li><li> <a title="http://www.scriptsource.org/" class="external text" href="http://www.scriptsource.org/">ScriptSource</a> is a very new (as of Feb 2007) project to also create "an online reference to the writing systems of the world" (Victor Gaultney proposed this at <a title="http://atypi.org/06_Lisbon/30_program/20_main_program/view_presentation_html?presentid=305" class="external text" href="http://atypi.org/06_Lisbon/30_program/20_main_program/view_presentation_html?presentid=305">ATYpI 2006 Lisbon</a>)
 </li><li> <a title="http://www.opentypology.org" class="external text" href="http://www.opentypology.org">OpenTypology</a> is a very new project to create free documentation for the OpenType font format
-</li></ul>
-
 </p>
 <h4> Others </h4>
 <p>
