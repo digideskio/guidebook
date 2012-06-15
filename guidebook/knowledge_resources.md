@@ -13,16 +13,17 @@
 <a title="http://atypi.lists.textmatters.com/mailman/listinfo/members" class="external text" href="http://atypi.lists.textmatters.com/mailman/listinfo/members">ATypI member's mailing list archives</a></p>
 
 <h4>  How To Design New Type </h4>
-<p><a title="http://www.typecooker.com" class="external text" href="http://www.typecooker.com">Type Cooker</a> by Erik van Blokland (made for the "MA Type & Media" course at the <a title="Typeface Design Education" href="/wiki/Typeface_Design_Education">Royal Academy in Den Haag</a>) generates ideas for making type, and has some great notes about how to do it!
-<a title="http://nitrofurano.linuxkafe.com/fontforge/tutorial/" class="external text" href="http://nitrofurano.linuxkafe.com/fontforge/tutorial/">Paulo Silva's FontForge tutorial</a> (Portuguese)
-<a title="http://briem.net/" class="external text" href="http://briem.net/">Briem.net</a> is the home for his excellent <a title="http://briem.net/2/2.3.1a/2.3.1.01.notes.htm" class="external text" href="http://briem.net/2/2.3.1a/2.3.1.01.notes.htm">type design tutorial</a>
-<a title="http://members.xoom.alice.it/dtp/papers/manuale_fontographer/manuale.htm" class="external text" href="http://members.xoom.alice.it/dtp/papers/manuale_fontographer/manuale.htm">Fontographer Manual</a>
-<a title="http://members.xoom.alice.it/dtp/papers/type_by_design/manuale.htm" class="external text" href="http://members.xoom.alice.it/dtp/papers/type_by_design/manuale.htm">Fontographer: Type By Design</a>
-<a title="http://www.typefacedesign.org/resources/Dwiggins_WADtoRR.pdf" class="external text" href="http://www.typefacedesign.org/resources/Dwiggins_WADtoRR.pdf">"WAD to RR: a letter about designing type"</a> by Dwiggins in 1940
-<a title="http://www.typeculture.com/academic_resource/" class="external text" href="http://www.typeculture.com/academic_resource/">TypeCulture Academic Resources</a> - fresh academic essays on type
-<a title="http://web.archive.org/web/20070630124845/http://just.letterror.com/ltrwiki/SketchingType" class="external text" href="http://web.archive.org/web/20070630124845/http://just.letterror.com/ltrwiki/SketchingType">Sketching Type</a>
-<a title="http://dev.typophile.com/node/38175" class="external text" href="http://dev.typophile.com/node/38175">Text to test type with</a> collated by Eben Sorkin
-<a title="http://www.kltf.de/kltf_notes.htm" class="external text" href="http://www.kltf.de/kltf_notes.htm">KLTF Notes</a>, (technical) notes on font production</p>
+<p><a title="http://www.typecooker.com" class="external text" href="http://www.typecooker.com">Type Cooker</a> by Erik van Blokland (made for the "MA Type & Media" course at the <a title="Typeface Design Education" href="/wiki/Typeface_Design_Education">Royal Academy in Den Haag</a>) generates ideas for making type, and has some great notes about how to do it!<br>
+
+<a title="http://briem.net/" class="external text" href="http://briem.net/">Briem.net</a><br> 
+
+<a title="http://www.typefacedesign.org/resources/Dwiggins_WADtoRR.pdf" class="external text" href="http://www.typefacedesign.org/resources/Dwiggins_WADtoRR.pdf">"WAD to RR: a letter about designing type"</a> by Dwiggins in 1940<br>
+
+<a title="http://www.typeculture.com/academic_resource/" class="external text" href="http://www.typeculture.com/academic_resource/">TypeCulture Academic Resources</a> - fresh academic essays on type<br>
+
+<a title="http://web.archive.org/web/20070630124845/http://just.letterror.com/ltrwiki/SketchingType" class="external text" href="http://web.archive.org/web/20070630124845/http://just.letterror.com/ltrwiki/SketchingType">Sketching Type</a><br>
+
+<a title="http://www.kltf.de/kltf_notes.htm" class="external text" href="http://www.kltf.de/kltf_notes.htm">KLTF Notes</a> - (technical) notes on font production</p>
 
 <h4>  Bloggers </h4>
 <p><a title="http://typefoundry.blogspot.com/" class="external text" href="http://typefoundry.blogspot.com/">James Mosley's blog</a> - A great historian of typeface design
