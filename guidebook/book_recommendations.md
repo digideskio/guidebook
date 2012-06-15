@@ -23,9 +23,8 @@
 
 <h4> Cyrillic </h4>
 <p><a title="http://www.atypi.org/05_About_us/70_publications/50_LCT/" href="http://www.atypi.org/05_About_us/70_publications/50_LCT/">Language Culture Type: international type design in the age of Unicode</a> edited by John D. Berry, designed by Maxim Zhukov, and published by Graphis - good essays on complex scripts including Cyrillic<br>
-<a title="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/" class="external text" href="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/">Yuri Gordon wrote an excellent book on type design for the Cyrillic script</a>
-The first edition of "Typography Papers" published by the University of Reading's Department of Typography<br>
-Paratype's "Digital Typefaces" Catalogue<br></p>
+<a title="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/" class="external text" href="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/">Book of Letters From Аа to Яя</a> by Yuri Gordon - an excellent book on type design for the Cyrillic script<br>
+Other great Cyrllic resources include the first edition of "Typography Papers" published by the University of Reading's Department of Typography and Paratype's "Digital Typefaces" Catalogue<br></p>
 
 <h4> External Links </h4>
 <p><a title="http://www.typebooks.org/" class="external free" href="http://www.typebooks.org/">http://www.typebooks.org/</a><br>
