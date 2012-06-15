@@ -1,13 +1,13 @@
 <h1>Features List</h1>
 
-Main Features <br>
+<h4>List of features for each user level</h4>
 
-VISITORS CAN:
+<h4>Visitors</h4>
 sign-up/become a member by simply entering a username/password/email/name/captcha
 view the font catalogue, font page, member profiles
 if a member has not uploaded any fonts, that member's profile should read 'IT LOOKS LIKE ((USERNAME)) MEMBER HASN'T UPLOADED ANY FONTS YET.' <br><br>
 
-MEMBERS CAN:
+<h4>MEMBERS</h4>
 view profile, which contains date of membership, username, real name
 if a member has not yet uploaded a font, he should see a message welcoming him to do so
 if a member has uploaded one or more fonts, they should be listed on his profile page
