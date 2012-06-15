@@ -1,12 +1,11 @@
 <h1>Submission Guidelines</h1>
 
-
-			<p>Sharing your fonts is a quick and easy process, but you need to prepare a few things first:
-</p>
-<ol><li> <a title="http://openfontlibrary.org/register" class="external text" href="http://openfontlibrary.org/register">Register an account</a>, and <a title="http://openfontlibrary.org/login" class="external text" href="http://openfontlibrary.org/login">log in</a>
-</li><li> Make sure you have all the font files, and the <a title="Source files" href="/wiki/Source_files">source files</a>
-</li><li> Decide on the <a class="mw-redirect" title="License" href="/wiki/License">license</a> you want to use for the font files, and apply it to your font files
-</li><li> Ensure you <a title="How to name a font family (page does not exist)" class="new" href="/wiki/index.php?title=How_to_name_a_font_family&action=edit&redlink=1">named your font family</a> correctly
+<h4> How To Submit and Share Your Fonts</h4>
+<p>
+<a title="http://openfontlibrary.org/up" class="external text" href="http://openfontlibrary.org/up">Sign up</a>, then <a title="http://openfontlibrary.org/in?redirect=up" class="external text" href="http://openfontlibrary.org/in?redirect=up">sign in.</a><br>
+Make sure you have all the font and source files, then
+decide on the <a class="mw-redirect" title="License" href="/guidebook/font_licensing">license</a> you want to use for the font files, and apply it to your font files.
+<p>Ensure you <a title="How to name a font family (page does not exist)" class="new" href="/wiki/index.php?title=How_to_name_a_font_family&action=edit&redlink=1">named your font family</a> correctly
 </li><li> Write a <a class="mw-redirect" title="Fontlog" href="/wiki/Fontlog">fontlog.txt</a>, giving a summary of the font family's history
 </li><li> Create an attractive <a class="mw-redirect" title="Sample image" href="/wiki/Sample_image">sample image</a> to show off your fonts in use (PNG or JPEG)
 </li><li> Finally, put all of the files (fonts, fontlog.txt and sample images) into a ZIP file
