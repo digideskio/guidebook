@@ -22,8 +22,8 @@
 <a title="Texts on Type: Critical Writings on Typography" href="http://books.google.com/books/about/Texts_on_Type.html?id=USjjh4Nh38UC&redir_esc=y">Texts on Type: Critical Writings on Typography</a> by Steven Heller and Philip Meggs<br></p>
 
 <h4> Cyrillic </h4>
-<p><a title="http://www.atypi.org/05_About_us/70_publications/50_LCT/" href="http://www.atypi.org/05_About_us/70_publications/50_LCT/">Language Culture Type: international type design in the age of Unicode</a> edited by John D. Berry, designed by Maxim Zhukov, and published by Graphis - good essays on complex scripts including Cyrillic<br>
-<a title="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/" class="external text" href="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/">Book of Letters From Аа to Яя</a> by Yuri Gordon - an excellent book on type design for the Cyrillic script<br>
+<p><a title="http://www.atypi.org/05_About_us/70_publications/50_LCT/" href="http://www.atypi.org/05_About_us/70_publications/50_LCT/">Language Culture Type: international type design in the age of Unicode</a> edited by John D. Berry, designed by Maxim Zhukov, and published by Graphis - good essays on complex scripts including Cyrillic.<br>
+<a title="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/" class="external text" href="http://www.artlebedev.com/everything/izdal/kniga_pro_bykvy/">Book of Letters From Аа to Яя</a> by Yuri Gordon - an excellent book on type design for the Cyrillic script.<br>
 Other great Cyrllic resources include the first edition of "Typography Papers" published by the University of Reading's Department of Typography and Paratype's "Digital Typefaces" Catalogue<br></p>
 
 <h4> External Links </h4>
