@@ -13,7 +13,7 @@
 <a title="http://atypi.lists.textmatters.com/mailman/listinfo/members" class="external text" href="http://atypi.lists.textmatters.com/mailman/listinfo/members">ATypI member's mailing list archives</a></p>
 
 <h4>  How To Design New Type </h4>
-<p><a title="http://www.typecooker.com" class="external text" href="http://www.typecooker.com">Type Cooker</a> by Erik van Blokland (made for the "MA Type & Media" course at the <a title="Typeface Design Education" href="/wiki/Typeface_Design_Education">Royal Academy in Den Haag</a>) generates ideas for making type, and has some great notes about how to do it!<br>
+<p><a title="http://www.typecooker.com" class="external text" href="http://www.typecooker.com">Type Cooker</a> by Erik van Blokland (made for the "MA Type & Media" course at the <a title="Typeface Design Education" href="/wiki/typeface_education_design">Royal Academy in Den Haag</a>) generates ideas for making type, and has some great notes about how to do it!<br>
 
 <a title="http://briem.net/" class="external text" href="http://briem.net/">Briem.net</a><br> 
 
