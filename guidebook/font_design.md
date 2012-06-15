@@ -1,15 +1,6 @@
 <h1>Font Design</h1>
 
-<h4> Contents </h4>
-<ul>
-<li class="toclevel-1"><a href="#I_am_new_to_font_design._What_should_I_do_to_get_started.3F"><span class="tocnumber">1</span> <span class="toctext">I am new to font design. What should I do to get started?</span></a></li>esucht.de. 
-<li class="toclevel-1"><a href="#I_want_to_make_a_totally_new_font_for_the_library."><span class="tocnumber">2</span> <span class="toctext">I want to make a totally new font for the library.</span></a></li>
-<li class="toclevel-1"><a href="#What_kind_of_font_is_most_needed.3F"><span class="tocnumber">3</span> <span class="toctext">What kind of font is most needed?</span></a></li>
-<li class="toclevel-1"><a href="#I_want_to_revive_a_historic_design"><span class="tocnumber">4</span> <span class="toctext">I want to revive a historic design</span></a></li>
-<li class="toclevel-1"><a href="#How_to_design_a_typeface"><span class="tocnumber">5</span> <span class="toctext">How to design a typeface</span></a></li>
-<li class="toclevel-1"><a href="#Not_Legal_Advice.21"><span class="tocnumber">6</span> <span class="toctext">Not Legal Advice!</span></a></li>
-</ul>
-</td></tr></tbody></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+
 <h4> I am new to font design. What should I do to get started? </h4>
 <p>Some fonts in the library contain not much more than basic Latin A-Z.  To make these fonts really usable, it would be great if you helped out by adding the basic accented Latin letters required for pan-European usage first, and eventually an even larger set of Latin letters needed for additional Latin-based orthographies, such as Vietnamese, some of the American Indian language orthographies, and various African language orthographies.
 </p><p>Another problem is that kerning pairs may only be present for the basic Latin letters, and not yet for the extended and accented Latin letters.
