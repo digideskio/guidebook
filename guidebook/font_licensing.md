@@ -10,7 +10,7 @@
 </p><p>To submit fonts to this site, sign up for an account and follow the instructions, or configure FontForge appropriately.
 </p>
 <h4> The Different Kinds of Free Fonts </h4>
-<p><i>If you are unsure what a Free Font <b>is</b>, please refer to the <a class="mw-redirect" title="Free Fonts" href="/wiki/Free_Fonts">Free Fonts</a> page.</i>
+<p><i>If you are unsure what a Free Font <b>is</b>, please refer to the <a class="mw-redirect" title="Free Fonts" href="/guidebook/libre_open_fonts">Free Fonts</a> page.</i>
 </p><p>The main way <a class="mw-redirect" title="Free Fonts" href="/wiki/Free_Fonts">Free Fonts</a> vary is if they are copyleft or not.
 </p><p>Copyleft is a clever kind of copyright license that restricts you from creating non-free versions of free things. <ref><a title="http://www.gnu.org/copyleft/" class="external free" href="http://www.gnu.org/copyleft/">http://www.gnu.org/copyleft/</a> and <a title="http://www.gnu.org/philosophy/nonsoftware-copyleft.html" class="external free" href="http://www.gnu.org/philosophy/nonsoftware-copyleft.html">http://www.gnu.org/philosophy/nonsoftware-copyleft.html</a> </ref>
 </p><p>Free Fonts with a copyleft license must remain Free. If they are combined with another font, the whole combination must be under the copyleft license. A font licensed under the OFL is such a font.
