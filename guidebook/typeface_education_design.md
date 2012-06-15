@@ -19,7 +19,7 @@
 <h4>  Switzerland </h4>
 <p>ECAL offers an undergraduate degree - <a title="http://www.ecal.ch/bachelors_design_graphique.php" class="external free" href="http://www.ecal.ch/bachelors_design_graphique.php">http://www.ecal.ch/bachelors_design_graphique.php</a> - and a Masters degree - <a title="http://www.ecal.ch/masters_art_direction.php?lang=en" class="external free" href="http://www.ecal.ch/masters_art_direction.php?lang=en">http://www.ecal.ch/masters_art_direction.php?lang=en</a>
 </p>
-<h1> Workshops </h1>
+<h4> Workshops </h4>
 <ul><li> <a title="http://www.typeworkshop.com/" class="external free" href="http://www.typeworkshop.com/">http://www.typeworkshop.com/</a>
 </li></ul>
 <h4>  See Also </h4>
