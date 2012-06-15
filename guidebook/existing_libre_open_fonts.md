@@ -200,12 +200,17 @@
 >
 <h4> Pixel Fonts </h4>
 <p>
-<a title="http://www.hassings.dk/lars/fonts.html" class="external text" href="http://www.hassings.dk/lars/fonts.html">Classic X11 6x10 Font For Windows</a> (unknown)
-</li><li> <a title="http://world.std.com/~franl/6x10.html" class="external text" href="http://world.std.com/~franl/6x10.html">X Windows Fonts for MS Windows</a> ("Free To Use")
-</li><li> A list of <a title="http://keithdevens.com/wiki/ProgrammerFonts" class="external text" href="http://keithdevens.com/wiki/ProgrammerFonts">Programmer Fonts</a> to look into
-</li><li> <a title="http://www.orgdot.com/aliasfonts/" class="external text" href="http://www.orgdot.com/aliasfonts/">AliasFonts at Orgdot</a> - very cool
-</li><li> Debian package xfonts-artwiz
-</li><li> The original Mac distribution of Bitstream Charter contains pixel versions—both regular, bold and bold italic!
+<a title="http://www.hassings.dk/lars/fonts.html" class="external text" href="http://www.hassings.dk/lars/fonts.html">Classic X11 6x10 Font For Windows</a> (unknown)<br>
+
+<a title="http://world.std.com/~franl/6x10.html" class="external text" href="http://world.std.com/~franl/6x10.html">X Windows Fonts for MS Windows</a> ("Free To Use")<br>
+
+A list of <a title="http://keithdevens.com/wiki/ProgrammerFonts" class="external text" href="http://keithdevens.com/wiki/ProgrammerFonts">Programmer Fonts</a> to look into<br>
+
+<a title="http://www.orgdot.com/aliasfonts/" class="external text" href="http://www.orgdot.com/aliasfonts/">AliasFonts at Orgdot</a> - very cool<br>
+
+Debian package xfonts-artwiz<br>
+
+The original Mac distribution of Bitstream Charter contains pixel versions—both regular, bold and bold italic!
 </p>
 <h4> Freeware Fonts </h4>
 <p>Please link to any existing "freeware" fonts you may find on the web that despite being proprietary may be friendly to the Library - these are fonts you typically do not need to pay money to receive, and may or may not come with a license that grants other essential freedoms like redistributing the font and modifying it, but does not fit the free software definition in some way. We will try to persuade these fonts' developers to "Go OFL!"</p>
@@ -228,8 +233,9 @@
 
 <a title="http://moorstation.org/typoasis/designers/klein/index.htm" class="external text" href="http://moorstation.org/typoasis/designers/klein/index.htm">Klein</a> is a huge foundry of freeware fonts<br>
 
-<a title="http://thefontlibrary.com/" class="external text" href="http://thefontlibrary.com/">The Font Library</a> links to us and others
-</li><li> <a title="http://www.alvit.de/blog/article/20-best-license-free-official-fonts" class="external free" href="http://www.alvit.de/blog/article/20-best-license-free-official-fonts">http://www.alvit.de/blog/article/20-best-license-free-official-fonts</a> - 20 fonts whose authors need contacting to go OFL :-)<br>
+<a title="http://thefontlibrary.com/" class="external text" href="http://thefontlibrary.com/">The Font Library</a> links to us and others<br>
+
+<a title="http://www.alvit.de/blog/article/20-best-license-free-official-fonts" class="external free" href="http://www.alvit.de/blog/article/20-best-license-free-official-fonts">http://www.alvit.de/blog/article/20-best-license-free-official-fonts</a> - 20 fonts whose authors need contacting to go OFL :-)<br>
 
 <a title="http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/" class="external free" href="http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/">http://www.smashingmagazine.com/2006/10/11/17-more-free-quality-fonts/</a> - 17 more!<br>
 
