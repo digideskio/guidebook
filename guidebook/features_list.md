@@ -1,7 +1,7 @@
 <h1>Features List</h1>
 
 <h4>List of features for each user level</h4>
-
+<p></p>
 <h4>Visitors</h4>
 sign-up/become a member by simply entering a username/password/email/name/captcha
 view the font catalogue, font page, member profiles
@@ -21,7 +21,7 @@ view 'free font license' guidelines
 join mailing list
 find irc channel <br><br>
 
-ALL USERS CAN:
+<h4>All Users</h4>
 search the site via the search box at top/right of page
 toggle between five of the 'Featured Fonts'
 view 'Latest Fonts' and interact with 'Latest Fonts' by typing in one's own text to 'change the preview text'
@@ -31,16 +31,16 @@ browse the Guidebook and its pages
 utilize 'Search page, which features 'Categories' (font types categorized and numbered) and 'Licenses' (license types categorized and numbered)
 utilize 'password recovery' feature at sign-in page <br><br>
 
-LIBRARIANS/SECRETARIES/ADMINISTRATORS CAN
+<h4>Librarians/Secretaries/Administrators</h4>
 view 'Dashboard' which lists System Administrators/Secretaries/Librarians/Members in addition to User/Font stats and Featured/Flagged Fonts
 LIBRARIANS CAN
 edit font info for all fonts, including font status
 fonts set to 'featured' will show up in the carousel on the home page <br><br>
 
-SECRETARIES CAN
+Secretaries
 edit user info for all users <br><br>
 
-SYSTEMS ADMINISTRATORS CAN
+System Administrators
 change the usergroup of any user (however an Admin cannot change his/her own group)
 MODULES ADMINISTRATORS CAN
 We don't use this group level in OFLB. No one knows what it means anyway. Christopher 14:53, 26 March 2012 (UTC)
