@@ -30,10 +30,10 @@
 
 <a title="http://blogs.adobe.com/typblography/" class="external text" href="http://blogs.adobe.com/typblography/">Typblography</a> - the blog of Adobe’s Type Development Team<br>
 
-<a title="http://www.thomasphinney.com/" class="external text" href="http://www.thomasphinney.com/">Phinney on Fonts</a> - the blog of Thomas Phinney (Extensis, formerly Adobe) on fonts and typography with attention towards new technologies like web fonts.<br>
+<a title="http://www.thomasphinney.com/" class="external text" href="http://www.thomasphinney.com/">Phinney on Fonts</a> - the blog of Thomas Phinney (Extensis, formerly Adobe) on fonts and typography with attention towards new technologies like web fonts<br>
 
 <a title="http://www.typographer.org" class="external text" href="http://www.typographer.org">Typographer</a>
-<a title="http://typographica.org" class="external text" href="http://typographica.org">Typographica</a> - review of typefaces and type books, with occasional commentary on fonts and typographic design.</p>
+<a title="http://typographica.org" class="external text" href="http://typographica.org">Typographica</a> - review of typefaces and type books, with occasional commentary on fonts and typographic design</p>
 
 <h4> Specifications and Standards </h4>
 <p><a title="http://fontforge.sourceforge.net" class="external text" href="http://fontforge.sourceforge.net">FontForge Developer Mailing List</a> has lots of people who know about these issues. Unicode has an <a title="http://unicode.org/" class="external text" href="http://unicode.org/">official website</a>, but the <a title="http://www.decodeunicode.org/" class="external text" href="http://www.decodeunicode.org/">decodeunicode</a> site may also be useful; it's an open database that gives an overview of the whole unicode character range.
