@@ -10,6 +10,6 @@ But if designing fonts isn't your thing, you'll also find several pages that sug
 You can also help right here, suggesting ways to make the Guidebook better for the community.
 
 <p>
-Thank you,
+Thank you,<br>
 OFLB community
 </p>
