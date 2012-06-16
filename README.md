@@ -11,5 +11,5 @@ You can also help right here, suggesting ways to make the Guidebook better for t
 
 <p>
 Thank you,<br>
-OFLB community
+OFLB Community
 </p>
