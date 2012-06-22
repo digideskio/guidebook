@@ -14,5 +14,5 @@ It's not a simple process, but if it's something you want to do here's a few thi
 <p>You can download the font on the same profile page. From there you can go ahead an modify the font with the appropriate software. We suggest the following...
 
 <h4>Upload</h4>
-<p>After modifying the font, it's important to understand how to send those changes back to the original designer, or else change the name of the font and upload your own version. From that same profile page there should be a link to the designer's website or email address. (Let us know if this happens to be missing.) When uploading your own version, start here http://dev.openfontlibrary.org/en/create.
+<p>After modifying the font, it's important to understand how to send those changes back to the original designer, or else change the name of the font and upload your own version. From that same profile page there should be a link to the designer's website or email address. (Let us know if this happens to be missing.) When uploading your own version, start here <a href="http://dev.openfontlibrary.org/en/create">Upload A Font</a>
 </p>
