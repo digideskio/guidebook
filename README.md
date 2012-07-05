@@ -1,7 +1,7 @@
 <h1>Guidebook</h1>
 
 <h4>Hello, welcome to the Guidebook.</h4>
-<p>Here you'll find an abundance of information that helps explain what <a href="/guidebook/libre_open_fonts">free/open fonts</a> are, where to <a href="/guidebook/existing_libre_open_fonts">find them</a> (here at OFLB, of course) how to <a href="/guidebook/font_design">make</a> <a href="/guidebook/font_formats">your</a> <a href="/guidebook/submission_guidelines">own</a>, and <a href="/guidebook/how_to_update_a_font">how to update your font</a>. 
+<p>Here you'll find an abundance of information that helps explain what <a href="/guidebook/libre_open_fonts">free/open fonts</a> are, where to <a href="/guidebook/existing_libre_open_fonts">find them</a> (here at OFLB, of course) how to <a href="/guidebook/font_design">make</a> <a href="/guidebook/font_formats">your</a> <a href="/guidebook/submission_guidelines">own fonts</a> and <a href="/guidebook/how_to_update_a_font"> update them</a>. 
 
 <p>
 But if designing fonts isn't your thing, you'll also find several pages that suggest other ways to get involved, such as <a href="/guidebook/how_to_file_bugs">how to file bugs</a>, <a href="/guidebook/become-a-translator">becoming a translator</a> and <a href="/guidebook/dev-faq">developer</a>, and brushing up on your <a href="/guidebook/book_recommendations">font</a> <a href="/guidebook/knowledge_resources">knowledge</a> in general.
