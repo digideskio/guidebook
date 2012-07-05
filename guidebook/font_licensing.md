@@ -68,8 +68,8 @@
 </p><p>Having said all that, what becoming a GNU package means for fonts is not exactly defined - it's never come up, as no fonts have been contributed to the GNU Project. Maybe yours will be the first?  See the <a title="http://www.gnu.org/help/evaluation.html" class="external text" href="http://www.gnu.org/help/evaluation.html">GNU Software Evaluation information and form</a>.
 </p>
 <h4> <span class="mw-headline"> External Links </h4>
-<ul><li> <a title="http://nwalsh.com/comp.fonts/FAQ/cf_13.htm#SEC33" class="external text" href="http://nwalsh.com/comp.fonts/FAQ/cf_13.htm#SEC33">Font FAQ "Are fonts copyrightable?"</a>
-</li><li> <a title="http://tug.org/fontname/html/Font-legalities.html" class="external text" href="http://tug.org/fontname/html/Font-legalities.html">TUG Font Legalities</a>
-</li><li> <a title="http://lists.okfn.org/pipermail/fc-uk-discuss/2005-September/000146.html" class="external text" href="http://lists.okfn.org/pipermail/fc-uk-discuss/2005-September/000146.html">Some interesting UK-related Public Domain links</a>
-</li><li> "What is a font?" is answered nicely in <a title="http://www.holoweb.net/~liam/fonts/" class="external free" href="http://www.holoweb.net/~liam/fonts/">http://www.holoweb.net/~liam/fonts/</a> and could probably go in here sometime....
-</li></ul>
+<p> <a title="http://nwalsh.com/comp.fonts/FAQ/cf_13.htm#SEC33" class="external text" href="http://nwalsh.com/comp.fonts/FAQ/cf_13.htm#SEC33">Font FAQ "Are fonts copyrightable?"</a><br>
+<a title="http://tug.org/fontname/html/Font-legalities.html" class="external text" href="http://tug.org/fontname/html/Font-legalities.html">TUG Font Legalities</a><br>
+<a title="http://lists.okfn.org/pipermail/fc-uk-discuss/2005-September/000146.html" class="external text" href="http://lists.okfn.org/pipermail/fc-uk-discuss/2005-September/000146.html">Some interesting UK-related Public Domain links</a><br>
+"What is a font?" is answered nicely in <a title="http://www.holoweb.net/~liam/fonts/" class="external free" href="http://www.holoweb.net/~liam/fonts/">http://www.holoweb.net/~liam/fonts/</a> and could probably go in here sometime....
+</p>
