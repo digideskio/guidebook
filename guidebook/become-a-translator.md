@@ -36,5 +36,5 @@
 <li>Learn how you can help internationalize OFLB</li>
 <li>Become a translator</li>
 <li>translate the site</li>
-<li>Browse the Complete Catalogue/li>
+<li>Browse the Complete Catalogue</li>
 </ul>
