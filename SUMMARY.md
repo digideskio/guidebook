@@ -13,7 +13,6 @@
 * [Font Design](guidebook/font_design.md)
 * [Font Categorisation](guidebook/font_categorisation.md)
 * [Features List](guidebook/features_list.md)
-* [Existing Libre/Open Fonts](guidebook/existing_libre_open_fonts.md)
 
 
 ## Contribute
@@ -29,6 +28,7 @@
 * [Typeface Education Design](guidebook/typeface_education_design.md)
 * [Libre/Open Fonts](guidebook/libre_open_fonts.md)
 * [How To Earn Money](guidebook/how_to_earn_money.md)
+* [Existing Libre/Open Fonts](guidebook/existing_libre_open_fonts.md)
 * [Book Recommendations](guidebook/book_recommendations.md)
 
 
