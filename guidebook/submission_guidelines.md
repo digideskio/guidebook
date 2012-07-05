@@ -4,7 +4,7 @@
 <p>
 <a title="http://openfontlibrary.org/up" class="external text" href="http://openfontlibrary.org/up">Sign up</a>, then <a title="http://openfontlibrary.org/in?redirect=up" class="external text" href="http://openfontlibrary.org/in?redirect=up">sign in.</a><br>
 Make sure you have all the font and source files, then
-decide on the <a class="mw-redirect" title="License" href="/guidebook/font_licensing">license</a> you want to use for the font files, and apply it to your font files.
+decide on the <a class="mw-redirect" title="License" href="[route]/guidebook/font_licensing">license</a> you want to use for the font files, and apply it to your font files.
 <p>Ensure you <a title="How to name a font family (page does not exist)" class="new" href="/wiki/index.php?title=How_to_name_a_font_family&action=edit&redlink=1">named your font family</a> correctly
 </li><li> Write a <a class="mw-redirect" title="Fontlog" href="/wiki/Fontlog">fontlog.txt</a>, giving a summary of the font family's history
 </li><li> Create an attractive <a class="mw-redirect" title="Sample image" href="/wiki/Sample_image">sample image</a> to show off your fonts in use (PNG or JPEG)
