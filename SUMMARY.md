@@ -13,7 +13,7 @@
 * [How To Update a Font](guidebook/how_to_update_a_font.md)
 * [How To Install FontForge](guidebook/how_to_install_fontforge.md)
 * [How To Earn Money](guidebook/how_to_earn_money.md)
-* [How To Contribute to an Existing Font](guidebook/how_to_contribute_to_an_existing_font.md)
+* [Contribute: How To Contribute to an Existing Font](guidebook/how_to_contribute_to_an_existing_font.md)
 * [Font Packaging](guidebook/font_packaging.md)
 * [Font Licensing](guidebook/font_licensing.md)
 * [Font Formats](guidebook/font_formats.md)

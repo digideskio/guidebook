@@ -1,4 +1,4 @@
-<h1>How To Contribute to an Existing Font</h1>
+<h1>Contribute: How To Contribute to an Existing Font</h1>
 
 <h4> Interested in contributing to a font?</h4>
 <p>
