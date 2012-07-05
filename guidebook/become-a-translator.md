@@ -18,7 +18,7 @@
 
 <h4>Adding a language?</h4>
 
-<p>If you want to propose adding a new language, please send us correct translations of these terms before you can get started:</p>
+<p>If there's a new language you'd like to see, please send us correct translations of these terms first. Then we'll help you move on to the rest of the site.</p>
 
 <ul>
 <li>Catalogue</li>
