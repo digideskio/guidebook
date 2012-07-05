@@ -20,7 +20,6 @@
 * [Features List](guidebook/features_list.md)
 * [Existing Libre/Open Fonts](guidebook/existing_libre_open_fonts.md)
 * [Collaborative Design Workflows](guidebook/collaborative_design_workflows.md)
-* [Book Recommendations](guidebook/book_recommendations.md)
 
 
 ## Contribute
@@ -32,5 +31,6 @@
 ## Information
 
 * [Vocabulary](guidebook/vocabulary.md)
+* [Book Recommendations](guidebook/book_recommendations.md)
 
 
