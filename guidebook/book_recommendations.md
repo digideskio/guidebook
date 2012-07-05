@@ -1,6 +1,6 @@
 <h1>Book Recommendations</h1>
 
-<h4> A recommended list of books that describe fonts, type design and such</h4>
+<h4> A recommended list of books that describe fonts, type design, etc.</h4>
 <p>
 <a title="Computers & Typography 1 and 2" href="http://books.google.com/books?id=Gm4QAbGKIBgC&source=gbs_book_other_versions&redir_esc=y">Computers & Typography 1 and 2</a> by Rosemary Sassoo<br>
 
