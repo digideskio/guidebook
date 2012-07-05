@@ -14,5 +14,5 @@ To avoid confusion, please refer to the Open Font License as "the OFL" and the O
 
 <h4><span class="mw-headline"> Open Font Movement </span></h4>
 <p>A clearer term related to the Open Font Library and usage by a wide community of users of the Open Font License. 
-"free fonts" are very often associated with distribute-but-don't-modify freeware fonts and don't reflect what this community is about.
+"Free fonts" are very often associated with distribute-but-don't-modify freeware fonts and don't reflect what this community is about.
 </p>
