@@ -11,7 +11,7 @@ The Information section provides useful information for brushing up on general f
 Lastly, the Technical section is for all you hardcore font designers. It's similar to the Contribute and Information categories, but everything in Technical is of a more thorough, specific nature. It features more complex information dealing with subjects like <a href="/collaborative_design_workflows">collaborative design workflows</a>, how to install the open source font editor <a href="/how_to_install_fon_forge">FontForge</a> and other <a href="/software">software resources</a>, and the specifications of <a href="/supported_licenses">supported licenses</a> and <a href="/font_packaging">font packaging</a>.
 
 <p>
-We hope this helps. The Guidebook is meant to make your OFLB experience fun and successful. If it's failing in any way, please let us know. This will help make OFLB better for everyone involved. 
+We hope this helps. The Guidebook is meant to make your OFLB experience fun and successful. If it's failing in any way, please let us know - this will help make OFLB better for everyone involved. 
 
 <p>
 Thank you,<br>
