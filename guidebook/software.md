@@ -4,23 +4,7 @@
 </p><p>To make fonts, use <a title="http://fontforge.sf.net" class="external text" href="http://fontforge.sf.net">FontForge</a> and <a title="http://xgridfit.sf.net" class="external text" href="http://xgridfit.sf.net">xgridfit</a>. There is a great <a title="http://fontforge.sourceforge.net/editexample.html" class="external text" href="http://fontforge.sourceforge.net/editexample.html">FontForge Tutorial</a> to get started with. On the <a class="mw-redirect" title="Existing Fonts" href="/wiki/Existing_Fonts">Existing Fonts</a> page are links to scans from old books and specimen sheets that could be used to create 'revival' typefaces. This could be a good starting exercise. 
 </p><p>This page lists software tools for creating and manipulation fonts.
 </p>
-<h4>Contents</h4>
-<ul>
-<li class="toclevel-1"><a href="#Free_Libre_and_Open_Source_Software"><span class="tocnumber">1</span> <span class="toctext">Free Libre and Open Source Software</span></a>
-<ul>
-<li class="toclevel-2"><a href="#GNU.2FLinux"><span class="tocnumber">1.1</span> <span class="toctext">GNU/Linux</span></a></li>
-<li class="toclevel-2"><a href="#Graphic_Editors"><span class="tocnumber">1.2</span> <span class="toctext">Graphic Editors</span></a></li>
-<li class="toclevel-2"><a href="#Command_Line_Editors"><span class="tocnumber">1.3</span> <span class="toctext">Command Line Editors</span></a></li>
-<li class="toclevel-2"><a href="#Java_Editors"><span class="tocnumber">1.4</span> <span class="toctext">Java Editors</span></a></li>
-<li class="toclevel-2"><a href="#Web_Apps"><span class="tocnumber">1.5</span> <span class="toctext">Web Apps</span></a></li>
-<li class="toclevel-2"><a href="#Other_Tools"><span class="tocnumber">1.6</span> <span class="toctext">Other Tools</span></a></li>
-<li class="toclevel-2"><a href="#Scripts_for_FontLab_.28possibly_portable.2Fported_to_Fontforge.29"><span class="tocnumber">1.7</span> <span class="toctext">Scripts for FontLab (possibly portable/ported to Fontforge)</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1"><a href="#Proprietary_Software"><span class="tocnumber">2</span> <span class="toctext">Proprietary Software</span></a></li>
-<li class="toclevel-1"><a href="#Unreleased_Tools"><span class="tocnumber">3</span> <span class="toctext">Unreleased Tools</span></a></li>
-</ul>
-</td></tr></tbody></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+
 <h4> Free Libre and Open Source Software </h4>
 <h4>  GNU/Linux </h4>
 <p>To run GNU/Linux programs on Mac OS X can be done natively, but it is complex. Instead, simply use a Virtual Machine. There is a great free software one!

@@ -5,7 +5,6 @@
 * [Typeface Education Design](guidebook/typeface_education_design.md)
 * [How to Translate the Site](guidebook/translation.md)
 * [Submission Guidelines](guidebook/submission_guidelines.md)
-* [Software Resources](guidebook/software.md)
 * [Related Projects](guidebook/related_projects.md)
 * [Information: Knowledge Resources](guidebook/knowledge_resources.md)
 * [How To Install FontForge](guidebook/how_to_install_fontforge.md)
@@ -32,5 +31,10 @@
 * [Libre/Open Fonts](guidebook/libre_open_fonts.md)
 * [How To Earn Money](guidebook/how_to_earn_money.md)
 * [Book Recommendations](guidebook/book_recommendations.md)
+
+
+## Technical
+
+* [Software Resources](guidebook/software.md)
 
 
