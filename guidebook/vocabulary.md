@@ -7,7 +7,7 @@ A font (today) means a digital implementation of a typeface.<p>
 Please refer to <a title="http://en.wikipedia.org/wiki/Computer_font" class="external free" href="http://en.wikipedia.org/wiki/Computer_font">http://en.wikipedia.org/wiki/Computer_font</a> and <a title="http://en.wikipedia.org/wiki/Typefaces" class="external free" href="http://en.wikipedia.org/wiki/Typefaces">http://en.wikipedia.org/wiki/Typefaces</a> respectively. The Fontforge documentation also has a good <a title="http://fontforge.sourceforge.net/GlossaryFS.html" class="external text" href="http://fontforge.sourceforge.net/GlossaryFS.html">glossary</a>
 </p>
 
-<h4> <span class="mw-headline"> OFL </span></h4>
+<h4> <span class="mw-headline"> OFL Acronym</span></h4>
 <p>SIL Open Font License and Open Font Library share the same acronym, OFL.<br>
 To avoid confusion, please refer to Open Font License as "the OFL" and Open Font Library as the "OFLB"</p>
 
