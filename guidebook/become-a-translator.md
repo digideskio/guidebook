@@ -37,4 +37,5 @@
 <li>Become a translator</li>
 <li>translate the site</li>
 <li>Browse the Complete Catalogue</li>
+<li>Donate now</li>
 </ul>
