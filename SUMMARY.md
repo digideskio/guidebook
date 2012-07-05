@@ -8,6 +8,7 @@
 * [Submission Guidelines](guidebook/submission_guidelines.md)
 * [How To Update a Font](guidebook/how_to_update_a_font.md)
 * [How To Contribute to an Existing Font](guidebook/how_to_contribute_to_an_existing_font.md)
+* [Font Design](guidebook/font_design.md)
 * [Become a Translator](guidebook/become-a-translator.md)
 
 
@@ -19,7 +20,6 @@
 * [Libre/Open Fonts](guidebook/libre_open_fonts.md)
 * [Knowledge Resources](guidebook/knowledge_resources.md)
 * [How To Earn Money](guidebook/how_to_earn_money.md)
-* [Font Design](guidebook/font_design.md)
 * [Features List](guidebook/features_list.md)
 * [Book Recommendations](guidebook/book_recommendations.md)
 
