@@ -8,18 +8,7 @@
 </p><p>The highly interesting question is, IEHO, if we can map the collaboration mechanisms as devised within the free software movement, to the production of cultural artefacts, in this case typefaces.
 </p>
 <h4> Contents </h4> 
-<p>
-<ul>
-<li class="toclevel-2"><a href="#Versioning_.28revision_control.29"><span class="tocnumber">1</span> <span class="toctext">Versioning (revision control)</span></a>
-<ul></li>
-<li class="toclevel-2"><a href="#Centralised_and_distributed_versioning"><span class="tocnumber">1.1</span> <span class="toctext">Centralised and distributed versioning</span></a></li>
-<li class="toclevel-2"><a href="#Versioning_Systems"><span class="tocnumber">1.2</span> <span class="toctext">Versioning Systems</span></a></li>
-<li class="toclevel-2"><a href="#Workflows_and_tools"><span class="tocnumber">1.3</span> <span class="toctext">Workflows and tools</span></a></li>
-</ul>
-</li>
-</ul>
-</td></tr></tbody></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
-<a id="Versioning_.28revision_control.29" name="Versioning_.28revision_control.29"></a><h4> Versioning (revision control) </h4>
+<h4> Versioning (revision control) </h4>
 <blockquote>
 Revision control (also known as version control, source control or (source) code management (SCM)) is the management of changes to documents, programs, and other information stored as computer files. It is most commonly used in software development, where a team of people may be changing the same files.
 </blockquote>
@@ -28,19 +17,17 @@ Revision control (also known as version control, source control or (source) code
 Distributed revision control (DRCS) takes a peer-to-peer approach, as opposed to the client-server approach of centralized systems. Rather than a single, central repository on which clients synchronize, each peer’s working copy of the codebase is a bona-fide repository. Synchronization is conducted by exchanging patches (change-sets) from peer to peer.
 </blockquote>
 <h4> Versioning Systems </h4>
-<ul><li> Centralised
-<ul><li> CVS was the first widely used free tool. SVN is the one that is currently ubiquitous.
-</li></ul>
-</li><li> Distributed
-<ul><li> Darcs, Mercurial, Git and Bazaar are the main software packages used right now. All are free.
-</li></ul>
-</li><li> Hosted
-<ul><li> <a title="http://sourceforge.net" class="external text" href="http://sourceforge.net">Sourceforge</a> (SVN)
-</li><li> <a title="https://launchpad.net/" class="external text" href="https://launchpad.net/">Launchpad</a> (Bazaar)
-</li><li> <a title="http://freehg.org/" class="external text" href="http://freehg.org/">FreeHG</a> (Mercurial)
-</li><li> <a title="http://github.com/" class="external text" href="http://github.com/">GitHub</a> (Git)
-</li></ul>
-</li></ul>
+Centralised
+ CVS was the first widely used free tool. SVN is the one that is currently ubiquitous.
+
+ Distributed
+ Darcs, Mercurial, Git and Bazaar are the main software packages used right now. All are free.
+
+ Hosted
+ <a title="http://sourceforge.net" class="external text" href="http://sourceforge.net">Sourceforge</a> (SVN)
+ <a title="https://launchpad.net/" class="external text" href="https://launchpad.net/">Launchpad</a> (Bazaar)
+<a title="http://freehg.org/" class="external text" href="http://freehg.org/">FreeHG</a> (Mercurial)
+<a title="http://github.com/" class="external text" href="http://github.com/">GitHub</a> (Git)
 <p>You will probably not want to go through the hassle of configuring a server with version control software; it most cases it is probably the most practical to choose a hosted service.
 </p><p>The other choice is between distributed and centralised, IEHO distributed versioning is more suited to dealing with cultural artefacts than centralised versioning; it allows and even promotes variation between different copies of the same repository. This might be unhandy sometimes with computer software—with cultural artefacts it is the way go to achieve the pluriformity and personality we associate with culture in the first place.
 </p><p>Simon Pascal Klein shows how to use GitHub to fork the OpenBaskerville project, which is as trivial as geek gets, @ <a title="http://klepas.org/openbaskerville/#using-git" class="external free" href="http://klepas.org/openbaskerville/#using-git">http://klepas.org/openbaskerville/#using-git</a>
