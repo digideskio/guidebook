@@ -12,7 +12,6 @@
 * [Font Formats](guidebook/font_formats.md)
 * [Font Design](guidebook/font_design.md)
 * [Font Categorisation](guidebook/font_categorisation.md)
-* [Features List](guidebook/features_list.md)
 
 
 ## Contribute
@@ -35,6 +34,7 @@
 ## Technical
 
 * [Software Resources](guidebook/software.md)
+* [Features List](guidebook/features_list.md)
 * [Collaborative Design Workflows](guidebook/collaborative_design_workflows.md)
 
 
