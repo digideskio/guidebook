@@ -4,29 +4,7 @@
 </p><p>The first part covers installing FontForge's "official" releases.
 </p><p>The second part of this page explains how some FontForge users install the "source code" version of FontForge. Many people do this so they can use the very latest features, and have the very latest bug fixes. This version is updated almost daily. If you want to report a problem of FontForge, we recommend that you try reproducing your problem with the source code version - you may find your problem has already been fixed! We explain how to install FontForge from source code both for the first time, and how to update it too.
 </p>
-<h4>Contents</h4>
-<ul>
-<li class="toclevel-1"><a href="#Official_Releases"><span class="tocnumber">1</span> <span class="toctext">Official Releases</span></a>
-<ul>
-<li class="toclevel-2"><a href="#Mac_OS_X"><span class="tocnumber">1.1</span> <span class="toctext">Mac OS X</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1"><a href="#Source_Code"><span class="tocnumber">2</span> <span class="toctext">Source Code</span></a>
-<ul>
-<li class="toclevel-2"><a href="#GNU.2FLinux"><span class="tocnumber">2.1</span> <span class="toctext">GNU/Linux</span></a>
-<ul>
-<li class="toclevel-3"><a href="#Install_the_required_programs"><span class="tocnumber">2.1.1</span> <span class="toctext">Install the required programs</span></a></li>
-<li class="toclevel-3"><a href="#Download_FontForge_source_code"><span class="tocnumber">2.1.2</span> <span class="toctext">Download FontForge source code</span></a></li>
-<li class="toclevel-3"><a href="#Download_other_sourcecode"><span class="tocnumber">2.1.3</span> <span class="toctext">Download other sourcecode</span></a></li>
-<li class="toclevel-3"><a href="#Compile.2C_install_and_run_FontForge"><span class="tocnumber">2.1.4</span> <span class="toctext">Compile, install and run FontForge</span></a></li>
-</ul>
-</li>
-<li class="toclevel-2"><a href="#Mac_OS_X_2"><span class="tocnumber">2.2</span> <span class="toctext">Mac OS X</span></a></li>
-<li class="toclevel-2"><a href="#Updating_your_source_code"><span class="tocnumber">2.3</span> <span class="toctext">Updating your source code</span></a></li>
-</ul>
-</li>
-</ul>
-</td></tr></tbody></table><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+
 <h4> Official Releases </h4>
 <p><b>Please edit this page and explain how to install FontForge step by step for Ubuntu, Fedora, Mac OS X and Windows!</b>
 </p><p><a title="https://sourceforge.net/project/showfiles.php?group_id=103338&package_id=111040" class="external text" href="https://sourceforge.net/project/showfiles.php?group_id=103338&package_id=111040">On the SourceForge Download page</a> you will see a list of 7 versions of FontForge. These are for the various kinds of computers people use today, and their names are packed with technical details. This means they can seem a little cryptic, so here is our guide to them:

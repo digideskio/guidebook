@@ -4,7 +4,6 @@
 
 * [Submission Guidelines](guidebook/submission_guidelines.md)
 * [Information: Knowledge Resources](guidebook/knowledge_resources.md)
-* [How To Install FontForge](guidebook/how_to_install_fontforge.md)
 
 
 ## Contribute
@@ -31,6 +30,7 @@
 ## Technical
 
 * [Software Resources](guidebook/software.md)
+* [How To Install FontForge](guidebook/how_to_install_fontforge.md)
 * [Font Packaging](guidebook/font_packaging.md)
 * [Font Licensing](guidebook/font_licensing.md)
 * [Font Formats](guidebook/font_formats.md)
