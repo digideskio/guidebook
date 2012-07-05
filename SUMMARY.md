@@ -7,7 +7,6 @@
 * [Submission Guidelines](guidebook/submission_guidelines.md)
 * [Software Resources](guidebook/software.md)
 * [Related Projects](guidebook/related_projects.md)
-* [Libre/Open Fonts](guidebook/libre_open_fonts.md)
 * [Information: Knowledge Resources](guidebook/knowledge_resources.md)
 * [How To Install FontForge](guidebook/how_to_install_fontforge.md)
 * [Font Packaging](guidebook/font_packaging.md)
@@ -30,6 +29,7 @@
 ## Information
 
 * [Vocabulary](guidebook/vocabulary.md)
+* [Libre/Open Fonts](guidebook/libre_open_fonts.md)
 * [How To Earn Money](guidebook/how_to_earn_money.md)
 * [Book Recommendations](guidebook/book_recommendations.md)
 
