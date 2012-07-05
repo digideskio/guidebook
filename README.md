@@ -8,10 +8,10 @@ But if design isn't your thing, then you can also help out by <a href="/guideboo
 The Information section provides useful information for brushing up on general font knowledge. This includes <a href="/guidebook/book_recommendations">book recommendations</a>, <a href="/guidebook/knowledge_resources">knowledge resources</a>, and an explanation of what in the world <a href="/guidebook/libre_open_fonts">free/open fonts</a> actually are.
 
 <p>
-Lastly, the Technical section is for all you hardcore font designers. It's similar to the Contribute and Information categories, but everything in Technical is of a more thorough, specific nature. It features more complex information dealing with subjects like <a href="/collaborative_design_workflows">collaborative design workflows</a>, how to install the open source font editor <a href="/how_to_install_fon_forge">FontForge</a> and other <a href="/software">software resources</a>, and the specifications of <a href="/supported_licenses">supported licenses</a> and 
+Lastly, the Technical section is for all you hardcore font designers. It's similar to the Contribute and Information categories, but everything in Technical is of a more thorough, specific nature. It features more complex information dealing with subjects like <a href="/collaborative_design_workflows">collaborative design workflows</a>, how to install the open source font editor <a href="/how_to_install_fon_forge">FontForge</a> and other <a href="/software">software resources</a>, and the specifications of <a href="/supported_licenses">supported licenses</a> and <a href="/font_packaging">font packaging</a>.
 
 <p>
-If any of this is at all confusing, you can also help right here by suggesting ways to make the Guidebook better for everyone involved.
+We hope this helps. The Guidebook is meant to make your OFLB experience fun and successful. If it's failing in any way, please let us know by making it better for everyone. 
 
 <p>
 Thank you,<br>
