@@ -1,6 +1,6 @@
 <h1>Collaborative Design Workflows</h1>
 
-<p>You can call a typeface a work of art, a design, or a computer program: all these denominers make sense. What these three things have in common, is that they are systems of signs, in which every part is dependent on every other part.
+<p>You can call a typeface a work of art, a design, or a computer program: all these denominers make sense. What these three things have in common is that they are systems of signs, wherein every part is dependent on every other part.
 </p><p>This makes the possibillity of collaboration inevident; to have such a system to be contained within one creative mind seems to be the most logical approach, as it assures a coherent approach to the different levels of structure within such a project.
 </p><p>However, many art and design projects just don’t fit into one mind only. Even though a movie can be said to express the vision of its director, it is also the result of the collaboration between the director and a thousand other people, whose talents have all in one way or the other contributed to the end result.
 </p><p>Similarly, many visual artists now work as producers, assembling teams and acquiring skills as required by the subject matter at hand.
@@ -8,8 +8,8 @@
 </p><p>The highly interesting question is, IEHO, if we can map the collaboration mechanisms as devised within the free software movement, to the production of cultural artefacts, in this case typefaces.
 </p>
 <h4> Contents </h4> 
-<ul>
-<li class="toclevel-1"><a href="#Versioning_.28revision_control.29"><span class="tocnumber">1</span> <span class="toctext">Versioning (revision control)</span></a>
+<p>
+<a href="#Versioning_.28revision_control.29"><span class="tocnumber">1</span> <span class="toctext">Versioning (revision control)</span></a>
 <ul>
 <li class="toclevel-2"><a href="#Centralised_and_distributed_versioning"><span class="tocnumber">1.1</span> <span class="toctext">Centralised and distributed versioning</span></a></li>
 <li class="toclevel-2"><a href="#Versioning_Systems"><span class="tocnumber">1.2</span> <span class="toctext">Versioning Systems</span></a></li>
