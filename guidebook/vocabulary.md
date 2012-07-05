@@ -8,8 +8,8 @@ Please refer to <a title="http://en.wikipedia.org/wiki/Computer_font" class="ext
 </p>
 
 <h4> <span class="mw-headline"> OFL </span></h4>
-<p>The SIL Open Font License and the Open Font Library share the same acronym, OFL.<br>
-To avoid confusion, please refer to the Open Font License as "the OFL" and the Open Font Library as the "OFLB"</p>
+<p>SIL Open Font License and Open Font Library share the same acronym, OFL.<br>
+To avoid confusion, please refer to Open Font License as "the OFL" and Open Font Library as the "OFLB"</p>
 
 <h4><span class="mw-headline"> Open Font Movement </span></h4>
 <p>A clearer term related to the Open Font Library and usage by a wide community of users of the Open Font License. 
