@@ -7,7 +7,6 @@
 * [Information: Knowledge Resources](guidebook/knowledge_resources.md)
 * [How To Install FontForge](guidebook/how_to_install_fontforge.md)
 * [Font Packaging](guidebook/font_packaging.md)
-* [Font Formats](guidebook/font_formats.md)
 * [Font Design](guidebook/font_design.md)
 * [Font Categorisation](guidebook/font_categorisation.md)
 
@@ -34,6 +33,7 @@
 
 * [Software Resources](guidebook/software.md)
 * [Font Licensing](guidebook/font_licensing.md)
+* [Font Formats](guidebook/font_formats.md)
 * [Features List](guidebook/features_list.md)
 * [Collaborative Design Workflows](guidebook/collaborative_design_workflows.md)
 
