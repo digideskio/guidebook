@@ -6,7 +6,7 @@
 
 <h4>Sign up for Open Font Library</h4>
 
-<p><a href="[route]/up">Register an account</a> (if you haven't already), and make note of your chosen username.</p>
+<p><a href="http://openfontlibrary.org/en/up">Register an account</a> (if you haven't already), and make note of your chosen username.</p>
 
 <h4>Email Us</h4>
 
@@ -14,7 +14,7 @@
 
 <h4>Start Translating</h4>
 
-<p>Read over our <a href="http://openfontlibrary.org/enguidebook/translation">Quick Start Guide</a>, and <a href="http://openfontlibrary.org/entranslation">jump in</a>!</p>
+<p>Read over our <a href="[route]/guidebook/translation">Quick Start Guide</a>, and <a href="http://openfontlibrary.org/entranslation">jump in</a>!</p>
 
 <h4>Adding a language?</h4>
 
