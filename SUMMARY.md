@@ -2,13 +2,13 @@
 
 * [Guidebook](README.md)
 
-* [Submission Guidelines](guidebook/submission_guidelines.md)
 * [Information: Knowledge Resources](guidebook/knowledge_resources.md)
 
 
 ## Contribute
 
 * [How to Translate the Site](guidebook/translation.md)
+* [Submission Guidelines](guidebook/submission_guidelines.md)
 * [How To Update a Font](guidebook/how_to_update_a_font.md)
 * [How To Contribute to an Existing Font](guidebook/how_to_contribute_to_an_existing_font.md)
 * [Become a Translator](guidebook/become-a-translator.md)

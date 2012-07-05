@@ -10,7 +10,7 @@ decide on the <a title="License" href="http://openfontlibrary.org/en/guidebook/f
 </li><li> Create an attractive sample image to show off your fonts in use (PNG or JPEG)
 </li><li> Finally, put all of the files (fonts, fontlog.txt and sample images) into a ZIP file
 </li></ol>
-<p>Then go to the <a href="[route]/create">Upload</a> form and give your font family a title, add a short description, select a category, chose your ZIP file, and click the upload button. That's it!
+<p>Then go to the <a href="http://openfontlibrary.org/en/create">Upload</a> form and give your font family a title, add a short description, select a category, chose your ZIP file, and click the upload button. That's it!
 </p><p>Remember, the fonts you upload will be immediately available for everyone to use. When you choose the license, you are declaring that the font files only contain things that
 </p>
 <ul><li> you hold the copyright for (usually because you designed them), or
