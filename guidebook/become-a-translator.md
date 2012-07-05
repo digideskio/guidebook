@@ -14,7 +14,7 @@
 
 <h4>Start Translating</h4>
 
-<p>Read over our <a href="/guidebook/translation">How To Translate the Site </a>, and jump in!</p>
+<p>Read over our <a href="/guidebook/translation">How To Translate the Site </a> and jump in!</p>
 
 <h4>Adding a language?</h4>
 
