@@ -20,6 +20,7 @@
 * [Knowledge Resources](guidebook/knowledge_resources.md)
 * [How To Earn Money](guidebook/how_to_earn_money.md)
 * [Font Design](guidebook/font_design.md)
+* [Features List](guidebook/features_list.md)
 * [Book Recommendations](guidebook/book_recommendations.md)
 
 
@@ -31,7 +32,6 @@
 * [Font Licensing](guidebook/font_licensing.md)
 * [Font Formats](guidebook/font_formats.md)
 * [Font Categorisation](guidebook/font_categorisation.md)
-* [Features List](guidebook/features_list.md)
 * [Existing Libre/Open Fonts](guidebook/existing_libre_open_fonts.md)
 * [Collaborative Design Workflows](guidebook/collaborative_design_workflows.md)
 
