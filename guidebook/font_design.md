@@ -1,14 +1,13 @@
 <h1>Font Design</h1>
 
-
 <h4> I am new to font design. What should I do to get started? </h4>
 <p>Some fonts in the library contain not much more than basic Latin A-Z.  To make these fonts really usable, it would be great if you helped out by adding the basic accented Latin letters required for pan-European usage first, and eventually an even larger set of Latin letters needed for additional Latin-based orthographies, such as Vietnamese, some of the American Indian language orthographies, and various African language orthographies.
 </p><p>Another problem is that kerning pairs may only be present for the basic Latin letters, and not yet for the extended and accented Latin letters.
 </p><p>So, depending on your level of experience, helping to fill out some of the existing fonts which appeal to you stylistically by adding accented and extended Latin glyphs, or by adding OpenType kerning features,  may be a fairly entertaining way to get your feet wet initially.
-</p><p>You'll need a font editor program to do this. We recommend FontForge (<a title="http://fontforge.sf.net" class="external text" href="http://fontforge.sf.net">main website</a>) and have a step by step guide about <a title="How to install FontForge" href="/wiki/How_to_install_FontForge">How to install FontForge</a>.
+</p><p>You'll need a font editor program to do this. We recommend FontForge (<a title="http://fontforge.sf.net" class="external text" href="http://fontforge.sf.net">main website</a>) and have a step by step guide about <a title="How to install FontForge" href="[route]/guidebook/how_to_install_fontforge">How to install FontForge</a>.
 </p>
 <h4> I want to make a totally new font for the library. </h4>
-<p>For making something "really new," check out our <a title="Knowledge Resources" href="/wiki/Knowledge_Resources#How_To_Design_New_Type">How To Design Type links</a>.
+<p>Designing a typeface from scratch is hard work, and beyond the scope of this short guide. You might want to check out some books on type design, and read tutorials for whatever font design tool you have decided to use.
 </p>
 <h4> What kind of font is most needed? </h4>
 <p>The free software font movement needs fonts that people want to use, and the proprietary fonts many people use are a good guide to this. So search the web for lists of "most popular fonts" and see if anything inspires you!
