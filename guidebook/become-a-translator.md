@@ -6,7 +6,7 @@
 
 <h4>Sign up for Open Font Library</h4>
 
-<p><a href="http://openfontlibrary.org/en/up">Register an account</a> (if you haven't already), and make note of your chosen username.</p>
+<p><a href="[route]/up">Register an account</a> (if you haven't already), and make note of your chosen username.</p>
 
 <h4>Email Us</h4>
 
