@@ -1,7 +1,7 @@
 <h1>Guidebook</h1>
 
 <h4>Hello, welcome to the Guidebook.</h4>
-<p>Every page is separated into three categories: Contribute, Information and Technical. The Contribute category offers everything you will need to know to get involved in Open Font Library. As far as designing fonts this includes: how to actually <a href="/font_design">design a font</a>, what <a href="/font_formats">formats</a> and <a href="/supported_licenses">licenses are supported, and how to <a href="/submission_guidelines"> submit</a> and <a href="how_to_update_a_font">update</a> them when finished.
+<p>Every page is separated into three categories: Contribute, Information and Technical. The Contribute category offers everything you will need to know to get involved in Open Font Library. As far as designing fonts this includes: how to actually <a href="/font_design">design a font</a>, what <a href="/font_formats">formats</a> and <a href="/supported_licenses">licenses are supported</a>, and how to <a href="/submission_guidelines"> submit</a> and <a href="how_to_update_a_font">update</a> them when finished.
 <p>
 But if design isn't your thing, then you can also help out by <a href="/guidebook/how_to_file_bugs"> filing bugs</a>, <a href="/guidebook/become-a-translator">becoming a translator</a> and <a href="/guidebook/dev-faq"> developing</a> for OFLB.
 <p>
