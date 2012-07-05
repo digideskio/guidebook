@@ -22,7 +22,4 @@ ECAL offers an undergraduate degree - <a title="http://www.ecal.ch/bachelors_des
 
 <h4> Workshops </h4>
 <a title="http://www.typeworkshop.com/" class="external free" href="http://www.typeworkshop.com/">http://www.typeworkshop.com/</a>
-
-<h4>  See Also </h4>
-<a title="Books" href="/wiki/Books">Books</a> (Add the reading lists of these courses to that page?)
 </p>
