@@ -9,7 +9,8 @@
 </p>
 <h4> Contents </h4> 
 <p>
-<a href="#Versioning_.28revision_control.29"><span class="tocnumber">1</span> <span class="toctext">Versioning (revision control)</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Versioning_.28revision_control.29"><span class="tocnumber">1</span> <span class="toctext">Versioning (revision control)</span></a>
 <ul>
 <li class="toclevel-2"><a href="#Centralised_and_distributed_versioning"><span class="tocnumber">1.1</span> <span class="toctext">Centralised and distributed versioning</span></a></li>
 <li class="toclevel-2"><a href="#Versioning_Systems"><span class="tocnumber">1.2</span> <span class="toctext">Versioning Systems</span></a></li>
