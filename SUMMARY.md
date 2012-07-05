@@ -11,7 +11,6 @@
 * [Information: Knowledge Resources](guidebook/knowledge_resources.md)
 * [How To Update a Font](guidebook/how_to_update_a_font.md)
 * [How To Install FontForge](guidebook/how_to_install_fontforge.md)
-* [How To Earn Money](guidebook/how_to_earn_money.md)
 * [Font Packaging](guidebook/font_packaging.md)
 * [Font Licensing](guidebook/font_licensing.md)
 * [Font Formats](guidebook/font_formats.md)
@@ -31,6 +30,7 @@
 ## Information
 
 * [Vocabulary](guidebook/vocabulary.md)
+* [How To Earn Money](guidebook/how_to_earn_money.md)
 * [Book Recommendations](guidebook/book_recommendations.md)
 
 

@@ -2,29 +2,6 @@
 
 <p>How can a typeface designer and font developer make a living releasing fonts under the OFL and publishing free information on typeface design?
 </p>
-<h4>Contents</h4>
-<ul>
-<li class="toclevel-1"><a href="#Context"><span class="tocnumber">1</span> <span class="toctext">Context</span></a></li>
-<li class="toclevel-1"><a href="#Strategy"><span class="tocnumber">2</span> <span class="toctext">Strategy</span></a></li>
-<li class="toclevel-1"><a href="#Tactics"><span class="tocnumber">3</span> <span class="toctext">Tactics</span></a>
-<ul>
-<li class="toclevel-2"><a href="#Entrepreneurialism"><span class="tocnumber">3.1</span> <span class="toctext">Entrepreneurialism</span></a></li>
-<li class="toclevel-2"><a href="#Private_Hire"><span class="tocnumber">3.2</span> <span class="toctext">Private Hire</span></a></li>
-<li class="toclevel-2"><a href="#Another_Job"><span class="tocnumber">3.3</span> <span class="toctext">Another Job</span></a></li>
-<li class="toclevel-2"><a href="#A_Job"><span class="tocnumber">3.4</span> <span class="toctext">A Job</span></a>
-<ul>
-<li class="toclevel-3"><a href="#Academics"><span class="tocnumber">3.4.1</span> <span class="toctext">Academics</span></a></li>
-<li class="toclevel-3"><a href="#Operating_System_Developers"><span class="tocnumber">3.4.2</span> <span class="toctext">Operating System Developers</span></a></li>
-<li class="toclevel-3"><a href="#Typeface_Designers"><span class="tocnumber">3.4.3</span> <span class="toctext">Typeface Designers</span></a></li>
-</ul>
-</li>
-<li class="toclevel-2"><a href="#Hybrid_Distribution"><span class="tocnumber">3.5</span> <span class="toctext">Hybrid Distribution</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1"><a href="#Criticism"><span class="tocnumber">4</span> <span class="toctext">Criticism</span></a></li>
-<li class="toclevel-1"><a href="#Examples"><span class="tocnumber">5</span> <span class="toctext">Examples</span></a></li>
-<li class="toclevel-1"><a href="#Related_Links"><span class="tocnumber">6</span> <span class="toctext">Related Links</span></a></li>
-</ul>
 <h4> Context </h4>
 <p>The common conversations since Napster about how to pay musicians or writers other artists in the age of computer networks is the same as the issue of how to pay font designers. 
 </p><p>Fonts are a curious kind of software because they are bang in the middle between functional software and artistic works.
