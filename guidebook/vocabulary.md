@@ -1,6 +1,6 @@
 <h1>Vocabulary</h1>
 
-<h4> <span class="mw-headline"> Fonts vs Typefaces </span></h4>
+<h4> <span class="mw-headline"> Fonts vs. Typefaces </span></h4>
 
 <p>A typeface means a style of lettering that can be used in many different typesetting systems.<br>
 A font (today) means a digital implementation of a typeface.<p>
