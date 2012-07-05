@@ -1,4 +1,4 @@
-<h1>Knowledge Resources</h1>
+<h1>Information: Knowledge Resources</h1>
 
 <h4> General Resources </h4>
 <p><a title="http://new.typemedia.org/info/ExternalResources/" class="external text" href="http://new.typemedia.org/info/ExternalResources/">Type and Media's links</a><br>

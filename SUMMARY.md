@@ -9,7 +9,7 @@
 * [Software Resources](guidebook/software.md)
 * [Related Projects](guidebook/related_projects.md)
 * [Libre/Open Fonts](guidebook/libre_open_fonts.md)
-* [Knowledge Resources](guidebook/knowledge_resources.md)
+* [Information: Knowledge Resources](guidebook/knowledge_resources.md)
 * [How To Update a Font](guidebook/how_to_update_a_font.md)
 * [How To Install FontForge](guidebook/how_to_install_fontforge.md)
 * [How To Earn Money](guidebook/how_to_earn_money.md)
