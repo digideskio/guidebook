@@ -2,9 +2,6 @@
 
 * [Guidebook](README.md)
 
-* [Information: Knowledge Resources](guidebook/knowledge_resources.md)
-
-
 ## Contribute
 
 * [How to Translate the Site](guidebook/translation.md)
@@ -20,6 +17,7 @@
 * [Typeface Education Design](guidebook/typeface_education_design.md)
 * [Related Projects](guidebook/related_projects.md)
 * [Libre/Open Fonts](guidebook/libre_open_fonts.md)
+* [Knowledge Resources](guidebook/knowledge_resources.md)
 * [How To Earn Money](guidebook/how_to_earn_money.md)
 * [Font Design](guidebook/font_design.md)
 * [Font Categorisation](guidebook/font_categorisation.md)
