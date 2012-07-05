@@ -189,7 +189,6 @@
 </li><li> <b>Please publish scans of public domain type and link to them here!</b>
 </li></ul>
 <p>Please note the <a title="http://www.typeright.org/getd_print.html" class="external text" href="http://www.typeright.org/getd_print.html">TypeRight ethical guide to revivals</a>.
-</p><p>At <a title="http://openfontlibrary.org/wiki/PublicDomainTypefacesTimeline" class="external free" href="http://openfontlibrary.org/wiki/PublicDomainTypefacesTimeline">http://openfontlibrary.org/wiki/PublicDomainTypefacesTimeline</a> were some small list of typefaces can be considered as Public Domain, which may help people search their original master drawings on museums, and help us sharing them online - it's organized in a timeline order for an easier reading.
 </p><p>The <a title="http://sfpl.org/index.php?pg=2000007301" class="external text" href="http://sfpl.org/index.php?pg=2000007301">San Francisco Public Library</a> has an excellent collection of type founder's specimen books.
 </p>
 <h4>  People </h4>
