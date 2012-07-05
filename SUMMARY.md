@@ -2,7 +2,6 @@
 
 * [Guidebook](README.md)
 
-* [Vocabulary](guidebook/vocabulary.md)
 * [Typeface Education Design](guidebook/typeface_education_design.md)
 * [How to Translate the Site](guidebook/translation.md)
 * [Submission Guidelines](guidebook/submission_guidelines.md)
@@ -24,5 +23,10 @@
 * [Collaborative Design Workflows](guidebook/collaborative_design_workflows.md)
 * [Book Recommendations](guidebook/book_recommendations.md)
 * [Contribute: Become a Translator](guidebook/become-a-translator.md)
+
+
+## Information
+
+* [Vocabulary](guidebook/vocabulary.md)
 
 
