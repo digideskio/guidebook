@@ -6,7 +6,7 @@
 
 <h4> Individuals Fonts </h4>
 <p>
-<a id="YOUR_NAME_HERE" name="YOUR_NAME_HERE"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://www.marca.unb.br/fontesunb.php" class="external text" href="http://www.marca.unb.br/fontesunb.php">UNB Pro and UNB Office</a>, extensively reworked derivatives of the RedHat Liberation family by Amsterdam-based Gustavo Ferreira - GPLv2+FE <b>can't access website</b>
 </li><li> <a title="http://www.fontspace.com/gluk/itsadzoke" class="external text" href="http://www.fontspace.com/gluk/itsadzoke">Itzadoke</a> OFL <b>check old OFLB</b>
 </li><li> <a title="http://code.google.com/p/istok/" class="external text" href="http://code.google.com/p/istok/">iStok</a> - GPL+FE
@@ -46,14 +46,13 @@
 </li><li> <a title="http://home.kabelfoon.nl/~slam/fonts/fonts.html" class="external text" href="http://home.kabelfoon.nl/~slam/fonts/fonts.html">Verdana, Garamond, and TrueType test fonts</a> GPL - no FE
 </li><li> <a title="http://thibault.org/fonts/" class="external text" href="http://thibault.org/fonts/">Thibault</a> LGPL fonts
 </li></ul>
-<a id="YOUR_NAME_HERE_2" name="YOUR_NAME_HERE_2"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
 <ul><li> <a title="http://www.dafont.com/author.php?author=660" class="external text" href="http://www.dafont.com/author.php?author=660">Matt Chisholm's fonts</a>
 </li><li> <a title="http://eyegene.ophthy.med.umich.edu/unicode/fontguide/" class="external text" href="http://eyegene.ophthy.med.umich.edu/unicode/fontguide/">Ed Trager's font archive of libre/open Unicode fonts, covering a variety of scripts</a>.
 </li><li> <a title="http://scripts.sil.org/OFL_fonts" class="external text" href="http://scripts.sil.org/OFL_fonts">SIL's list of fonts released under the OFL</a>
 </li><li> <a title="http://www.alanwood.net/unicode/fonts.html" class="external text" href="http://www.alanwood.net/unicode/fonts.html">The Font Repository of Alan Wood, with good categorisation</a>.
 </li><li> <a title="http://www.gnome.org/fonts/" class="external text" href="http://www.gnome.org/fonts/">Bitstream Vera, open-source</a>
 </li></ul>
-<a id="YOUR_NAME_HERE_3" name="YOUR_NAME_HERE_3"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://dejavu.sourceforge.net/" class="external text" href="http://dejavu.sourceforge.net/">Dejavu, based on Bitstream Vera, open-source</a>
 </li><li> <a title="http://tavmjong.free.fr/FONTS" class="external text" href="http://tavmjong.free.fr/FONTS">Arev, based on Bitstream Vera and Dejavu, open-source</a>
 </li><li> <a title="http://tug.org/fonts/utopia" class="external text" href="http://tug.org/fonts/utopia">Adobe Utopia</a> Open Source, see <a title="http://ospublish.constantvzw.org/type/an-update-on-the-status-of-utopia" class="external text" href="http://ospublish.constantvzw.org/type/an-update-on-the-status-of-utopia">here</a>
@@ -61,7 +60,7 @@
 </li><li> <a title="http://monafont.sourceforge.net/index-e.html" class="external text" href="http://monafont.sourceforge.net/index-e.html">Mona Font, a Japanese font for text arts</a>
 </li><li> <a title="http://sourceforge.net/projects/ocr-a-font" class="external text" href="http://sourceforge.net/projects/ocr-a-font">OCR-A font</a> (PD)
 </li></ul>
-<a id="YOUR_NAME_HERE_4" name="YOUR_NAME_HERE_4"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://fpf.sourceforge.net/cms/" class="external text" href="http://fpf.sourceforge.net/cms/">Persian Font</a>
 </li><li> <a title="http://groups.msn.com/Manchu" class="external text" href="http://groups.msn.com/Manchu">Manchu OpenType Font</a> (OFL)
 </li><li> <a title="http://www.arabeyes.org/project.php?proj=Khotot" class="external text" href="http://www.arabeyes.org/project.php?proj=Khotot">Arabeyes Mothana & Thabit </a> (OFL)
@@ -80,71 +79,71 @@
 </li><li> <a title="http://www.thessalonica.org.ru/en/theano.html" class="external text" href="http://www.thessalonica.org.ru/en/theano.html">Theano</a> (OFL) STARTED
 </li><li> <a title="http://lists.altlinux.org/pipermail/fonts-devel/2006-May/000091.html" class="external text" href="http://lists.altlinux.org/pipermail/fonts-devel/2006-May/000091.html">thessalonica OFL fonts by Alexej Kryukov</a> STARTED
 </li></ul>
-<a id="YOUR_NAME_HERE_5" name="YOUR_NAME_HERE_5"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> Dustimo had some GPL fonts, but the .com is down. fonts-ttf-dustismo packages are around and need tracking down. 
 </li><li> <a title="http://www.tug.dk/FontCatalogue/" class="external text" href="http://www.tug.dk/FontCatalogue/">TUG.dk Font Catalogue</a> need investigating near the end.
 </li></ul>
-<a id="YOUR_NAME_HERE_6" name="YOUR_NAME_HERE_6"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://james.kilfiger.googlepages.com/" class="external text" href="http://james.kilfiger.googlepages.com/">James kilfiger</a> (OFL   SFDs)
 </li><li> <a title="http://www.theory.org/~strthrwr/fonts/free/" class="external text" href="http://www.theory.org/~strthrwr/fonts/free/">Matts Fonts</a> (GPL) Matt has a tipjar!
 </li><li> <a title="http://savannah.nongnu.org/projects/freefont/" class="external text" href="http://savannah.nongnu.org/projects/freefont/">freefont project</a> (GPLv3) 
 </li><li> <a title="http://www.gust.org.pl/projects/e-foundry/tex-gyre/" class="external text" href="http://www.gust.org.pl/projects/e-foundry/tex-gyre/">TeX Gyre</a> extend some common libre/open URW fonts
 </li></ul>
-<a id="YOUR_NAME_HERE_7" name="YOUR_NAME_HERE_7"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://www.i18nguy.com/unicode/unicode-font.html" class="external text" href="http://www.i18nguy.com/unicode/unicode-font.html">Osmanya script</a>
 </li><li> <a title="http://junicode.sourceforge.net/" class="external text" href="http://junicode.sourceforge.net/">JUnicode</a> (GPL) Unicode font for medievalists
 </li><li> <a title="http://sourceforge.net/projects/cm-unicode/" class="external text" href="http://sourceforge.net/projects/cm-unicode/">Computer Modern Unicode</a> (MIT License)
 </li><li> <a title="http://www.users.bigpond.net.au/gavindi/" class="external text" href="http://www.users.bigpond.net.au/gavindi/">Arkpandora</a> is Bitstream Vera with the sizes altered to be drop-in replacements for Microsoft Arial, Times and Verdana
 </li></ul>
-<a id="YOUR_NAME_HERE_8" name="YOUR_NAME_HERE_8"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://www.ekushey.org/?page/otf_bangla_fonts" class="external text" href="http://www.ekushey.org/?page/otf_bangla_fonts">Bangla fonts</a> Various Bangla unicode smart fonts by Ekushey
 </li><li> Aurulent Sans (OFL) by <a title="http://www.geocities.com/hartke01/" class="external text" href="http://www.geocities.com/hartke01/">Stephen Hartke</a>, along with his excellent list of libre/opent and freeware fonts, including several more of his own.
 </li><li> <a title="http://sourceforge.net/projects/sjfonts" class="external text" href="http://sourceforge.net/projects/sjfonts">Steve Jordi's handwriting fonts</a> (GPL)
 </li></ul>
-<a id="YOUR_NAME_HERE_9" name="YOUR_NAME_HERE_9"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://www.ellak.gr/fonts/mgopen/index.en.html" class="external text" href="http://www.ellak.gr/fonts/mgopen/index.en.html">MgOpen</a> is Times New Roman, Optima, Helvetica and VW Rounded with Latin and Greek Glyphs. All fonts with glyphs for the monotoniko system, and one also with glyphs for polytoniko (Open Source License modeled after Bitstream Vera's)
 </li><li> <a title="http://home.kabelfoon.nl/~slam/fonts/fonts.html" class="external text" href="http://home.kabelfoon.nl/~slam/fonts/fonts.html">Rogier van Dalen</a> has made two excellent fonts similar to Verdana and Garamond (GPL)
 </li><li> <a title="http://www.redhat.com/promo/fonts" class="external text" href="http://www.redhat.com/promo/fonts">Red Hat's Liberation fonts</a> are designed to be metrically compatible with Arial, Times New Roman and Courier New
 </li><li> <a title="http://www.graphicology.com/blog/2007/9/23/121-your-ps-and-qs.html" class="external text" href="http://www.graphicology.com/blog/2007/9/23/121-your-ps-and-qs.html">PS/QS</a>
 </li></ul>
-<a id="YOUR_NAME_HERE_10" name="YOUR_NAME_HERE_10"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://arkandis.tuxfamily.org/" class="external text" href="http://arkandis.tuxfamily.org/">arkandis Open Fonts</a>
 </li><li> <a title="http://www.grafikfritze.de/?p=43" class="external text" href="http://www.grafikfritze.de/?p=43">Vollkorn Brotschrift</a> Oldstyle serif face, especially meant for body setting (CC-BY)
 </li><li> <a title="http://linuxart.com/log/archives/2008/08/29/hack-week-wrap-up" class="external text" href="http://linuxart.com/log/archives/2008/08/29/hack-week-wrap-up">linuxart (OFL)</a> and <a title="http://jimmac.musichall.cz/log/?p=441" class="external text" href="http://jimmac.musichall.cz/log/?p=441">jimmac (OFL)</a> and <a title="http://www.suse.de/~toms/hackweek3/" class="external text" href="http://www.suse.de/~toms/hackweek3/">TomsMon (OFL)</a> from novell hack week
 </li><li> <a title="http://inkboy.fr/html/telechargement-ressources.php" class="external text" href="http://inkboy.fr/html/telechargement-ressources.php">InkBoyFont</a> (OFL)
 </li></ul>
-<a id="YOUR_NAME_HERE_11" name="YOUR_NAME_HERE_11"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://code.google.com/p/molengo-fonts/" class="external text" href="http://code.google.com/p/molengo-fonts/">Molengo</a> (OFL)
 </li><li> <a title="https://launchpad.net/lazyhandwriterfont" class="external text" href="https://launchpad.net/lazyhandwriterfont">LazyHandwriter</a> (OFL)
 </li><li> <a title="http://hiraneffects.blogspot.com/2008/03/thanks-perizia-is-now-font.html" class="external text" href="http://hiraneffects.blogspot.com/2008/03/thanks-perizia-is-now-font.html">Perizia</a> (GPLv3)
 </li><li> <a title="http://cdl.museum.upenn.edu/cuneifonts.html" class="external text" href="http://cdl.museum.upenn.edu/cuneifonts.html">CuneiformComposite</a> (OFL)
 </li></ul>
-<a id="YOUR_NAME_HERE_12" name="YOUR_NAME_HERE_12"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://dev.naver.com/projects/nanumfont/" class="external autonumber" href="http://dev.naver.com/projects/nanumfont/">[1]</a> NanumGothic Coding Font (OFL). Extremely professional monospaced font, has a line height that fits the Korean Hangul script. Was commissioned by Naver, a large Korean portal.
 </li><li> <a title="http://packages.debian.org/lenny/ttf-aenigma" class="external text" href="http://packages.debian.org/lenny/ttf-aenigma">Aenigma</a> 465 free TrueType fonts by Brian Kent, in a Debian package
 </li><li> <a title="http://www.fontspace.com/character" class="external text" href="http://www.fontspace.com/character">Character's Fonts</a> Most (though not all) are Public Domain
 </li></ul>
-<a id="YOUR_NAME_HERE_13" name="YOUR_NAME_HERE_13"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://www.rogersfonts.org.uk/index.html" class="external text" href="http://www.rogersfonts.org.uk/index.html">Rodger White's</a> Public Domain fonts (despite what the readme files say per <a title="http://www.rogersfonts.org.uk/index.html" class="external autonumber" href="http://www.rogersfonts.org.uk/index.html">[2]</a>
 </li><li> <a title="http://www.peter-wiegel.de/Fonts.html" class="external text" href="http://www.peter-wiegel.de/Fonts.html">Peter Wiegel's Cat Fonts</a> GPL with Font Exception and OFL
 </li><li> <a title="http://www.fontspace.com/adolfo" class="external text" href="http://www.fontspace.com/adolfo">Adolfus</a> Public Domain
 </li><li> <a title="http://www.fontspace.com/casady-and-greene/vremya" class="external text" href="http://www.fontspace.com/casady-and-greene/vremya">Vremya</a> Public Domain
 </li><li> <a title="http://www.fontspace.com/liquid-parallax" class="external text" href="http://www.fontspace.com/liquid-parallax">Liquid Parallax's fonts</a> Public Domain
 </li></ul>
-<a id="YOUR_NAME_HERE_14" name="YOUR_NAME_HERE_14"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://www.fontspace.com/bill-horton/machumaine" class="external text" href="http://www.fontspace.com/bill-horton/machumaine">Mac Humaine</a> Public Domain
 </li><li> <a title="http://www.fontspace.com/diogene" class="external text" href="http://www.fontspace.com/diogene">Diogene's Fonts</a> Public Domain
 </li><li> <a title="http://www.fontspace.com/wa2ise" class="external text" href="http://www.fontspace.com/wa2ise">wa2ise's fonts</a> Public Domain
 </li><li> <a title="http://www.fontspace.com/daniel-nagura" class="external text" href="http://www.fontspace.com/daniel-nagura">Daniel Nagura's Fonts</a> Public Domain
 </li><li> <a title="http://www.fontspace.com/holitter-studios" class="external text" href="http://www.fontspace.com/holitter-studios">Holitter Studios</a> Public Domain
 </li></ul>
-<a id="YOUR_NAME_HERE_15" name="YOUR_NAME_HERE_15"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://www.fontspace.com/george-williams" class="external text" href="http://www.fontspace.com/george-williams">George William's Font's</a> OFL
 </li><li> <a title="http://www.fontspace.com/phranzyskos-handwriting-fonts/dignas-handwriting" class="external text" href="http://www.fontspace.com/phranzyskos-handwriting-fonts/dignas-handwriting">Digna's Handwriting</a> OFL
 </li><li> <a title="http://www.fontspace.com/jean-douteau" class="external text" href="http://www.fontspace.com/jean-douteau">Jean Douteau's Fonts</a> OFL
 </li><li> <a title="http://fonts.jp/hanazono/" class="external text" href="http://fonts.jp/hanazono/">Hanazono Minchō</a> Very comprehensive CJKV character (Asian logograph) font generated from data from the <a title="http://en.glyphwiki.org" class="external text" href="http://en.glyphwiki.org">GlyphWiki</a> project. Contains over 100.000 kanji/hanja/hán tự/hanzi. Custom free software licence (included in zip archive).
 </li></ul>
-<a id="YOUR_NAME_HERE_16" name="YOUR_NAME_HERE_16"></a><h4> <span class="mw-headline"> YOUR NAME HERE </span></h4>
+
 <ul><li> <a title="http://packages.debian.org/lenny/ttf-f500" class="external text" href="http://packages.debian.org/lenny/ttf-f500">F500</a> This is the font similar to the one used in the Sony PlayStation video game "Wipeout". Artistic license
 </li><li><a title="http://www.fontspace.com/hank-gillette" class="external text" href="http://www.fontspace.com/hank-gillette">Hank Gillette's fonts</a> Mostly Public Domian
 </li><li><a title="http://www.objetsdart.ca/Graphics/Old/index.html" class="external text" href="http://www.objetsdart.ca/Graphics/Old/index.html">Objest Dart</a> Available under the <a title="http://www.gnu.org/licenses/dsl.html" class="external text" href="http://www.gnu.org/licenses/dsl.html">Design Science License </a> approved by the <a title="http://www.gnu.org/licenses/license-list.html#OtherLicenses" class="external text" href="http://www.gnu.org/licenses/license-list.html#OtherLicenses">FSF</a>
