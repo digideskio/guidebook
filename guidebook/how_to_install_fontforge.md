@@ -2,12 +2,15 @@
 
 <p>This page is step by step guide to installing <a title="FontForge" href="/wiki/FontForge">FontForge</a> for beginners.</p>
 
+<h4> Windows </h4>
+
+Please see this guide on how to <a href="http://www.mpetroff.net/software/fontforge-windows/">install FontForge on Windows</a>.</p>
+
 <h4> Mac OS X </h4>
 
-Please see <a href="http://www.pixilate.com/about/installing-fontforge-in-mountain-lion">this guide to installing FontForge on Mac OS X</a>.</p>
+Please see this guide on how to <a href="http://www.pixilate.com/about/installing-fontforge-in-mountain-lion">install FontForge on Mac OS X</a>.</p>
 
-<p>To solve copy-paste problems with FontForge and also Inkscape, change the X11 preferences' "Pasteboard" settings to that "Enable syncing" is disabled.</p>
-
+<p>(To solve copy-paste problems with FontForge and also Inkscape, change the X11 preferences' "Pasteboard" settings to that "Enable syncing" is disabled.)</p>
 
 <h4> GNU/Linux </h4>
 <a id="Install_the_required_programs" name="Install_the_required_programs"></a><h4> <span class="mw-headline"> Install the required programs </span></h4>
