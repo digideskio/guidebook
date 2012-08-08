@@ -1,55 +1,14 @@
 <h1>How To Install FontForge</h1>
 
-<p>This page is step by step guide to installing <a title="FontForge" href="/wiki/FontForge">FontForge</a> for beginners.
-</p><p>The first part covers installing FontForge's "official" releases.
-</p><p>The second part of this page explains how some FontForge users install the "source code" version of FontForge. Many people do this so they can use the very latest features, and have the very latest bug fixes. This version is updated almost daily. If you want to report a problem of FontForge, we recommend that you try reproducing your problem with the source code version - you may find your problem has already been fixed! We explain how to install FontForge from source code both for the first time, and how to update it too.
-</p>
+<p>This page is step by step guide to installing <a title="FontForge" href="/wiki/FontForge">FontForge</a> for beginners.</p>
 
-<h4> Official Releases </h4>
-<p><b>Please edit this page and explain how to install FontForge step by step for Ubuntu, Fedora, Mac OS X and Windows!</b>
-</p><p><a title="https://sourceforge.net/project/showfiles.php?group_id=103338&package_id=111040" class="external text" href="https://sourceforge.net/project/showfiles.php?group_id=103338&package_id=111040">On the SourceForge Download page</a> you will see a list of 7 versions of FontForge. These are for the various kinds of computers people use today, and their names are packed with technical details. This means they can seem a little cryptic, so here is our guide to them:
-</p>
-<ul><li> <b>GNU/Linux on 32 bit PCs</b>: fontforge-YYYYMMDD.i386.rpm
-</li><li> <b>GNU/Linux on 64 bit PCs</b>: fontforge-YYYYMMDD.x86_64.rpm
-</li></ul>
-<ul><li> <b>Windows with Cygwin installed</b>: fontforge_cygwin-YYYYMMDD.tar.bz2
-</li></ul>
-<ul><li> <b>Intel Macs with Leopard</b>: FontForge_intelmacX.5_x86-py25-YYYYMMDD.pkg.zip
-</li><li> <b>G3, G4 or G5 Macs with Leopard</b>: FontForge_macX.5_ppc-py25-YYYYMMDD.pkg.zip
-</li></ul>
-<ul><li> <b>Intel Macs with Tiger</b>: FontForge_intelmacX.4_x86-py23-YYYYMMDD.pkg.zip
-</li><li> <b>G3, G4 or G5 Macs with Tiger</b>: FontForge_macX.4_py2.3-YYYYMMDD.pkg.zip
-</li></ul>
-<p>These examples include "YYYYMMDD" that will appear as numbers for the year, month and date of publication (eg, 20081103).
-</p><p>The FontForge manual contains instructions for installing these packages on <a title="http://fontforge.sourceforge.net/nix-install.html" class="external text" href="http://fontforge.sourceforge.net/nix-install.html">GNU/Linux</a>, <a title="http://fontforge.sourceforge.net/mac-install.html" class="external text" href="http://fontforge.sourceforge.net/mac-install.html">Mac OS X</a> and <a title="http://fontforge.sourceforge.net/ms-install.html" class="external text" href="http://fontforge.sourceforge.net/ms-install.html">Windows</a>. There is also an <a title="http://www.geocities.jp/meir000/fontforge/" class="external text" href="http://www.geocities.jp/meir000/fontforge/">Unofficial Windows Version</a>.
-</p>
 <h4> Mac OS X </h4>
-<p><b>Please edit this line with exact details on how to do each step</b>
-</p><p>To solve copy-paste problems with FontForge and also Inkscape, change the X11 preferences' "Pasteboard" settings to that "Enable syncing" is disabled.
-</p><p>The best way to experience free software like FontForge is to run GNU/Linux on your Mac. When you use FontForge on Mac OS X, you make it much easier to move to GNU/Linux in the future.
-</p><p>0. Go to the Apple menu and run "Software Update" and make sure all the "Mac OS X Update" items are installed. 
-</p><p>1. Insert the Mac OS X installation DVD and install X11: Browse the disc and scroll down to "Optional Installs" and open it. Keep clicking Continue until you get to the pane "Custom Install on Macintosh HD." Press the arrow beside "Applications so you get a list of them. Select X11 and keep pressing Continue.
-</p><p>2. Download and install the 'libraries' from 
-<a title="http://downloads.sourceforge.net/sourceforge/fontforge/FFLibs-intelmac-20081207.pkg.zip" class="external free" href="http://downloads.sourceforge.net/sourceforge/fontforge/FFLibs-intelmac-20081207.pkg.zip">http://downloads.sourceforge.net/sourceforge/fontforge/FFLibs-intelmac-20081207.pkg.zip</a>
-</p><p>3. Download and install FontForge from <a title="http://downloads.sourceforge.net/fontforge/FontForge_intelmacX.5_x86-py25-20090224.pkg.zip" class="external free" href="http://downloads.sourceforge.net/fontforge/FontForge_intelmacX.5_x86-py25-20090224.pkg.zip">http://downloads.sourceforge.net/fontforge/FontForge_intelmacX.5_x86-py25-20090224.pkg.zip</a>
-</p><p>4. Create a text file  in your home directory with this name (not the period at the start)
-</p>
-<pre>   .fonts.conf
-</pre>
-<p>And make it contain the following:
-</p>
-<pre>   <?xml version="1.0"?>
-   <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
-   <fontconfig>
-           <dir>/System/Library/Fonts</dir>
-           <dir>/Library/Fonts</dir>
-           <dir>~/Library/Fonts</dir>
-   </fontconfig>
-</pre>
-<p>5. Go to the Finder and find the FontForge application in /Applications, and drag it to your Dock.
-</p><p>6. Run run FontForge from the Dock.
-</p>
-<h4> Source Code </h4>
+
+Please see <a href="http://www.pixilate.com/about/installing-fontforge-in-mountain-lion">this guide to installing FontForge on Mac OS X</a>.</p>
+
+<p>To solve copy-paste problems with FontForge and also Inkscape, change the X11 preferences' "Pasteboard" settings to that "Enable syncing" is disabled.</p>
+
+
 <h4> GNU/Linux </h4>
 <a id="Install_the_required_programs" name="Install_the_required_programs"></a><h4> <span class="mw-headline"> Install the required programs </span></h4>
 <p>The parts in the light blue boxes are commands that should be typed (copy and pasted) into your "Terminal" program.
@@ -141,10 +100,7 @@
 </p>
 <pre>   /usr/local/bin/fontforge;
 </pre>
-<h4>  Mac OS X</h4>
-<p>The procedure for installing FontForge from source code on Mac OS X is the same as for GNU/Linux, above, except that installing the depencies is different. If you install FontForge from source on Mac OS X successfully from scratch, please write up your steps here. 
-</p><p>The official FontForge website has a page about <a title="http://fontforge.sourceforge.net/MacOSX.html" class="external text" href="http://fontforge.sourceforge.net/MacOSX.html">installing FontForge on Mac OS X</a> too.
-</p>
+
 <h4> Updating your source code </h4>
 <p>You don't have to do all this each time you want to update. Just run the following commands:
 </p>
