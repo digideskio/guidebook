@@ -8,9 +8,7 @@ Please see this guide on how to <a href="http://www.mpetroff.net/software/fontfo
 
 <h4> Mac OS X </h4>
 
-Please see this guide on how to <a href="http://www.pixilate.com/about/installing-fontforge-in-mountain-lion">install FontForge on Mac OS X</a>.</p>
-
-<p>(To solve copy-paste problems with FontForge and also Inkscape, change the X11 preferences' "Pasteboard" settings to that "Enable syncing" is disabled.)</p>
+Please see this guide on how to <a href="http://www.pixilate.com/about/installing-fontforge-in-mountain-lion">install FontForge on Mac OS X</a>. (To solve copy-paste problems with FontForge and also Inkscape, change the X11 preferences' "Pasteboard" settings to that "Enable syncing" is disabled.)</p>
 
 <h4> GNU/Linux </h4>
 <a id="Install_the_required_programs" name="Install_the_required_programs"></a><h4> <span class="mw-headline"> Install the required programs </span></h4>
@@ -18,9 +16,9 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 </p><p>When using Debian or Ubuntu:
 </p>
 <pre>   sudo aptitude update;
-   sudo aptitude install libpng12-dev zlibc zlib1g-dev libtiff-dev 
-   libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev 
-   xorg-dev subversion cvs gettext git libpango1.0-dev 
+   sudo aptitude install libpng12-dev zlibc zlib1g-dev libtiff-dev \
+   libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev \
+   xorg-dev subversion cvs gettext git libpango1.0-dev \
    libcairo2-dev;
 </pre>
 <p>and enter your password when prompted.
@@ -28,9 +26,9 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 </p>
 <pre>   su;
    yum update;
-   yum install libpng-devel zlib-devel libtiff-devel giflib-devel 
-   libjpeg-devel libxml2-devel libuninameslist-devel cairo-devel 
-   python-devel cvs git subversion mercurial pango-devel;
+   yum install libpng-devel zlib-devel libtiff-devel giflib-devel \
+   libjpeg-devel libxml2-devel libuninameslist-devel cairo-devel \
+   python-devel cvs git subversion mercurial pango-devel; 
    yum groupinstall x-software-development development-tools;
    exit;
 </pre>
@@ -43,32 +41,19 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
    mkdir src;
    cd src;
 </pre>
-<p>FontForge source code is kept in a "CVS" version control system operated by the SourceForge website. First, login to the SourceForge CVS server; hit the return key to enter a blank password when asked for one. Second, download the FontForge sourcecode:
+<p>FontForge source code is kept in a "git" version control system operated by the GitHub website. To download it, run:
 </p>
-<pre>   cvs -d:pserver:anonymous@fontforge.cvs.sourceforge.net:/cvsroot/fontforge login;
-   cvs -d:pserver:anonymous@fontforge.cvs.sourceforge.net:/cvsroot/fontforge co fontforge;
+<pre>
+  git clone http://github.com/fontforge/fontforge.git;
 </pre>
 <a id="Download_other_sourcecode" name="Download_other_sourcecode"></a><h4> <span class="mw-headline"> Download other sourcecode </span></h4>
 <p>Using the CVS and the Subversion ("SVN") version control programs, download the other source code to enable all of FontForge's features: Freetype2 is a text rendering system used to draw fonts on screen, and libspiro is the Spiro drawing program that is integrated into FontForge.
 </p>
-<pre>   git clone git://git.sv.gnu.org/freetype/freetype2.git;
-   git clone git://git.sv.gnu.org/freetype/freetype2-demos.git;
-   svn co <a title="http://libspiro.svn.sourceforge.net/svnroot/libspiro/" class="external free" href="http://libspiro.svn.sourceforge.net/svnroot/libspiro/">http://libspiro.svn.sourceforge.net/svnroot/libspiro/</a>;
+<pre>
+   git clone git://git.sv.gnu.org/freetype/freetype2.git;
+   svn co http://libspiro.svn.sourceforge.net/svnroot/libspiro/;
 </pre>
-<p>If you live in a country without software-idea patents (such as a European country, but not the USA) you can make a small change to the freetype source code to enable FontForge's hinting features. If you live in a country with software idea patents, to legally use these features you should obtain a TrueType hinting patent license from Apple. Open this file:
-</p>
-<pre>   freetype2/include/freetype/config/ftoption.h
-</pre>
-<p>and change
-</p>
-<pre>   /* #define TT_CONFIG_OPTION_BYTECODE_INTERPRETER */
-</pre>
-<p>to
-</p>
-<pre>   #define TT_CONFIG_OPTION_BYTECODE_INTERPRETER
-</pre>
-<p>then save and close it.
-</p>
+
 <a id="Compile.2C_install_and_run_FontForge" name="Compile.2C_install_and_run_FontForge"></a><h4> <span class="mw-headline"> Compile, install and run FontForge </span></h4>
 <p>These 3 commands change to the libspiro directory, configure and compile the program:
 </p>
@@ -87,9 +72,9 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <p>Now configure, compile and install FontForge:
 </p>
 <pre>   cd ~/src/fontforge/;
-   ./configure --enable-pyextension --enable-type3 --enable-pasteafter 
-   --enable-tilepath --enable-double --enable-device-tables 
-   --with-capslock-for-alt --with-freetype-bytecode 
+   ./configure --enable-pyextension --enable-type3 --enable-pasteafter \
+   --enable-tilepath --enable-double --enable-device-tables \
+   --with-capslock-for-alt --with-freetype-bytecode \
    --with-freetype-src=../freetype2 --with-x --with-pango;
    make;  
    sudo make install;
@@ -109,14 +94,11 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 </p>
 <pre>   cd ~/src/libspiro; make clean; svn up; ./configure; make; sudo make install;
    cd ~/src/freetype2; git pull;
-   cd ~/src/fontforge; sudo make clean; cvs up -Cd;
-   ./configure --enable-pyextension --enable-type3 --enable-pasteafter 
-   --enable-tilepath --with-capslock-for-alt --with-freetype-bytecode 
+   cd ~/src/fontforge; sudo make clean; git pull;
+   ./configure --enable-pyextension --enable-type3 --enable-pasteafter \
+   --enable-tilepath --with-capslock-for-alt --with-freetype-bytecode \
    --with-freetype-src=../freetype2 --with-x;
    make; sudo make install;
 </pre>
 <p><br>
-</p>
-<hr>
-<p>We also publish other information about <a title="FontForge" href="/wiki/FontForge">FontForge</a>, including <a title="How to setup FontForge" href="/wiki/How_to_setup_FontForge">How to setup FontForge</a>.
 </p>
