@@ -15,23 +15,18 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <p>The parts in the light blue boxes are commands that should be typed (copy and pasted) into your "Terminal" program.
 </p><p>When using Debian or Ubuntu:
 </p>
-<pre>   sudo aptitude update;
-   sudo aptitude install libpng12-dev zlibc zlib1g-dev libtiff-dev \
-   libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev 
-   xorg-dev subversion cvs gettext git libpango1.0-dev 
-   libcairo2-dev;
-</pre>
+<pre>sudo aptitude update; sudo aptitude install libpng12-dev zlibc zlib1g-dev libtiff-dev libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev xorg-dev subversion cvs gettext git libpango1.0-dev libcairo2-dev;</pre>
 <p>and enter your password when prompted.
 </p><p>When using Fedora or Red Hat:
 </p>
-<pre>   su;
+<tt>   su;
    yum update;
    yum install libpng-devel zlib-devel libtiff-devel giflib-devel 
    libjpeg-devel libxml2-devel libuninameslist-devel cairo-devel 
    python-devel cvs git subversion mercurial pango-devel; 
    yum groupinstall x-software-development development-tools;
    exit;
-</pre>
+</tt>
 <p>and enter the root password when prompted.
 </p>
 <a id="Download_FontForge_source_code" name="Download_FontForge_source_code"></a><h4> <span class="mw-headline"> Download FontForge source code </span></h4>
@@ -47,7 +42,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
   git clone http://github.com/fontforge/fontforge.git;
 </pre>
 <a id="Download_other_sourcecode" name="Download_other_sourcecode"></a><h4> <span class="mw-headline"> Download other sourcecode </span></h4>
-<p>Using the CVS and the Subversion ("SVN") version control programs, download the other source code to enable all of FontForge's features: Freetype2 is a text rendering system used to draw fonts on screen, and libspiro is the Spiro drawing program that is integrated into FontForge.
+<p>Using the Git and Subversion ("SVN") version control programs, download the other source code to enable all of FontForge's features: Freetype2 is a text rendering system used to draw fonts on screen, and libspiro is the Spiro drawing program that is integrated into FontForge.
 </p>
 <pre>
    git clone git://git.sv.gnu.org/freetype/freetype2.git;
@@ -100,5 +95,3 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
    --with-freetype-src=../freetype2 --with-x;
    make; sudo make install;
 </pre>
-<p><br>
-</p>
