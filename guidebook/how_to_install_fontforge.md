@@ -17,8 +17,8 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 </p>
 <pre>   sudo aptitude update;
    sudo aptitude install libpng12-dev zlibc zlib1g-dev libtiff-dev \
-   libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev \
-   xorg-dev subversion cvs gettext git libpango1.0-dev \
+   libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev 
+   xorg-dev subversion cvs gettext git libpango1.0-dev 
    libcairo2-dev;
 </pre>
 <p>and enter your password when prompted.
@@ -26,8 +26,8 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 </p>
 <pre>   su;
    yum update;
-   yum install libpng-devel zlib-devel libtiff-devel giflib-devel \
-   libjpeg-devel libxml2-devel libuninameslist-devel cairo-devel \
+   yum install libpng-devel zlib-devel libtiff-devel giflib-devel 
+   libjpeg-devel libxml2-devel libuninameslist-devel cairo-devel 
    python-devel cvs git subversion mercurial pango-devel; 
    yum groupinstall x-software-development development-tools;
    exit;
@@ -72,9 +72,9 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <p>Now configure, compile and install FontForge:
 </p>
 <pre>   cd ~/src/fontforge/;
-   ./configure --enable-pyextension --enable-type3 --enable-pasteafter \
-   --enable-tilepath --enable-double --enable-device-tables \
-   --with-capslock-for-alt --with-freetype-bytecode \
+   ./configure --enable-pyextension --enable-type3 --enable-pasteafter 
+   --enable-tilepath --enable-double --enable-device-tables 
+   --with-capslock-for-alt --with-freetype-bytecode 
    --with-freetype-src=../freetype2 --with-x --with-pango;
    make;  
    sudo make install;
@@ -95,8 +95,8 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <pre>   cd ~/src/libspiro; make clean; svn up; ./configure; make; sudo make install;
    cd ~/src/freetype2; git pull;
    cd ~/src/fontforge; sudo make clean; git pull;
-   ./configure --enable-pyextension --enable-type3 --enable-pasteafter \
-   --enable-tilepath --with-capslock-for-alt --with-freetype-bytecode \
+   ./configure --enable-pyextension --enable-type3 --enable-pasteafter 
+   --enable-tilepath --with-capslock-for-alt --with-freetype-bytecode 
    --with-freetype-src=../freetype2 --with-x;
    make; sudo make install;
 </pre>
