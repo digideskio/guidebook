@@ -66,14 +66,13 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 </pre>
 <p>Now configure, compile and install FontForge:
 </p>
-<pre>   cd ~/src/fontforge/;
-   ./configure --enable-pyextension --enable-type3 --enable-pasteafter 
-   --enable-tilepath --enable-double --enable-device-tables 
-   --with-capslock-for-alt --with-freetype-bytecode 
-   --with-freetype-src=../freetype2 --with-x --with-pango;
+<tt>   cd ~/src/fontforge/;
+   ./configure --enable-pyextension --enable-pasteafter 
+   --enable-tilepath --enable-double --with-capslock-for-alt 
+   --with-freetype-bytecode --with-freetype-src=../freetype2 --with-x --with-pango;
    make;  
    sudo make install;
-</pre>
+</tt>
 <p>or
 </p>
 <pre>   su; make install; exit
