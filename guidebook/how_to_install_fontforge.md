@@ -23,7 +23,8 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
    yum update;
    yum install libpng-devel zlib-devel libtiff-devel giflib-devel 
    libjpeg-devel libxml2-devel libuninameslist-devel cairo-devel 
-   python-devel cvs git subversion mercurial pango-devel; 
+   python-devel cvs git subversion mercurial pango-devel 
+   libtool-ltdl-devel; 
    yum groupinstall x-software-development development-tools;
    exit;
 </tt>
@@ -67,9 +68,8 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <p>Now configure, compile and install FontForge:
 </p>
 <tt>   cd ~/src/fontforge/;
-   ./configure --enable-pyextension --enable-pasteafter 
-   --enable-tilepath --enable-double --with-capslock-for-alt 
-   --with-freetype-bytecode --with-freetype-src=../freetype2 --with-x --with-pango;
+    ./autogen.sh;
+    ./configure;
    make;  
    sudo make install;
 </tt>
