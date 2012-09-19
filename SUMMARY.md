@@ -6,6 +6,7 @@
 
 * [How to Translate the Site](guidebook/translation.md)
 * [Submission Guidelines](guidebook/submission_guidelines.md)
+* [Zasady polskiego tłumaczenia (Polish Translation Rules)](guidebook/polish_translation_rules.md)
 * [How To Update a Font](guidebook/how_to_update_a_font.md)
 * [How To Contribute to an Existing Font](guidebook/how_to_contribute_to_an_existing_font.md)
 * [Font Formats](guidebook/font_formats.md)
@@ -28,7 +29,6 @@
 ## Technical
 
 * [Software Resources](guidebook/software.md)
-* [Polish Translation Rules](guidebook/polish_translation_rules.md)
 * [How To Install FontForge](guidebook/how_to_install_fontforge.md)
 * [Font Packaging](guidebook/font_packaging.md)
 * [Font Licensing](guidebook/font_licensing.md)
