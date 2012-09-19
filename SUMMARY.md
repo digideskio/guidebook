@@ -28,6 +28,7 @@
 ## Technical
 
 * [Software Resources](guidebook/software.md)
+* [Polish Translation Rules](guidebook/polish_translation_rules.md)
 * [How To Install FontForge](guidebook/how_to_install_fontforge.md)
 * [Font Packaging](guidebook/font_packaging.md)
 * [Font Licensing](guidebook/font_licensing.md)
