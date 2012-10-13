@@ -1,6 +1,6 @@
 <h1>How To Earn Money</h1>
 
-<p>How can a typeface designer and font developer make a living releasing fonts under the OFL and publishing free information on typeface design?
+<p>Hosw can a typeface designer and font developer make a living releasing fonts under the OFL and publishing free information on typeface design?
 </p>
 <h4> Context </h4>
 <p>The common conversations since Napster about how to pay musicians or writers other artists in the age of computer networks is the same as the issue of how to pay font designers. 
