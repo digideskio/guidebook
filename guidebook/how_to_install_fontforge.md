@@ -93,5 +93,5 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
    ./configure --enable-pyextension --enable-type3 --enable-pasteafter 
    --enable-tilepath --with-capslock-for-alt --with-freetype-bytecode 
    --with-freetype-src=../freetype2 --with-x;
-   make; sudo make install;
+   make; sudo make install; sudo ldconfig;
 </pre>
