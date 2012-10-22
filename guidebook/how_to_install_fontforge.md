@@ -72,10 +72,11 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
     ./configure;
    make;  
    sudo make install;
+   sudo ldconfig;
 </tt>
 <p>or
 </p>
-<pre>   su; make install; exit
+<pre>   su; make install; ldconfig; exit
 </pre>
 <p>(on Fedora, su to become root and then run make install)
 </p><p>Finally, run FontForge:
