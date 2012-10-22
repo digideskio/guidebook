@@ -30,6 +30,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 </tt>
 <p>and enter the root password when prompted.
 </p>
+
 <a id="Download_FontForge_source_code" name="Download_FontForge_source_code"></a><h4> <span class="mw-headline"> Download FontForge source code </span></h4>
 <p>First, use the 'change directory' command "cd" to ensure you are in your 'home directory' ("~"). Then make a "source code" folder with the 'make directory' command "mkdir" to keep things tidy. Then change to that directory.
 </p>
@@ -37,7 +38,10 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
    mkdir src;
    cd src;
 </pre>
-<p>FontForge source code is kept in a "git" version control system operated by the GitHub website. To download it, run:
+
+<p>Typically, you will want to download the most recent source code release from <a href="https://github.com/fontforge/fontforge/downloads">https://github.com/fontforge/fontforge/downloads</a>
+
+<p>If you are developing FontForge, you can download the latest daily source code with the "git" version control system, operated by the GitHub website. To download it, run:
 </p>
 <pre>
   git clone http://github.com/fontforge/fontforge.git;
