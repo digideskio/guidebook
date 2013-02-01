@@ -24,7 +24,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
    yum install libpng-devel zlib-devel libtiff-devel giflib-devel 
    libjpeg-devel libxml2-devel libuninameslist-devel cairo-devel 
    python-devel cvs git subversion mercurial pango-devel 
-   libtool-ltdl-devel; 
+   libtool-ltdl-devel libtool-ltdl; 
    yum groupinstall x-software-development development-tools;
    exit;
 </tt>
