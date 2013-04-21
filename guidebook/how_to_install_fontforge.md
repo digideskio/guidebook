@@ -44,14 +44,14 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <p>If you are developing FontForge, you can download the latest daily source code with the "git" version control system, operated by the GitHub website. To download it, run:
 </p>
 <pre>
-  git clone http://github.com/fontforge/fontforge.git;
+  git clone https://github.com/fontforge/fontforge.git;
 </pre>
 <a id="Download_other_sourcecode" name="Download_other_sourcecode"></a><h4> <span class="mw-headline"> Download other sourcecode </span></h4>
 <p>Using the Git and Subversion ("SVN") version control programs, download the other source code to enable all of FontForge's features: Freetype2 is a text rendering system used to draw fonts on screen, and libspiro is the Spiro drawing program that is integrated into FontForge.
 </p>
 <pre>
    git clone git://git.sv.gnu.org/freetype/freetype2.git;
-   svn co http://libspiro.svn.sourceforge.net/svnroot/libspiro/;
+   git clone https://github.com/fontforge/libspiro.git;
 </pre>
 
 <a id="Compile.2C_install_and_run_FontForge" name="Compile.2C_install_and_run_FontForge"></a><h4> <span class="mw-headline"> Compile, install and run FontForge </span></h4>
