@@ -52,23 +52,42 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <pre>
    git clone git://git.sv.gnu.org/freetype/freetype2.git;
    git clone https://github.com/fontforge/libspiro.git;
+   git clone https://github.com/fontforge/libuninameslist.git;
+   git clone https://github.com/zeromq/libzmq.git;
+   git clone https://github.com/zeromq/czmq.git;
 </pre>
 
 <a id="Compile.2C_install_and_run_FontForge" name="Compile.2C_install_and_run_FontForge"></a><h4> <span class="mw-headline"> Compile, install and run FontForge </span></h4>
-<p>These 3 commands change to the libspiro directory, configure and compile the program:
-</p>
-<pre>   cd ~/src/libspiro;
-   ./configure;
-   make;
-</pre>
-<p>To install programs you compile, you need root access. With some distributions, like Ubuntu, root access is available with the "sudo" command and your own password:
-</p>
-<pre>   sudo make install;
-</pre>
-<p>On other distributions, such as Fedora, that command may not work. If not, root access is available with the "su" command and the root password:
-</p>
-<pre>   su; make install; exit
-</pre>
+<p>These 3 commands change to the libspiro directory, configure and compile the program:</p>
+<pre>   cd ~/src/libspiro; ./configure; make; </pre>
+<p>To install programs you compile, you need root access. With some distributions, like Ubuntu, root access is available with the "sudo" command and your own password:</p>
+<pre>   sudo make install;</pre>
+<p>On other distributions, such as Fedora, that command may not work. If not, root access is available with the "su" command and the root password:</p>
+<pre>   su; make install; exit</pre>
+
+<p>These 3 commands change to the libuninameslist directory, configure and compile the program:</p>
+<pre>   cd ~/src/libuninameslist; ./configure; make; </pre>
+<p>To install programs you compile, you need root access. With some distributions, like Ubuntu, root access is available with the "sudo" command and your own password:</p>
+<pre>   sudo make install;</pre>
+<p>On other distributions, such as Fedora, that command may not work. If not, root access is available with the "su" command and the root password:</p>
+<pre>   su; make install; exit</pre>
+
+<p>These 3 commands change to the libzmq directory, configure and compile the program:</p>
+<pre>   cd ~/src/libzmq; ./autogen.sh; ./configure; make; </pre>
+<p>To install programs you compile, you need root access. With some distributions, like Ubuntu, root access is available with the "sudo" command and your own password:</p>
+<pre>   sudo make install;</pre>
+<p>On other distributions, such as Fedora, that command may not work. If not, root access is available with the "su" command and the root password:</p>
+<pre>   su; make install; exit</pre>
+
+<p>These 3 commands change to the czmq directory, configure and compile the program:</p>
+<pre>   cd ~/src/czmq; ./configure; make; </pre>
+<p>To install programs you compile, you need root access. With some distributions, like Ubuntu, root access is available with the "sudo" command and your own password:</p>
+<pre>   sudo make install;</pre>
+<p>On other distributions, such as Fedora, that command may not work. If not, root access is available with the "su" command and the root password:</p>
+<pre>   su; make install; exit</pre>
+
+
+
 <p>Now configure, compile and install FontForge:
 </p>
 <tt>   cd ~/src/fontforge/;
