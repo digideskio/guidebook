@@ -80,7 +80,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <pre>   su; make install; exit</pre>
 
 <p>These 3 commands change to the czmq directory, configure and compile the program:</p>
-<pre>   cd ~/src/czmq; ./configure; make; </pre>
+<pre>   cd ~/src/czmq; ./autogen.sh; ./configure; make; </pre>
 <p>To install programs you compile, you need root access. With some distributions, like Ubuntu, root access is available with the "sudo" command and your own password:</p>
 <pre>   sudo make install;</pre>
 <p>On other distributions, such as Fedora, that command may not work. If not, root access is available with the "su" command and the root password:</p>
