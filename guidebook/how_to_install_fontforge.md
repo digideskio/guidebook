@@ -15,7 +15,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <p>The parts in the light blue boxes are commands that should be typed (copy and pasted) into your "Terminal" program.
 </p><p>When using Debian or Ubuntu:
 </p>
-<tt>sudo aptitude update; sudo aptitude install autoconf libtool libpng12-dev zlibc zlib1g-dev libtiff-dev libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev xorg-dev subversion cvs gettext git libpango1.0-dev libcairo2-dev python-dev uuid-dev;</tt>
+<tt>sudo aptitude update; sudo aptitude install autoconf libtool libpng12-dev zlibc zlib1g-dev libtiff-dev libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev xorg-dev subversion cvs gettext git libpango1.0-dev libcairo2-dev python-dev uuid-dev  libreadline-dev;</tt>
 <p>and enter your password when prompted.
 </p><p>When using Fedora or Red Hat:
 </p>
@@ -24,7 +24,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
    yum install libpng-devel zlib-devel libtiff-devel giflib-devel 
    libjpeg-devel libxml2-devel libuninameslist-devel cairo-devel 
    python-devel cvs git subversion mercurial pango-devel 
-   libtool-ltdl-devel libtool-ltdl libtool; 
+   libtool-ltdl-devel libtool-ltdl libtool  libreadline-devel; 
    yum groupinstall x-software-development development-tools;
    exit;
 </tt>
