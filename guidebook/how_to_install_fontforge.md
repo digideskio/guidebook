@@ -93,7 +93,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <tt>   cd ~/src/fontforge/;
     ./autogen.sh;
     ./configure;
-   make;  
+   make -j 4 -k;   
    sudo make install;
    sudo ldconfig;
 </tt>
