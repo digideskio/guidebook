@@ -82,7 +82,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 
 <tt>   cd ~/src/fontforge/;
     ./autogen.sh;
-   ./configure --with-freetype-src=../freetype2;
+   ./configure --with-freetype=../freetype2;
    make -j 4 -k;   
    sudo make install;
    sudo ldconfig;
@@ -99,6 +99,6 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <tt>   cd ~/src/libspiro; make clean; svn up; ./configure; make; sudo make install;
    cd ~/src/freetype2; git pull;
    cd ~/src/fontforge; sudo make clean; git pull;
-   ./configure --with-freetype-src=../freetype2;
+   ./configure --with-freetype=../freetype2;
    make -j 4 -k; sudo make install; sudo ldconfig;
 </tt>
