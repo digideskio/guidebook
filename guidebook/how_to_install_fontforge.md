@@ -17,18 +17,18 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 
 <p>When using Debian or Ubuntu:</p>
 
-<tt>sudo aptitude update; sudo aptitude install autoconf libtool libpng12-dev zlibc zlib1g-dev libtiff-dev libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev xorg-dev subversion cvs gettext git libpango1.0-dev libcairo2-dev python-dev uuid-dev  libreadline-dev;</tt>
+<tt>sudo aptitude update; sudo aptitude install -y autoconf libtool libpng12-dev zlibc zlib1g-dev libtiff-dev libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev xorg-dev subversion cvs gettext git libpango1.0-dev libcairo2-dev python-dev uuid-dev  libreadline-dev;</tt>
 
 <p>and enter your password when prompted.</p>
 
 <p>When using Fedora or Red Hat:</p>
 <tt>
    sudo yum update;
-   sudo yum install libpng-devel zlib-devel libtiff-devel giflib-devel 
+   sudo yum install -y libpng-devel zlib-devel libtiff-devel giflib-devel 
    libjpeg-devel libxml2-devel libuninameslist-devel cairo-devel 
    python-devel cvs git subversion mercurial pango-devel 
    libtool-ltdl-devel libtool-ltdl libtool libuuid-devel readline-devel czmq-devel; 
-   sudo yum groupinstall x-software-development development-tools;
+   sudo yum groupinstall -y x-software-development development-tools;
 </tt>
 
 <p>and enter the root password when prompted.</p>
