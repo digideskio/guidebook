@@ -50,7 +50,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 
 <a id="Download_other_sourcecode" name="Download_other_sourcecode"></a><h4> <span class="mw-headline"> Download other sourcecode </span></h4>
 
-<p>Using the Git and Subversion ("SVN") version control programs, download the other source code to enable all of FontForge's features: Freetype2 is a text rendering system used to draw fonts on screen, and libspiro is the Spiro drawing program that is integrated into FontForge.</p>
+<p>Using the Git version control program, download the other source code to enable all of FontForge's features: Freetype2 is a text rendering system used to draw fonts on screen; libspiro is the Spiro drawing program that is integrated into FontForge; libuninameslist is a program for looking up descriptions of unicode characters, and libzmq and czmq are programs required for the new real time collaboration feature.</p>
 
 <tt>
    git clone git://git.sv.gnu.org/freetype/freetype2.git;
@@ -62,23 +62,19 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 
 <a id="Compile.2C_install_and_run_FontForge" name="Compile.2C_install_and_run_FontForge"></a><h4> <span class="mw-headline"> Compile, install and run FontForge </span></h4>
 
-<p>These 3 commands change to the libspiro directory, configure and compile the program:</p>
+<p>These 3 commands change to the libspiro directory, configure, compile and install it:</p>
 
 <pre>   cd ~/src/libspiro; ./configure; make; sudo make install;</pre>
 
-<p>To install programs you compile, you need root access, available with the "sudo" command and your own password:</p>
-
-<tt>sudo make install;</tt>
-
-<p>These 3 commands change to the libuninameslist directory, configure and compile the program:</p>
+<p>These 3 commands change to the libuninameslist directory, configure, compile and install it:</p>
 
 <pre>   cd ~/src/libuninameslist; ./configure; make; sudo make install;</pre>
 
-<p>These 3 commands change to the libzmq directory, configure and compile the program:</p>
+<p>These 3 commands change to the libzmq directory, configure, compile and install it:</p>
 
 <pre>   cd ~/src/libzmq; ./autogen.sh; ./configure; make; sudo make install;</pre>
 
-<p>These 3 commands change to the czmq directory, configure and compile the program:</p>
+<p>These 3 commands change to the czmq directory, configure, compile and install it:</p>
 
 <pre>   cd ~/src/czmq; ./autogen.sh; ./configure; make; sudo make install;</pre>
 
