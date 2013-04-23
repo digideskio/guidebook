@@ -33,7 +33,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 
 <p>and enter the root password when prompted.</p>
 
-<a id="Download_FontForge_source_code" name="Download_FontForge_source_code"></a><h4> <span class="mw-headline"> Download FontForge source code </span></h4>
+<a id="Download_FontForge_dependencies" name="Download_FontForge_dependencies"></a><h4> <span class="mw-headline"> Download FontForge Dependencies </span></h4>
 
 <p>First, use the 'change directory' command "cd" to ensure you are in your 'home directory' ("~"). Then make a "source code" folder with the 'make directory' command "mkdir" to keep things tidy. Then change to that directory.</p>
 
@@ -41,14 +41,6 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
    mkdir src;
    cd src;
 </tt>
-
-<p>Typically, you will want to download the most recent source code release from <a href="https://github.com/fontforge/fontforge/downloads">https://github.com/fontforge/fontforge/downloads</a></p>
-
-<p>If you are developing FontForge, you can download the latest daily source code with the "git" version control system, operated by the GitHub website. To download it, run:</p>
-
-<tt>git clone https://github.com/fontforge/fontforge.git;</tt>
-
-<a id="Download_other_sourcecode" name="Download_other_sourcecode"></a><h4> <span class="mw-headline"> Download other sourcecode </span></h4>
 
 <p>Using the Git version control program, download the other source code to enable all of FontForge's features: Freetype2 is a text rendering system used to draw fonts on screen; libspiro is the Spiro drawing program that is integrated into FontForge; libuninameslist is a program for looking up descriptions of unicode characters, and libzmq and czmq are programs required for the new real time collaboration feature.</p>
 
@@ -77,6 +69,12 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <p>These 3 commands change to the czmq directory, configure, compile and install it:</p>
 
 <pre>   cd ~/src/czmq; ./autogen.sh; ./configure; make -j 4 -k; sudo make install;</pre>
+
+<a id="Download_FontForge_source_code" name="Download_FontForge_source_code"></a><h4> <span class="mw-headline"> Download FontForge source code </span></h4>
+
+<p>Typically, you will want to download the latest daily source code, with the "git" version control system, hosted by the GitHub website. To do this, run:</p>
+
+<tt>cd ~/src/; git clone https://github.com/fontforge/fontforge.git;</tt>
 
 <p>Now configure, compile and install FontForge:</p>
 
