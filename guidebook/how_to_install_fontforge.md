@@ -64,19 +64,19 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 
 <p>These 3 commands change to the libspiro directory, configure, compile and install it:</p>
 
-<pre>   cd ~/src/libspiro; ./configure; make; sudo make install;</pre>
+<pre>   cd ~/src/libspiro; ./configure; make -j 4 -k; sudo make install;</pre>
 
 <p>These 3 commands change to the libuninameslist directory, configure, compile and install it:</p>
 
-<pre>   cd ~/src/libuninameslist; ./configure; make; sudo make install;</pre>
+<pre>   cd ~/src/libuninameslist; ./configure; make -j 4 -k; sudo make install;</pre>
 
 <p>These 3 commands change to the libzmq directory, configure, compile and install it:</p>
 
-<pre>   cd ~/src/libzmq; ./autogen.sh; ./configure; make; sudo make install;</pre>
+<pre>   cd ~/src/libzmq; ./autogen.sh; ./configure; make -j 4 -k; sudo make install;</pre>
 
 <p>These 3 commands change to the czmq directory, configure, compile and install it:</p>
 
-<pre>   cd ~/src/czmq; ./autogen.sh; ./configure; make; sudo make install;</pre>
+<pre>   cd ~/src/czmq; ./autogen.sh; ./configure; make -j 4 -k; sudo make install;</pre>
 
 <p>Now configure, compile and install FontForge:</p>
 
