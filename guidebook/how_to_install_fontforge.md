@@ -33,7 +33,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 
 <p>and enter the root password when prompted.</p>
 
-<a id="Download_FontForge_dependencies" name="Download_FontForge_dependencies"></a><h4> <span class="mw-headline"> Download FontForge Dependencies </span></h4>
+<a id="Download_FontForge_dependencies" name="Download_FontForge_dependencies"></a><h4> <span class="mw-headline"> Download, Compile and Install FontForge Dependencies </span></h4>
 
 <p>First, use the 'change directory' command "cd" to ensure you are in your 'home directory' ("~"). Then make a "source code" folder with the 'make directory' command "mkdir" to keep things tidy. Then change to that directory.</p>
 
@@ -51,8 +51,6 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
    git clone https://github.com/zeromq/libzmq.git;
    git clone https://github.com/zeromq/czmq.git;
 </tt>
-
-<a id="Compile.2C_install_and_run_FontForge" name="Compile.2C_install_and_run_FontForge"></a><h4> <span class="mw-headline"> Compile, install and run FontForge </span></h4>
 
 <p>These 3 commands change to the libspiro directory, configure, compile and install it:</p>
 
@@ -75,6 +73,8 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <p>Typically, you will want to download the latest daily source code, with the "git" version control system, hosted by the GitHub website. To do this, run:</p>
 
 <tt>cd ~/src/; git clone https://github.com/fontforge/fontforge.git;</tt>
+
+<a id="Compile.2C_install_and_run_FontForge" name="Compile.2C_install_and_run_FontForge"></a><h4> <span class="mw-headline"> Compile, install and run FontForge </span></h4>
 
 <p>Now configure, compile and install FontForge:</p>
 
