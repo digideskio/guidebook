@@ -17,7 +17,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 
 <p>When using Debian or Ubuntu:</p>
 
-<tt>sudo aptitude update; sudo aptitude install -y autoconf libtool libpng12-dev zlibc zlib1g-dev libtiff-dev libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev xorg-dev subversion cvs gettext git libpango1.0-dev libcairo2-dev python-dev uuid-dev  libreadline-dev;</tt>
+<tt>sudo apt-get update; sudo apt-get install -y autoconf libtool libpng12-dev zlibc zlib1g-dev libtiff-dev libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev xorg-dev subversion cvs gettext git libpango1.0-dev libcairo2-dev python-dev uuid-dev  libreadline-dev;</tt>
 
 <p>and enter your password when prompted.</p>
 
