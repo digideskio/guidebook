@@ -17,7 +17,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 
 <p>When using Debian or Ubuntu:</p>
 
-<tt>sudo apt-get update; sudo apt-get install -y autoconf libtool libpng12-dev zlibc zlib1g-dev libtiff-dev libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev xorg-dev subversion cvs gettext git libpango1.0-dev libcairo2-dev python-dev uuid-dev  libreadline-dev;</tt>
+<tt>sudo apt-get update; sudo apt-get install -y autoconf libtool libpng12-dev zlibc zlib1g-dev libtiff-dev libungif4-dev libjpeg-dev libxml2-dev libuninameslist-dev xorg-dev subversion cvs gettext git libpango1.0-dev libcairo2-dev python-dev uuid-dev  libreadline-dev libltdl-dev;</tt>
 
 <p>and enter your password when prompted.</p>
 
@@ -54,7 +54,14 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 
 <p>These 3 commands change to the libspiro directory, configure, compile and install it:</p>
 
-<pre>   cd ~/src/libspiro; ./configure; make -j 4 -k; sudo make install;</pre>
+<pre>
+autoreconf -i; # you might be able to try autoconf
+automake;
+./configure;
+make -j 4 -k;
+make check;
+sudo make install;
+</pre>
 
 <p>These 3 commands change to the libuninameslist directory, configure, compile and install it:</p>
 
