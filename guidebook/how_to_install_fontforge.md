@@ -86,7 +86,7 @@ sudo make install;
 <p>Now configure, compile and install FontForge:</p>
 
 <tt>   cd ~/src/fontforge/;
-    ./autogen.sh;
+    ./bootstrap;
    ./configure --with-freetype=../freetype2;
    make -j 4 -k;   
    sudo make install;
@@ -103,7 +103,7 @@ sudo make install;
 </p>
 <tt>   cd ~/src/libspiro; make clean; svn up; ./configure; make; sudo make install;
    cd ~/src/freetype2; git pull;
-   cd ~/src/fontforge; sudo make clean; git pull;
-   ./configure --with-freetype=../freetype2;
+   cd ~/src/fontforge; git reset --hard; git pull;
+   ./bootstrap; ./configure --with-freetype=../freetype2;
    make -j 4 -k; sudo make install; sudo ldconfig;
 </tt>
