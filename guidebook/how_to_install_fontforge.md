@@ -13,7 +13,7 @@ Please see this guide on how to <a href="http://www.pixilate.com/about/installin
 <h4> GNU/Linux </h4>
 <a id="Install_the_required_programs" name="Install_the_required_programs"></a><h4> <span class="mw-headline"> Install the required programs </span></h4>
 
-<p>The parts in the light blue boxes are commands that should be typed (copy and pasted) into your "Terminal" program.</p>
+<p>The parts in the smaller text are commands that should be typed (copy and pasted) into your "Terminal" program.</p>
 
 <p>When using Debian or Ubuntu:</p>
 
