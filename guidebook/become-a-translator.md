@@ -10,7 +10,7 @@
 
 <h4>Email Us</h4>
 
-<p>Send over an <a href="mailto:everyone@openfontlibrary.org">Email request</a> telling us your interest in upgrading your account to Translator. (Make sure to include your OFLB username in your message.) Once we have you set up we'll write you asap.</p>
+<p>Send over an email to <a href="mailto:support@openfontlibrary.org">support@openfontlibrary.org</a> telling us your interest in upgrading your account to Translator. (Make sure to include your OFLB username in your message.) Once we have you set up we'll write you asap.</p>
 
 <h4>Start Translating</h4>
 
