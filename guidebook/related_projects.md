@@ -24,7 +24,5 @@ The <a title="http://www.typestudent.org" class="external text" href="http://www
 <h4> Others </h4>
 <p>
 The <a title="http://www.typeculture.com/academic_resource/" class="external text" href="http://www.typeculture.com/academic_resource/">TypeCulture Academic Resources</a> provide educational information on typeface design
-The <a title="http://decodeunicode.org" class="external text" href="http://decodeunicode.org">DecodeUnicode</a> project is under some CC license and does something with Unicode. Please write a nice summary here!
-The <a title="http://wiki.laptop.org/go/Software_Ideas_-_System_Software#Font_technology" class="external text" href="http://wiki.laptop.org/go/Software_Ideas_-_System_Software#Font_technology">OLPC needs free software fonts!</a>
-<a title="http://fontly.com/" class="external text" href="http://fontly.com/">Fontly</a> will becomes a web-based typeface design application
+The <a title="http://decodeunicode.org" class="external text" href="http://decodeunicode.org">DecodeUnicode</a> project is under some CC license and does something with Unicode. 
 </p>
