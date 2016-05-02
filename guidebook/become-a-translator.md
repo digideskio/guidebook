@@ -4,7 +4,7 @@
 
 <p>OFLB needs your help!  We have created a tool set that will allow registered members to help internationalize the site. We're ready to pull back the curtain and invite you to join in the effort, so if you'd like to become a translator, here's how.</p>
 
-<h4>Sign up for Open Font Library</h4>
+<h4>Sign up for Font Library</h4>
 
 <p><a href="/up">Register an account</a> (if you haven't already).</p>
 
