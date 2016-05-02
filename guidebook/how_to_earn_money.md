@@ -96,7 +96,6 @@ versus Community' speeches; a video of one he gave at <a title="http://www.rave.
 </p>
 <h4> Examples </h4>
 <p><a title="Victor Gaultney" href="/wiki/Victor_Gaultney">Victor Gaultney</a> is a typeface designer paid full-time to create libre/open fonts by <a title="http://www.sil.org" class="external text" href="http://www.sil.org">SIL</a>.
-</p><p><a class="mw-redirect" title="Jon Phillips" href="/wiki/Jon_Phillips">Jon Phillips</a> is an academic tutor in San Francisco who also does another job (at Creative Commons).
 </p><p><a title="Dave Crossland" href="/wiki/Dave_Crossland">Dave Crossland</a> is currently working another job, and studying a Masters degree in typeface design, part time. In the future he'll try entrepreneurship, private hire, or a job with a Free Software company. 
 </p><p><a class="mw-redirect" title="Raph Levien" href="/wiki/Raph_Levien">Raph Levien</a> is currently working another job.
 </p>
