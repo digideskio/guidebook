@@ -1,7 +1,7 @@
 <h1>Collaborative Design Workflows</h1>
 
 <p>You can call a typeface a work of art, a design, or a computer program: all these denominers make sense. What these three things have in common is that they are systems of signs, wherein every part is dependent on every other part.
-</p><p>This makes the possibillity of collaboration inevident; to have such a system to be contained within one creative mind seems to be the most logical approach, as it assures a coherent approach to the different levels of structure within such a project.
+</p><p>This makes the possibility of collaboration inevident; to have such a system to be contained within one creative mind seems to be the most logical approach, as it assures a coherent approach to the different levels of structure within such a project.
 </p><p>However, many art and design projects just don’t fit into one mind only. Even though a movie can be said to express the vision of its director, it is also the result of the collaboration between the director and a thousand other people, whose talents have all in one way or the other contributed to the end result.
 </p><p>Similarly, many visual artists now work as producers, assembling teams and acquiring skills as required by the subject matter at hand.
 </p><p>And with computer programs, of course, collaboration has been evident ever since they were written, as they were conceived in the sphere of Science.
@@ -48,5 +48,5 @@ Centralised
 </p><p><a title="http://sourceforge.net/projects/fonttools/" class="external text" href="http://sourceforge.net/projects/fonttools/">TTX</a> is a tool to convert OpenType and TrueType fonts to and from XML. FontTools is a library for manipulating fonts, written in Python. It supports TrueType, OpenType, AFM and to an extent Type 1 and some Mac-specific formats.
 </p><p><a title="http://robofab.org/" class="external text" href="http://robofab.org/">RoboFab</a> is a Python library with objects that deal with data usually associated with fonts and type design. It writes and reads UFOs. There is an <a title="http://www.lowest-common-denominator.com/2007/03/svn_helper_script_for_robobab.php" class="external text" href="http://www.lowest-common-denominator.com/2007/03/svn_helper_script_for_robobab.php">SVN helper script for Robofab</a> by Brook Elgie
 </p><p><a title="http://meld.sourceforge.net" class="external text" href="http://meld.sourceforge.net">Meld</a> is a visual diff and merge tool. 
-</p><p>How do you programmaticaly go from a UFO or SFD to OTF files? FontForge's python makes this simple, and Dave Crossland published a simple <a title="http://article.gmane.org/gmane.comp.freedesktop.fonts/1741" class="external text" href="http://article.gmane.org/gmane.comp.freedesktop.fonts/1741">conversion script</a> on the OFLB mailing linst.
+</p><p>How do you programmaticaly go from a UFO or SFD to OTF files? FontForge's python makes this simple, and Dave Crossland published a simple <a title="http://article.gmane.org/gmane.comp.freedesktop.fonts/1741" class="external text" href="http://article.gmane.org/gmane.comp.freedesktop.fonts/1741">conversion script</a> on the Font Library mailing linst.
 </p>
