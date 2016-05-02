@@ -2,7 +2,7 @@
 
 <h4>Are you fluent in a language other than English?</h4>
 
-<p>OFLB needs your help!  We have created a tool set that will allow registered members to help internationalize the site. We're ready to pull back the curtain and invite you to join in the effort, so if you'd like to become a translator, here's how.</p>
+<p>Font Library needs your help!  We have created a tool set that will allow registered members to help internationalize the site. We're ready to pull back the curtain and invite you to join in the effort, so if you'd like to become a translator, here's how.</p>
 
 <h4>Sign up for Font Library</h4>
 
@@ -10,7 +10,7 @@
 
 <h4>Email Us</h4>
 
-<p>Send over an email to <a href="mailto:support@openfontlibrary.org">support@openfontlibrary.org</a> telling us your interest in upgrading your account to Translator. (Make sure to include your OFLB username in your message.) Once we have you set up we'll write you asap.</p>
+<p>Send over an email to <a href="mailto:support@fontlibrary.org">support@fontlibrary.org</a> telling us your interest in upgrading your account to Translator. (Make sure to include your OFLB username in your message.) Once we have you set up we'll write you asap.</p>
 
 <h4>Start Translating</h4>
 
