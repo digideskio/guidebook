@@ -16,6 +16,6 @@ decide on the <a title="License" href="http://openfontlibrary.org/en/guidebook/f
 <ul><li> you hold the copyright for (usually because you designed them), or
 </li><li> are licensed to you under a free software license, such as the Open Font License.
 </li></ul>
-<p>The Open Font Library stores your uploaded files in a font family. The family keeps related font files together for ease of reference. For example, it could contain the regular, bold and italic variants, or it could contain a regular and a distorted variant. To give visitors easy access, it is best to add all the variants into one font family.
+<p>The Font Library stores your uploaded files in a font family. The family keeps related font files together for ease of reference. For example, it could contain the regular, bold and italic variants, or it could contain a regular and a distorted variant. To give visitors easy access, it is best to add all the variants into one font family.
 </p><p>You can add the license to each font file itself easily with FontForge. We recommend including as much font metadata inside your font files as possible.
 </p>
