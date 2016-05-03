@@ -1,6 +1,7 @@
 <h1>Existing Libre/Open Fonts</h1>
 
-<h3>This list of fonts could be used as a guide for working with creators and or as a list to bring into Font Library. Interested in joining the effort? <a href="mailto:support@fontlibrary.org">support@fontlibrary.org</a></h3>
+<br /><br />
+<h4>This list of fonts could be used as a guide for working with creators and or as a list to bring into Font Library. Interested in joining the effort? <a href="mailto:support@fontlibrary.org">support@fontlibrary.org</a></h4>
 
 <h4> Libre/Open Fonts </h4>
 <p>Please link to any existing Libre/Open Fonts you may find on the web - they can be under any license as long as its a free software license like the OFL, GPL with exception or MIT/X11/Expat! 
