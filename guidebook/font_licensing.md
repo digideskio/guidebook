@@ -7,7 +7,7 @@
 <p>To license fonts under the OFL, we suggest reading its <a title="http://scripts.sil.org/OFL-FAQ_web" class="external text" href="http://scripts.sil.org/OFL-FAQ_web">FAQ</a> and following the instructions. The same goes for the <a title="Sharing Agreement" href="http://sharism.org/agreement">Sharing Agreement</a>
 </p>
 <p>Since March 2007, <a title="http://fontforge.sf.net" class="external text" href="http://fontforge.sf.net">FontForge</a> has a feature to help include the license in the font file itself. Go to the Element menu, select Font Info, then TTF Names, and click the OFL button. Then edit the license header with your details. 
-</p><p>To submit fonts to this site, sign up for an account and follow the instructions, or configure FontForge appropriately.
+</p><p>To submit fonts to this site, sign up forOpen F an account and follow the instructions, or configure FontForge appropriately.
 </p>
 <h4> The Different Kinds of Free Fonts </h4>
 <p><i>If you are unsure what a Free Font <b>is</b>, please refer to the <a class="mw-redirect" title="Free Fonts" href="/guidebook/libre_open_fonts">Free Fonts</a> page.</i>
@@ -34,7 +34,7 @@
 </p><p>However, the law does not operate in the way normal people expect, which is why lawyers train for years to truly understand the way the law works. It does not follow the common sense expectations of the man on the street. 
 </p><p>Dedicating a work to the public domain before its copyright term has expired may seem like common sense. But it has no legal basis according to <a title="http://linuxmafia.com/faq/Licensing_and_Law/public-domain.html" class="external text" href="http://linuxmafia.com/faq/Licensing_and_Law/public-domain.html">Rick Moen</a> because it has not actually been tested in a USA court. 
 </p><p>Given that, and since it is impossible for any digital fonts to have expired copyright terms, there are no public domain fonts.
-</p><p>For this and other reasons, fonts included in the Open Font Library must be relicensed under the <a title="Open Font License" href="/wiki/Open_Font_License">Open Font License</a>.
+</p><p>For this and other reasons, fonts included in the Font Library must be relicensed under the <a title="Open Font License" href="/wiki/Open_Font_License">Open Font License</a>.
 </p>
 <a id="Are_all_fonts_in_the_Public_Domain.3F" name="Are_all_fonts_in_the_Public_Domain.3F"></a><h4> <span class="mw-headline"> Are all fonts in the Public Domain? </span></h4>
 <p>A quirk in USA copyright law - which is not shared in other countries, like european ones - that typeface designs are not copyrightable. This is because the alphabet was considered an inalienable part of the public domain when the legislation was drafted all those years ago. This used to be a problem/boon for established/new type foundries, until a court ruled that with digital manifestations of typeface designs - fonts - were subject to copyright. So if you redraw the digital outlines of a typeface design from scratch, in the USA, you are legally cool - though bound to be unpopular with established type foundries.
