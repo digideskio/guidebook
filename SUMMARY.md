@@ -11,6 +11,7 @@
 * [How To Contribute to an Existing Font](guidebook/how_to_contribute_to_an_existing_font.md)
 * [Font Formats](guidebook/font_formats.md)
 * [Font Design](guidebook/font_design.md)
+* [Supported Licenses](guidebook/supported_licenses.md)
 * [Become a Translator](guidebook/become-a-translator.md)
 
 
