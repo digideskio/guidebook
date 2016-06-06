@@ -5,7 +5,7 @@
 
 <p>The Contribute category offers everything you will need to know to get involved in Open Font Library. As far as designing fonts this includes: how to actually <a href="/guidebook/font_design">design a font</a>, what <a href="/guidebook/font_formats">formats</a> and <a href="/guidebook/supported_licenses">licenses are supported</a>, and how to <a href="/guidebook/submission_guidelines"> submit</a> and <a href="/guidebook/how_to_update_a_font">update</a> them when finished.
 <p>
-But if designing isn't your thing,  you can always help out by <a href="/guidebook/become-a-translator">becoming a translator</a>..
+But if designing isn't your thing,  you can always help out by <a href="/guidebook/become-a-translator">becoming a translator</a>.
 <p>
 The Information section provides useful information for brushing up on general font knowledge. This includes <a href="/guidebook/book_recommendations">book recommendations</a>, <a href="/guidebook/knowledge_resources">knowledge resources</a>, and an explanation of what in the world <a href="/guidebook/libre_open_fonts">free/open fonts</a> actually are.
 
