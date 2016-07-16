@@ -1,5 +1,7 @@
 <h1>Supported Licenses</h1>
 
+<p>We support the free use of fonts for any reason, even commercially. Below is a partial list of licenses that are supported on our site towards this goal, that might change at any time. We support people first, before licenses. If there is any question, please email support@fontlibrary.org</p>
+
 <ul>
 
 <li><a href="http://pages.cs.wisc.edu/~ghost/doc/AFPL/6.01/Public.htm">Aladdin Free Public License</a>
